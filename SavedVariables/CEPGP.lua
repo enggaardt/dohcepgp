@@ -410,7 +410,7 @@ RECORDS = {
 		["Mydepression-PyrewoodVillage"] = "3,1",
 		["Xels-PyrewoodVillage"] = "3,1",
 		["Powersurge-PyrewoodVillage"] = "3,1",
-		["Maw-PyrewoodVillage"] = "3,1",
+		["Bitsnbytes-PyrewoodVillage"] = "3,1",
 		["Rødcecil-PyrewoodVillage"] = "3,1",
 		["Nutanix-PyrewoodVillage"] = "3,1",
 		["Pistvæk-PyrewoodVillage"] = "3,1",
@@ -424,10 +424,10 @@ RECORDS = {
 		["Warto-PyrewoodVillage"] = "3,1",
 		["Healson-PyrewoodVillage"] = "3,1",
 		["Buffbuffpass-PyrewoodVillage"] = "3,1",
-		["Pepsimage-PyrewoodVillage"] = "3,1",
-		["Ulfhednir-PyrewoodVillage"] = "3,1",
 		["Anjun-PyrewoodVillage"] = "3,1",
-		["Dronos-PyrewoodVillage"] = "3,1",
+		["Ulfhednir-PyrewoodVillage"] = "3,1",
+		["Pepsimage-PyrewoodVillage"] = "3,1",
+		["Blackmace-PyrewoodVillage"] = "3,1",
 		["Kraftværk-PyrewoodVillage"] = "3,1",
 		["Pampers-PyrewoodVillage"] = "3,1",
 		["Ðelais-PyrewoodVillage"] = "3,1",
@@ -437,7 +437,7 @@ RECORDS = {
 		["Frons-PyrewoodVillage"] = "3,1",
 		["Gabehorn-PyrewoodVillage"] = "3,1",
 		["Føroyingur-PyrewoodVillage"] = "3,1",
-		["Ðíor-PyrewoodVillage"] = "3,1",
+		["Nefrin-PyrewoodVillage"] = "3,1",
 		["Emeles-PyrewoodVillage"] = "3,1",
 		["Sezzo-PyrewoodVillage"] = "3,1",
 		["Fewrick-PyrewoodVillage"] = "3,1",
@@ -447,48 +447,48 @@ RECORDS = {
 		["Evelyen-PyrewoodVillage"] = "3,1",
 		["Evilwan-PyrewoodVillage"] = "3,1",
 		["Zeti-PyrewoodVillage"] = "3,1",
-		["Aimar-PyrewoodVillage"] = "3,1",
+		["Metalgeden-PyrewoodVillage"] = "3,1",
 		["Maduki-PyrewoodVillage"] = "3,1",
 		["Mizzdot-PyrewoodVillage"] = "3,1",
-		["Lylalia-PyrewoodVillage"] = "3,1",
+		["Matrïx-PyrewoodVillage"] = "3,1",
 		["Zacur-PyrewoodVillage"] = "3,1",
 		["Pepsipriest-PyrewoodVillage"] = "3,1",
 		["Matidkl-PyrewoodVillage"] = "3,1",
 		["Culire-PyrewoodVillage"] = "3,1",
 		["Softball-PyrewoodVillage"] = "3,1",
 		["Amarith-PyrewoodVillage"] = "3,1",
-		["Jenya-PyrewoodVillage"] = "3,1",
-		["Buario-PyrewoodVillage"] = "3,1",
+		["Castias-PyrewoodVillage"] = "3,1",
+		["Fionaa-PyrewoodVillage"] = "3,1",
 		["Hotpop-PyrewoodVillage"] = "3,1",
 		["Smækøl-PyrewoodVillage"] = "3,1",
 		["Ilia-PyrewoodVillage"] = "12,1",
-		["Aldebaren-PyrewoodVillage"] = "8,1",
+		["Luziana-PyrewoodVillage"] = "3,1",
 		["Kartoffel-PyrewoodVillage"] = "3,1",
-		["Castias-PyrewoodVillage"] = "3,1",
+		["Jenya-PyrewoodVillage"] = "3,1",
 		["Eleanorr-PyrewoodVillage"] = "3,1",
 		["Smallshak-PyrewoodVillage"] = "3,1",
 		["Sphynz-PyrewoodVillage"] = "3,1",
-		["Tourment-PyrewoodVillage"] = "3,1",
-		["Lupna-PyrewoodVillage"] = "3,1",
 		["Sinsin-PyrewoodVillage"] = "3,1",
 		["Quasimodo-PyrewoodVillage"] = "3,1",
-		["Runnerfox-PyrewoodVillage"] = "3,1",
-		["Dohbank-PyrewoodVillage"] = "3,1",
+		["Tourment-PyrewoodVillage"] = "3,1",
+		["Lupna-PyrewoodVillage"] = "3,1",
 		["Mikela-PyrewoodVillage"] = "3,1",
+		["Dohbank-PyrewoodVillage"] = "3,1",
+		["Runnerfox-PyrewoodVillage"] = "3,1",
 		["Dehli-PyrewoodVillage"] = "3,1",
 		["Xaqbank-PyrewoodVillage"] = "3,1",
 		["Landcarver-PyrewoodVillage"] = "3,1",
-		["Luziana-PyrewoodVillage"] = "3,1",
+		["Aldebaren-PyrewoodVillage"] = "8,1",
 		["Bettemusen-PyrewoodVillage"] = "3,1",
-		["Fionaa-PyrewoodVillage"] = "3,1",
+		["Buario-PyrewoodVillage"] = "3,1",
 		["Drifter-PyrewoodVillage"] = "3,1",
-		["Matrïx-PyrewoodVillage"] = "3,1",
+		["Lylalia-PyrewoodVillage"] = "3,1",
 		["Shèera-PyrewoodVillage"] = "3,1",
-		["Metalgeden-PyrewoodVillage"] = "3,1",
+		["Aimar-PyrewoodVillage"] = "3,1",
 		["Ðxiar-PyrewoodVillage"] = "3,1",
 		["Bootes-PyrewoodVillage"] = "3,1",
 		["Crille-PyrewoodVillage"] = "3,1",
-		["Nefrin-PyrewoodVillage"] = "3,1",
+		["Ðíor-PyrewoodVillage"] = "3,1",
 		["Luskebuksen-PyrewoodVillage"] = "3,1",
 		["Wátchmedot-PyrewoodVillage"] = "3,1",
 		["Champignac-PyrewoodVillage"] = "3,1",
@@ -497,7 +497,7 @@ RECORDS = {
 		["Snitc-PyrewoodVillage"] = "3,1",
 		["Caqaz-PyrewoodVillage"] = "3,1",
 		["Spheriluck-PyrewoodVillage"] = "3,1",
-		["Blackmace-PyrewoodVillage"] = "3,1",
+		["Dronos-PyrewoodVillage"] = "3,1",
 		["Ris-PyrewoodVillage"] = "3,1",
 		["Zleip-PyrewoodVillage"] = "3,1",
 		["Pepsiper-PyrewoodVillage"] = "3,1",
@@ -505,7 +505,7 @@ RECORDS = {
 		["Bossow-PyrewoodVillage"] = "3,1",
 		["Wízzy-PyrewoodVillage"] = "3,1",
 		["Zacke-PyrewoodVillage"] = "3,1",
-		["Bitsnbytes-PyrewoodVillage"] = "3,1",
+		["Maw-PyrewoodVillage"] = "3,1",
 		["Castial-PyrewoodVillage"] = "3,1",
 		["Boneshoot-PyrewoodVillage"] = "3,1",
 		["Villemoes-PyrewoodVillage"] = "3,1",
@@ -762,8 +762,8 @@ RECORDS = {
 		["Animatuz-PyrewoodVillage"] = "2,1",
 		["Frejjaa-PyrewoodVillage"] = "",
 		["Pampers-PyrewoodVillage"] = "2,1",
-		["Xplord-PyrewoodVillage"] = "2,1",
 		["Azborg-PyrewoodVillage"] = "2,1",
+		["Xplord-PyrewoodVillage"] = "2,1",
 		["Smallshak-PyrewoodVillage"] = "2,1",
 		["Migma-PyrewoodVillage"] = "2,1",
 		["Fumblefinger-PyrewoodVillage"] = "2,1",
@@ -783,39 +783,39 @@ RECORDS = {
 		["Fresse-PyrewoodVillage"] = "",
 		["Palidine-PyrewoodVillage"] = "",
 		["Gile-PyrewoodVillage"] = "2,1",
-		["Kraftværk-PyrewoodVillage"] = "2,1",
+		["Ulfhednir-PyrewoodVillage"] = "2,1",
 		["Culire-PyrewoodVillage"] = "2,1",
 		["Buffbuffpass-PyrewoodVillage"] = "2,1",
 		["Pepsipriest-PyrewoodVillage"] = "2,1",
-		["Ulfhednir-PyrewoodVillage"] = "2,1",
+		["Kraftværk-PyrewoodVillage"] = "2,1",
 		["Anjun-PyrewoodVillage"] = "2,1",
-		["Blackmace-PyrewoodVillage"] = "2,1",
+		["Dronos-PyrewoodVillage"] = "2,1",
 		["Thymüs-PyrewoodVillage"] = "",
 		["Lylalia-PyrewoodVillage"] = "2,1",
 		["Betonlone-PyrewoodVillage"] = "0,1",
 		["Xeih-PyrewoodVillage"] = "",
-		["Evilwan-PyrewoodVillage"] = "2,1",
+		["Dohbank-PyrewoodVillage"] = "2,1",
 		["Metalgeden-PyrewoodVillage"] = "2,1",
 		["Pizzamix-PyrewoodVillage"] = "",
-		["Dohbank-PyrewoodVillage"] = "2,1",
-		["Aeih-PyrewoodVillage"] = "",
-		["Ðíor-PyrewoodVillage"] = "2,1",
-		["Emeles-PyrewoodVillage"] = "2,1",
 		["Crille-PyrewoodVillage"] = "2,1",
-		["Oldmanarnold-PyrewoodVillage"] = "",
+		["Aeih-PyrewoodVillage"] = "",
+		["Nefrin-PyrewoodVillage"] = "2,1",
+		["Emeles-PyrewoodVillage"] = "2,1",
+		["Sezzo-PyrewoodVillage"] = "2,1",
 		["Ðrixy-PyrewoodVillage"] = "2,1",
+		["Oldmanarnold-PyrewoodVillage"] = "",
 		["Ragerider-PyrewoodVillage"] = "2,1",
 		["Zern-PyrewoodVillage"] = "",
 		["Mydepression-PyrewoodVillage"] = "2,1",
-		["Sezzo-PyrewoodVillage"] = "2,1",
+		["Evilwan-PyrewoodVillage"] = "2,1",
 		["Minìmuh-PyrewoodVillage"] = "",
 		["Aimar-PyrewoodVillage"] = "2,1",
-		["Nefrin-PyrewoodVillage"] = "2,1",
+		["Ðíor-PyrewoodVillage"] = "2,1",
 		["Mizzdot-PyrewoodVillage"] = "0,1",
 		["Matrïx-PyrewoodVillage"] = "2,1",
 		["Zacur-PyrewoodVillage"] = "2,1",
 		["Ikkehende-PyrewoodVillage"] = "0,1",
-		["Dronos-PyrewoodVillage"] = "2,1",
+		["Blackmace-PyrewoodVillage"] = "2,1",
 		["Pepsimage-PyrewoodVillage"] = "2,1",
 		["Softball-PyrewoodVillage"] = "2,1",
 		["Barkey-PyrewoodVillage"] = "36,53",
@@ -884,285 +884,104 @@ OVERRIDE_INDEX = {
 }
 TRAFFIC = {
 	{
-		"Achernar", -- [1]
-		"Aldebaren", -- [2]
-		"Add EP +10 (test)", -- [3]
-		0, -- [4]
-		10, -- [5]
-		1, -- [6]
-		1, -- [7]
+		"Raid", -- [1]
+		"Ursine", -- [2]
+		"Add Raid EP +10000", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
 	}, -- [1]
 	{
-		"Guild", -- [1]
+		"Raid", -- [1]
 		"Aldebaren", -- [2]
-		"Decay EPGP -10% (test)", -- [3]
+		"Add Raid EP +1 (mødt til tiden)", -- [3]
 	}, -- [2]
 	{
-		"Guild", -- [1]
+		"Raid", -- [1]
 		"Aldebaren", -- [2]
-		"Add Guild EP +5 (Fordi i er for fede)", -- [3]
+		"Subtract Raid EP +-10000 (dumme ilia)", -- [3]
 	}, -- [3]
 	{
-		"Achernar", -- [1]
+		"Raid", -- [1]
 		"Aldebaren", -- [2]
-		"Add GP +10 (Some Item)", -- [3]
-		14, -- [4]
-		14, -- [5]
-		1, -- [6]
-		11, -- [7]
+		"Add Raid EP +7 (onyxia)", -- [3]
 	}, -- [4]
 	{
-		"Ilia", -- [1]
+		"Riis", -- [1]
 		"Aldebaren", -- [2]
-		"Add EP +10 (Some Item)", -- [3]
-		5, -- [4]
-		15, -- [5]
+		"Add EP +35 (vis'kag)", -- [3]
+		8, -- [4]
+		43, -- [5]
 		1, -- [6]
 		1, -- [7]
 	}, -- [5]
 	{
-		"Barkey", -- [1]
+		"Riis", -- [1]
 		"Aldebaren", -- [2]
-		"Add EP +9 (Some Item)", -- [3]
-		5, -- [4]
-		14, -- [5]
+		"Subtract EP -35 (vis'kag)", -- [3]
+		43, -- [4]
+		8, -- [5]
 		1, -- [6]
 		1, -- [7]
 	}, -- [6]
 	{
-		"Guild", -- [1]
+		"Riis", -- [1]
 		"Aldebaren", -- [2]
-		"Decay EPGP -5% ()", -- [3]
+		"Add GP +35 (vis'kag)", -- [3]
+		8, -- [4]
+		8, -- [5]
+		1, -- [6]
+		36, -- [7]
+		"Ursine-PyrewoodVillage", -- [8]
 	}, -- [7]
+	{
+		"Slapster", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +36 (vis'kag)", -- [3]
+		8, -- [4]
+		8, -- [5]
+		1, -- [6]
+		37, -- [7]
+		"Consumable", -- [8]
+	}, -- [8]
 	{
 		"Raid", -- [1]
 		"Aldebaren", -- [2]
-		"Add Raid EP +5 - we killed da big dragon bitch", -- [3]
-	}, -- [8]
-	{
-		"Barkey", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +10", -- [3]
-		18, -- [4]
-		18, -- [5]
-		1, -- [6]
-		11, -- [7]
-		0, -- [8]
+		"Add Raid EP +1 (for god ro og orden)", -- [3]
 	}, -- [9]
 	{
 		"Guild", -- [1]
 		"Aldebaren", -- [2]
-		"Decay EPGP -10% ()", -- [3]
+		"Decay EPGP -10% (weekly decay)", -- [3]
 	}, -- [10]
 	{
 		"Aldebaren", -- [1]
-		"Aldebaren", -- [2]
-		"Add EP +5 (x)", -- [3]
-		8, -- [4]
-		13, -- [5]
-		1, -- [6]
-		1, -- [7]
+		"Riis", -- [2]
+		"Add GP +1", -- [3]
+		"8", -- [4]
+		"8", -- [5]
+		"1", -- [6]
+		"2", -- [7]
 	}, -- [11]
 	{
-		"Aldebaren", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +10", -- [3]
-		13, -- [4]
-		13, -- [5]
-		1, -- [6]
-		11, -- [7]
-		0, -- [8]
+		"Guild", -- [1]
+		"Riis", -- [2]
+		"Add Guild EP +22", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
 	}, -- [12]
 	{
-		"Raid", -- [1]
-		"Aldebaren", -- [2]
-		"Add Raid EP +8 - lucifron", -- [3]
+		"Guild", -- [1]
+		"Riis", -- [2]
+		"Cleared EPGP standings", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
 	}, -- [13]
-	{
-		"Barkey", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +50", -- [3]
-		24, -- [4]
-		24, -- [5]
-		9, -- [6]
-		59, -- [7]
-		0, -- [8]
-	}, -- [14]
-	{
-		"Guild", -- [1]
-		"Aldebaren", -- [2]
-		"Decay EPGP -10% ()", -- [3]
-	}, -- [15]
-	{
-		"Barkey", -- [1]
-		"Aldebaren", -- [2]
-		"Add EP +5 ()", -- [3]
-		21, -- [4]
-		26, -- [5]
-		53, -- [6]
-		53, -- [7]
-	}, -- [16]
-	{
-		"Raid", -- [1]
-		"Aldebaren", -- [2]
-		"Add Raid EP +10 - raggy", -- [3]
-	}, -- [17]
-	{
-		"Aldebaren", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +100", -- [3]
-		24, -- [4]
-		24, -- [5]
-		1, -- [6]
-		101, -- [7]
-		0, -- [8]
-	}, -- [18]
-	{
-		"Raid", -- [1]
-		"Aldebaren", -- [2]
-		"Add Raid EP +5", -- [3]
-	}, -- [19]
-	{
-		"Guild", -- [1]
-		"Aldebaren", -- [2]
-		"Subtract Guild EP -", -- [3]
-	}, -- [20]
-	{
-		"Guild", -- [1]
-		"Aldebaren", -- [2]
-		"Add Guild EP +1 (testing)", -- [3]
-	}, -- [21]
-	{
-		"Raid", -- [1]
-		"Aldebaren", -- [2]
-		"Add Raid EP +5 (testing)", -- [3]
-	}, -- [22]
-	{
-		"Guild", -- [1]
-		"Aldebaren", -- [2]
-		"Cleared EPGP standings (testing)", -- [3]
-	}, -- [23]
-	{
-		"Raid", -- [1]
-		"Aldebaren", -- [2]
-		"Add Raid EP +5 (testing)", -- [3]
-	}, -- [24]
-	{
-		"Raid", -- [1]
-		"Aldebaren", -- [2]
-		"Add Raid EP +5 (test)", -- [3]
-	}, -- [25]
-	{
-		"Guild", -- [1]
-		"Aldebaren", -- [2]
-		"Add Guild EP +10 (test)", -- [3]
-	}, -- [26]
-	{
-		"Bootes", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +10 (test)", -- [3]
-		10, -- [4]
-		10, -- [5]
-		1, -- [6]
-		11, -- [7]
-	}, -- [27]
-	{
-		"Slapster", -- [1]
-		"Aldebaren", -- [2]
-		"Subtract EP -50 (MINUS 50 DKP!)", -- [3]
-		10, -- [4]
-		0, -- [5]
-		1, -- [6]
-		1, -- [7]
-	}, -- [28]
-	{
-		"Aldebaren", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +20 (i got lewt)", -- [3]
-		20, -- [4]
-		20, -- [5]
-		1, -- [6]
-		21, -- [7]
-		"Aldebaren-PyrewoodVillage", -- [8]
-	}, -- [29]
-	{
-		"Enggaardk", -- [1]
-		"Aldebaren", -- [2]
-		"Add EP +15 (i got lewt)", -- [3]
-		20, -- [4]
-		35, -- [5]
-		1, -- [6]
-		1, -- [7]
-	}, -- [30]
-	{
-		"Enggaardk", -- [1]
-		"Aldebaren", -- [2]
-		"Subtract EP -15 (i got lewt)", -- [3]
-		35, -- [4]
-		20, -- [5]
-		1, -- [6]
-		1, -- [7]
-	}, -- [31]
-	{
-		"Enggaardk", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +15 (i got lewt)", -- [3]
-		20, -- [4]
-		20, -- [5]
-		1, -- [6]
-		16, -- [7]
-		"Aldebaren-PyrewoodVillage", -- [8]
-	}, -- [32]
-	{
-		"Guild", -- [1]
-		"Aldebaren", -- [2]
-		"Cleared EPGP standings (guild reset)", -- [3]
-	}, -- [33]
-	{
-		"Thymus", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +6", -- [3]
-		0, -- [4]
-		0, -- [5]
-		1, -- [6]
-		7, -- [7]
-		"|cff0070dd|Hitem:12926::::::854:426418304:56:::1::::|h[Flaming Band of the Eagle]|h|r", -- [8]
-	}, -- [34]
-	{
-		"Runnerfox", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +17", -- [3]
-		0, -- [4]
-		0, -- [5]
-		1, -- [6]
-		18, -- [7]
-		"|cff0070dd|Hitem:18048::::::::56:::1::::|h[Mastersmith's Hammer]|h|r", -- [8]
-	}, -- [35]
-	{
-		"Aldebaren", -- [1]
-		"Aldebaren", -- [2]
-		"Add GP +11", -- [3]
-		0, -- [4]
-		0, -- [5]
-		1, -- [6]
-		12, -- [7]
-		"|cff0070dd|Hitem:18779::::::::56:::1::::|h[Bottom Half of Advanced Armorsmithing: Volume I]|h|r", -- [8]
-	}, -- [36]
-	{
-		"Raid", -- [1]
-		"Aldebaren", -- [2]
-		"Add Raid EP +5 (2x ubrs runs)", -- [3]
-	}, -- [37]
-	{
-		"Raid", -- [1]
-		"Aldebaren", -- [2]
-		"Add Raid EP +10 (extra 2x ubrs runs)", -- [3]
-	}, -- [38]
-	{
-		"Guild", -- [1]
-		"Aldebaren", -- [2]
-		"Decay EPGP -10%", -- [3]
-	}, -- [39]
 }
 CEPGP_raid_logs = {
 }
@@ -1174,11 +993,10 @@ CEPGP_notice = true
 CEPGP_keyword = "!need"
 ALLOW_FORCED_SYNC = true
 CEPGP_force_sync_rank = 2
-CEPGP_loot_GUI = false
+CEPGP_loot_GUI = true
 CEPGP_GP_decs = "2"
 CEPGP_auto_pass = false
 CEPGP_raid_wide_dist = true
 CEPGP_standby_share = false
 CEPGP_1120_notice = true
 CEPGP_min_threshold = 2
-
