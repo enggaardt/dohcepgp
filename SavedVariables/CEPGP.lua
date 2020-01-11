@@ -381,9 +381,9 @@ RECORDS = {
 		["Plexmeister-PyrewoodVillage"] = "0,1",
 		["Szheal-PyrewoodVillage"] = "0,1",
 		["Oldalbino-PyrewoodVillage"] = "0,1",
-		["Wowarrow-PyrewoodVillage"] = "317,164",
-		["Scaladei-PyrewoodVillage"] = "38,18",
 		["Adamantine-PyrewoodVillage"] = "0,1",
+		["Scaladei-PyrewoodVillage"] = "38,18",
+		["Wowarrow-PyrewoodVillage"] = "317,164",
 		["Alano-PyrewoodVillage"] = "0,1",
 		["Auxilius-PyrewoodVillage"] = "0,1",
 		["Warrnicuz-PyrewoodVillage"] = "0,1",
@@ -414,7 +414,7 @@ RECORDS = {
 		["Sjatpisser-PyrewoodVillage"] = "0,1",
 		["Armunddiggar-PyrewoodVillage"] = "0,1",
 		["Daphreen-PyrewoodVillage"] = "",
-		["Snowblack-PyrewoodVillage"] = "0,1",
+		["Cantaim-PyrewoodVillage"] = "0,1",
 		["Djmad-PyrewoodVillage"] = "0,1",
 		["Holyhojbjerg-PyrewoodVillage"] = "0,1",
 		["Anjun-PyrewoodVillage"] = "24,10",
@@ -428,16 +428,16 @@ RECORDS = {
 		["Jokemonstach-PyrewoodVillage"] = "0,1",
 		["Mizzfrosty-PyrewoodVillage"] = "0,1",
 		["Healbotone-PyrewoodVillage"] = "0,1",
-		["Emeles-PyrewoodVillage"] = "0,1",
+		["Daparras-PyrewoodVillage"] = "0,1",
 		["Moleen-PyrewoodVillage"] = "0,1",
 		["Tinydee-PyrewoodVillage"] = "0,1",
 		["Evilwan-PyrewoodVillage"] = "0,1",
 		["Aeih-PyrewoodVillage"] = "97,31",
-		["Ðíor-PyrewoodVillage"] = "0,1",
-		["Daparras-PyrewoodVillage"] = "0,1",
+		["Nefrin-PyrewoodVillage"] = "0,1",
+		["Emeles-PyrewoodVillage"] = "0,1",
 		["Crille-PyrewoodVillage"] = "102,35",
-		["Oldmanarnold-PyrewoodVillage"] = "0,1",
 		["Aunora-PyrewoodVillage"] = "0,1",
+		["Oldmanarnold-PyrewoodVillage"] = "0,1",
 		["Ragerider-PyrewoodVillage"] = "0,1",
 		["Zeti-PyrewoodVillage"] = "0,1",
 		["Grumbelaar-PyrewoodVillage"] = "0,1",
@@ -445,20 +445,20 @@ RECORDS = {
 		["Vaxissa-PyrewoodVillage"] = "0,1",
 		["Aimar-PyrewoodVillage"] = "136,104",
 		["Snowdk-PyrewoodVillage"] = "0,1",
-		["Matrïx-PyrewoodVillage"] = "0,1",
 		["Sparrow-PyrewoodVillage"] = "0,1",
+		["Matrïx-PyrewoodVillage"] = "0,1",
 		["Zacur-PyrewoodVillage"] = "230,93",
 		["Grumbleknott-PyrewoodVillage"] = "",
 		["Dohbank-PyrewoodVillage"] = "0,1",
 		["Stabster-PyrewoodVillage"] = "0,1",
 		["Softball-PyrewoodVillage"] = "0,1",
 		["Frøkenmagi-PyrewoodVillage"] = "",
-		["Hotpop-PyrewoodVillage"] = "0,1",
-		["Fionaa-PyrewoodVillage"] = "313,51",
 		["Myaccountant-PyrewoodVillage"] = "",
+		["Fionaa-PyrewoodVillage"] = "313,51",
+		["Hotpop-PyrewoodVillage"] = "0,1",
 		["Smækøl-PyrewoodVillage"] = "0,1",
 		["Ilia-PyrewoodVillage"] = "243,157",
-		["Aldebaren-PyrewoodVillage"] = "279,104",
+		["Rounded-PyrewoodVillage"] = "0,1",
 		["Kartoffel-PyrewoodVillage"] = "0,1",
 		["Evelyen-PyrewoodVillage"] = "0,1",
 		["Szhneider-PyrewoodVillage"] = "0,1",
@@ -471,7 +471,7 @@ RECORDS = {
 		["Runnerfox-PyrewoodVillage"] = "307,127",
 		["Mirne-PyrewoodVillage"] = "0,1",
 		["Enggaardk-PyrewoodVillage"] = "0,1",
-		["Rounded-PyrewoodVillage"] = "0,1",
+		["Aldebaren-PyrewoodVillage"] = "279,104",
 		["Lylalia-PyrewoodVillage"] = "279,95",
 		["Landcarver-PyrewoodVillage"] = "0,1",
 		["Luskebuksen-PyrewoodVillage"] = "146,85",
@@ -484,14 +484,14 @@ RECORDS = {
 		["Zeraal-PyrewoodVillage"] = "51,38",
 		["Bootes-PyrewoodVillage"] = "0,1",
 		["Viggekopter-PyrewoodVillage"] = "0,1",
-		["Nefrin-PyrewoodVillage"] = "0,1",
+		["Ðíor-PyrewoodVillage"] = "0,1",
 		["Xzypher-PyrewoodVillage"] = "0,1",
 		["Fwoozay-PyrewoodVillage"] = "0,1",
 		["Kaizers-PyrewoodVillage"] = "0,1",
 		["Lightseer-PyrewoodVillage"] = "195,66",
 		["Havfrue-PyrewoodVillage"] = "0,1",
 		["Hoyl-PyrewoodVillage"] = "",
-		["Cantaim-PyrewoodVillage"] = "0,1",
+		["Snowblack-PyrewoodVillage"] = "0,1",
 		["Sikri-PyrewoodVillage"] = "0,1",
 		["Skyggesvamp-PyrewoodVillage"] = "",
 		["Senjorita-PyrewoodVillage"] = "0,1",
@@ -740,7 +740,7 @@ RECORDS = {
 		["Frejjaa-PyrewoodVillage"] = "0,1",
 		["Thri-PyrewoodVillage"] = "0,1",
 		["Fregor-PyrewoodVillage"] = "0,1",
-		["Azborg-PyrewoodVillage"] = "0,1",
+		["Xplord-PyrewoodVillage"] = "0,1",
 		["Frons-PyrewoodVillage"] = "0,1",
 		["Froren-PyrewoodVillage"] = "0,1",
 		["Fumblefinger-PyrewoodVillage"] = "61,1",
@@ -750,9 +750,9 @@ RECORDS = {
 		["Rosslyn-PyrewoodVillage"] = "0,1",
 		["Powersurge-PyrewoodVillage"] = "0,1",
 		["Luskebuksen-PyrewoodVillage"] = "0,1",
-		["Rødcecil-PyrewoodVillage"] = "0,1",
-		["Pistvæk-PyrewoodVillage"] = "0,1",
+		["Arniya-PyrewoodVillage"] = "",
 		["Temizleyici-PyrewoodVillage"] = "0,1",
+		["Pistvæk-PyrewoodVillage"] = "0,1",
 		["Sjatpisser-PyrewoodVillage"] = "",
 		["Mikela-PyrewoodVillage"] = "0,1",
 		["Zarlina-PyrewoodVillage"] = "0,1",
@@ -760,26 +760,26 @@ RECORDS = {
 		["Rozzco-PyrewoodVillage"] = "0,1",
 		["Holyhojbjerg-PyrewoodVillage"] = "0,1",
 		["Icetalonbear-PyrewoodVillage"] = "0,1",
-		["Palidine-PyrewoodVillage"] = "0,1",
-		["Dupond-PyrewoodVillage"] = "",
 		["Buffbuffpass-PyrewoodVillage"] = "0,1",
+		["Dupond-PyrewoodVillage"] = "",
+		["Palidine-PyrewoodVillage"] = "0,1",
 		["Ulfhednir-PyrewoodVillage"] = "0,1",
-		["Dohbank-PyrewoodVillage"] = "0,1",
-		["Pepsimage-PyrewoodVillage"] = "0,1",
+		["Crille-PyrewoodVillage"] = "0,1",
+		["Anjun-PyrewoodVillage"] = "36,1",
 		["Blackmace-PyrewoodVillage"] = "0,1",
 		["Thymüs-PyrewoodVillage"] = "0,1",
-		["Sezzo-PyrewoodVillage"] = "0,1",
+		["Evilwan-PyrewoodVillage"] = "0,1",
 		["Kartoffel-PyrewoodVillage"] = "0,1",
 		["Xeih-PyrewoodVillage"] = "0,1",
 		["Nefrin-PyrewoodVillage"] = "0,1",
-		["Crille-PyrewoodVillage"] = "0,1",
-		["Buario-PyrewoodVillage"] = "0,1",
+		["Dohbank-PyrewoodVillage"] = "0,1",
+		["Gefion-PyrewoodVillage"] = "0,1",
 		["Hotpop-PyrewoodVillage"] = "0,1",
 		["Aeih-PyrewoodVillage"] = "68,69",
 		["Ðíor-PyrewoodVillage"] = "0,1",
 		["Emeles-PyrewoodVillage"] = "0,1",
-		["Evilwan-PyrewoodVillage"] = "0,1",
-		["Fionaa-PyrewoodVillage"] = "61,29",
+		["Sezzo-PyrewoodVillage"] = "0,1",
+		["Buario-PyrewoodVillage"] = "0,1",
 		["Oldmanarnold-PyrewoodVillage"] = "0,1",
 		["Ragerider-PyrewoodVillage"] = "0,1",
 		["Hightower-PyrewoodVillage"] = "",
@@ -787,17 +787,17 @@ RECORDS = {
 		["Minìmuh-PyrewoodVillage"] = "0,1",
 		["Pizzamix-PyrewoodVillage"] = "0,1",
 		["Aimar-PyrewoodVillage"] = "0,1",
-		["Matrïx-PyrewoodVillage"] = "0,1",
-		["Pepsipriest-PyrewoodVillage"] = "0,1",
 		["Lylalia-PyrewoodVillage"] = "0,1",
-		["Zacur-PyrewoodVillage"] = "38,1",
 		["Ikkehende-PyrewoodVillage"] = "0,1",
+		["Matrïx-PyrewoodVillage"] = "0,1",
+		["Zacur-PyrewoodVillage"] = "38,1",
+		["Pepsipriest-PyrewoodVillage"] = "0,1",
 		["Haddoc-PyrewoodVillage"] = "0,1",
 		["Maw-PyrewoodVillage"] = "0,1",
 		["Softball-PyrewoodVillage"] = "0,1",
 		["Matok-PyrewoodVillage"] = "68,39",
 		["Ris-PyrewoodVillage"] = "0,1",
-		["Gefion-PyrewoodVillage"] = "0,1",
+		["Fionaa-PyrewoodVillage"] = "61,29",
 		["Fedtmule-PyrewoodVillage"] = "0,1",
 		["Smækøl-PyrewoodVillage"] = "0,1",
 		["Ilia-PyrewoodVillage"] = "29,1",
@@ -806,7 +806,7 @@ RECORDS = {
 		["Topløs-PyrewoodVillage"] = "",
 		["Bingoo-PyrewoodVillage"] = "56,1",
 		["Jenya-PyrewoodVillage"] = "0,1",
-		["Anjun-PyrewoodVillage"] = "36,1",
+		["Pepsimage-PyrewoodVillage"] = "0,1",
 		["Jokemon-PyrewoodVillage"] = "0,1",
 		["Heavyweight-PyrewoodVillage"] = "0,1",
 		["Tourment-PyrewoodVillage"] = "0,1",
@@ -814,13 +814,13 @@ RECORDS = {
 		["Runnerfox-PyrewoodVillage"] = "68,25",
 		["Isobel-PyrewoodVillage"] = "0,1",
 		["Gabehorn-PyrewoodVillage"] = "39,1",
-		["Arniya-PyrewoodVillage"] = "",
+		["Rødcecil-PyrewoodVillage"] = "0,1",
 		["Sikri-PyrewoodVillage"] = "0,1",
 		["Landcarver-PyrewoodVillage"] = "0,1",
 		["Jokeadin-PyrewoodVillage"] = "38,1",
 		["Enggaardk-PyrewoodVillage"] = "0,1",
 		["Fwoozy-PyrewoodVillage"] = "68,22",
-		["Xplord-PyrewoodVillage"] = "0,1",
+		["Azborg-PyrewoodVillage"] = "0,1",
 		["Eluminus-PyrewoodVillage"] = "0,1",
 		["Zeti-PyrewoodVillage"] = "0,1",
 		["Nuff-PyrewoodVillage"] = "0,1",
@@ -6068,6 +6068,573 @@ TRAFFIC = {
 		"", -- [8]
 		1578341385, -- [9]
 	}, -- [484]
+	{
+		"Guild", -- [1]
+		"Aldebaren", -- [2]
+		"Decay EPGP -10% (weekly decay)", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578595267, -- [9]
+	}, -- [485]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 (raid start)", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578596286, -- [9]
+	}, -- [486]
+	{
+		"Shèera", -- [1]
+		"Aldebaren", -- [2]
+		"Add EP +1 (raid start)", -- [3]
+		6, -- [4]
+		7, -- [5]
+		42, -- [6]
+		42, -- [7]
+		[9] = 1578596505,
+	}, -- [487]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Onyxia", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578596856, -- [9]
+	}, -- [488]
+	{
+		"", -- [1]
+		"Aldebaren", -- [2]
+		"Not EPGP Moderated", -- [3]
+		142, -- [4]
+		142, -- [5]
+		45, -- [6]
+		45, -- [7]
+		"|cffa335ee|Hitem:16963::::::::60:::::::|h[Helm of Wrath]|h|r", -- [8]
+		1578596941, -- [9]
+	}, -- [489]
+	{
+		"Thebigboy", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 26 (Main Spec)", -- [3]
+		170, -- [4]
+		170, -- [5]
+		52, -- [6]
+		78, -- [7]
+		"|cffa335ee|Hitem:18423::::::::60:::::::|h[Head of Onyxia]|h|r", -- [8]
+		1578596963, -- [9]
+	}, -- [490]
+	{
+		"Szh", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		318, -- [4]
+		318, -- [5]
+		81, -- [6]
+		81, -- [7]
+		"|cffa335ee|Hitem:16914::::::::60:::::::|h[Netherwind Crown]|h|r", -- [8]
+		1578597009, -- [9]
+	}, -- [491]
+	{
+		"Ilia", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Off Spec)", -- [3]
+		261, -- [4]
+		261, -- [5]
+		126, -- [6]
+		126, -- [7]
+		"|cffa335ee|Hitem:18205::::::::60:::::::|h[Eskhandar's Collar]|h|r", -- [8]
+		1578597156, -- [9]
+	}, -- [492]
+	{
+		"", -- [1]
+		"Aldebaren", -- [2]
+		"Not EPGP Moderated", -- [3]
+		142, -- [4]
+		142, -- [5]
+		45, -- [6]
+		45, -- [7]
+		"|cffa335ee|Hitem:18705::::::::60:::::::|h[Mature Black Dragon Sinew]|h|r", -- [8]
+		1578597201, -- [9]
+	}, -- [493]
+	{
+		"Wangfooklong", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 36 (netherwind crown)", -- [3]
+		175, -- [4]
+		175, -- [5]
+		50, -- [6]
+		86, -- [7]
+		[9] = 1578597414,
+	}, -- [494]
+	{
+		"Slapster", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 36 (helm of wrath)", -- [3]
+		321, -- [4]
+		321, -- [5]
+		119, -- [6]
+		155, -- [7]
+		[9] = 1578597797,
+	}, -- [495]
+	{
+		"Whimp", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 14 (første raid)", -- [3]
+		0, -- [4]
+		0, -- [5]
+		1, -- [6]
+		15, -- [7]
+		[9] = 1578598098,
+	}, -- [496]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Lucifron", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578598759, -- [9]
+	}, -- [497]
+	{
+		"Zeraal", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 21 (Main Spec)", -- [3]
+		110, -- [4]
+		110, -- [5]
+		68, -- [6]
+		89, -- [7]
+		"|cffa335ee|Hitem:16863::::::::60:::::::|h[Gauntlets of Might]|h|r", -- [8]
+		1578598809, -- [9]
+	}, -- [498]
+	{
+		"Wangfooklong", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 21 (Main Spec)", -- [3]
+		180, -- [4]
+		180, -- [5]
+		86, -- [6]
+		107, -- [7]
+		"|cffa335ee|Hitem:16800::::::::60:::::::|h[Arcanist Boots]|h|r", -- [8]
+		1578598829, -- [9]
+	}, -- [499]
+	{
+		"Shèera", -- [1]
+		"Aldebaren", -- [2]
+		"Given for Free", -- [3]
+		17, -- [4]
+		17, -- [5]
+		42, -- [6]
+		42, -- [7]
+		"|cff1eff00|Hitem:16665::::::::60:::::::|h[Tome of Tranquilizing Shot]|h|r", -- [8]
+		1578598851, -- [9]
+	}, -- [500]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Magmadar", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578599074, -- [9]
+	}, -- [501]
+	{
+		"Whimp", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Main Spec)", -- [3]
+		10, -- [4]
+		10, -- [5]
+		15, -- [6]
+		43, -- [7]
+		"|cffa335ee|Hitem:16855::::::::60:::::::|h[Lawbringer Legplates]|h|r", -- [8]
+		1578599098, -- [9]
+	}, -- [502]
+	{
+		"Thymüs", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Main Spec)", -- [3]
+		75, -- [4]
+		75, -- [5]
+		64, -- [6]
+		92, -- [7]
+		"|cffa335ee|Hitem:16810::::::::60:::::::|h[Felheart Pants]|h|r", -- [8]
+		1578599138, -- [9]
+	}, -- [503]
+	{
+		"Zeraal", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Main Spec)", -- [3]
+		115, -- [4]
+		115, -- [5]
+		89, -- [6]
+		117, -- [7]
+		"|cffa335ee|Hitem:18203::::::::60:::::::|h[Eskhandar's Right Claw]|h|r", -- [8]
+		1578599159, -- [9]
+	}, -- [504]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Gehennas", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578599588, -- [9]
+	}, -- [505]
+	{
+		"Ilia", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 14 (Main Spec)", -- [3]
+		276, -- [4]
+		276, -- [5]
+		126, -- [6]
+		140, -- [7]
+		"|cffa335ee|Hitem:18879::::::::60:::::::|h[Heavy Dark Iron Ring]|h|r", -- [8]
+		1578599621, -- [9]
+	}, -- [506]
+	{
+		"Talpa", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 21 (Main Spec)", -- [3]
+		307, -- [4]
+		307, -- [5]
+		66, -- [6]
+		87, -- [7]
+		"|cffa335ee|Hitem:16812::::::::60:::::::|h[Gloves of Prophecy]|h|r", -- [8]
+		1578599643, -- [9]
+	}, -- [507]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Garr", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578600341, -- [9]
+	}, -- [508]
+	{
+		"Slapster", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Main Spec)", -- [3]
+		341, -- [4]
+		341, -- [5]
+		155, -- [6]
+		183, -- [7]
+		"|cffa335ee|Hitem:17066::::::::60:::::::|h[Drillborer Disk]|h|r", -- [8]
+		1578600477, -- [9]
+	}, -- [509]
+	{
+		"Tuarlok", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Off Spec)", -- [3]
+		133, -- [4]
+		133, -- [5]
+		29, -- [6]
+		29, -- [7]
+		"|cffa335ee|Hitem:16813::::::::60:::::::|h[Circlet of Prophecy]|h|r", -- [8]
+		1578600503, -- [9]
+	}, -- [510]
+	{
+		"Zeraal", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 24 (Main Spec)", -- [3]
+		125, -- [4]
+		125, -- [5]
+		117, -- [6]
+		141, -- [7]
+		"|cffa335ee|Hitem:18861::::::::60:::::::|h[Flamewaker Legplates]|h|r", -- [8]
+		1578600520, -- [9]
+	}, -- [511]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Baron Geddon", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578601550, -- [9]
+	}, -- [512]
+	{
+		"Whimp", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 21 (Main Spec)", -- [3]
+		25, -- [4]
+		25, -- [5]
+		43, -- [6]
+		64, -- [7]
+		"|cffa335ee|Hitem:16856::::::::60:::::::|h[Lawbringer Spaulders]|h|r", -- [8]
+		1578601591, -- [9]
+	}, -- [513]
+	{
+		"Dupond", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Off Spec)", -- [3]
+		39, -- [4]
+		39, -- [5]
+		8, -- [6]
+		8, -- [7]
+		"|cffa335ee|Hitem:16807::::::::60:::::::|h[Felheart Shoulder Pads]|h|r", -- [8]
+		1578601629, -- [9]
+	}, -- [514]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Shazzrah", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578602014, -- [9]
+	}, -- [515]
+	{
+		"Tuarlok", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Main Spec)", -- [3]
+		143, -- [4]
+		143, -- [5]
+		29, -- [6]
+		57, -- [7]
+		"|cffa335ee|Hitem:19145::::::::60:::::::|h[Robe of Volatile Power]|h|r", -- [8]
+		1578602063, -- [9]
+	}, -- [516]
+	{
+		"Szh", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		348, -- [4]
+		348, -- [5]
+		81, -- [6]
+		81, -- [7]
+		"|cffa335ee|Hitem:16801::::::::60:::::::|h[Arcanist Gloves]|h|r", -- [8]
+		1578602082, -- [9]
+	}, -- [517]
+	{
+		"Thymüs", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 14 (Main Spec)", -- [3]
+		95, -- [4]
+		95, -- [5]
+		92, -- [6]
+		106, -- [7]
+		"|cffa335ee|Hitem:16804::::::::60:::::::|h[Felheart Bracers]|h|r", -- [8]
+		1578602617, -- [9]
+	}, -- [518]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Sulfuron Harbinger", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578603040, -- [9]
+	}, -- [519]
+	{
+		"Szh", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		353, -- [4]
+		353, -- [5]
+		81, -- [6]
+		81, -- [7]
+		"|cffa335ee|Hitem:17077::::::::60:::::::|h[Crimson Shocker]|h|r", -- [8]
+		1578603126, -- [9]
+	}, -- [520]
+	{
+		"Szh", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		353, -- [4]
+		353, -- [5]
+		81, -- [6]
+		81, -- [7]
+		"|cffa335ee|Hitem:17074::::::::60:::::::|h[Shadowstrike]|h|r", -- [8]
+		1578603203, -- [9]
+	}, -- [521]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Golemagg the Incinerator", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578603664, -- [9]
+	}, -- [522]
+	{
+		"Slapster", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Main Spec)", -- [3]
+		361, -- [4]
+		361, -- [5]
+		183, -- [6]
+		211, -- [7]
+		"|cffa335ee|Hitem:16865::::::::60:::::::|h[Breastplate of Might]|h|r", -- [8]
+		1578603747, -- [9]
+	}, -- [523]
+	{
+		"Wangfooklong", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Main Spec)", -- [3]
+		215, -- [4]
+		215, -- [5]
+		107, -- [6]
+		135, -- [7]
+		"|cffa335ee|Hitem:16798::::::::60:::::::|h[Arcanist Robes]|h|r", -- [8]
+		1578603776, -- [9]
+	}, -- [524]
+	{
+		"Crille", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 14 (Main Spec)", -- [3]
+		187, -- [4]
+		187, -- [5]
+		27, -- [6]
+		41, -- [7]
+		"|cffa335ee|Hitem:18821::::::::60:::::::|h[Quick Strike Ring]|h|r", -- [8]
+		1578603795, -- [9]
+	}, -- [525]
+	{
+		"Wangfooklong", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 21 (arcanist gloves)", -- [3]
+		215, -- [4]
+		215, -- [5]
+		135, -- [6]
+		156, -- [7]
+		[9] = 1578604063,
+	}, -- [526]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +5 - Majordomo Executus", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578604645, -- [9]
+	}, -- [527]
+	{
+		"Shèera", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 16 (Main Spec)", -- [3]
+		57, -- [4]
+		57, -- [5]
+		42, -- [6]
+		58, -- [7]
+		"|cffa335ee|Hitem:18812::::::::60:::::::|h[Wristguards of True Flight]|h|r", -- [8]
+		1578604705, -- [9]
+	}, -- [528]
+	{
+		"Mimy", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 24 (Main Spec)", -- [3]
+		203, -- [4]
+		203, -- [5]
+		65, -- [6]
+		89, -- [7]
+		"|cffa335ee|Hitem:18646::::::::60:::::::|h[The Eye of Divinity]|h|r", -- [8]
+		1578604726, -- [9]
+	}, -- [529]
+	{
+		"Zarlina", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Off Spec)", -- [3]
+		264, -- [4]
+		264, -- [5]
+		66, -- [6]
+		66, -- [7]
+		"|cffa335ee|Hitem:19139::::::::60:::::::|h[Fireguard Shoulders]|h|r", -- [8]
+		1578604746, -- [9]
+	}, -- [530]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +7 - Ragnaros", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578605405, -- [9]
+	}, -- [531]
+	{
+		"Thebigboy", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 36 (Main Spec)", -- [3]
+		222, -- [4]
+		222, -- [5]
+		78, -- [6]
+		114, -- [7]
+		"|cffa335ee|Hitem:16938::::::::60:::::::|h[Dragonstalker's Legguards]|h|r", -- [8]
+		1578605463, -- [9]
+	}, -- [532]
+	{
+		"Skystrike", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 36 (Main Spec)", -- [3]
+		117, -- [4]
+		117, -- [5]
+		42, -- [6]
+		78, -- [7]
+		"|cffa335ee|Hitem:16938::::::::60:::::::|h[Dragonstalker's Legguards]|h|r", -- [8]
+		1578605482, -- [9]
+	}, -- [533]
+	{
+		"Fionaa", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 19 (Main Spec)", -- [3]
+		370, -- [4]
+		370, -- [5]
+		40, -- [6]
+		59, -- [7]
+		"|cffa335ee|Hitem:18814::::::::60:::::::|h[Choker of the Fire Lord]|h|r", -- [8]
+		1578605503, -- [9]
+	}, -- [534]
+	{
+		"Ciran", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 17 (Main Spec)", -- [3]
+		370, -- [4]
+		370, -- [5]
+		40, -- [6]
+		57, -- [7]
+		"|cffa335ee|Hitem:17102::::::::60:::::::|h[Cloak of the Shrouded Mists]|h|r", -- [8]
+		1578605525, -- [9]
+	}, -- [535]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 (raid slutty)", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1578605545, -- [9]
+	}, -- [536]
 }
 CEPGP_raid_logs = {
 	{
