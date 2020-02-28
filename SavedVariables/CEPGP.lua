@@ -9367,6 +9367,336 @@ CEPGP = {
 			"", -- [8]
 			1582827474, -- [9]
 		}, -- [857]
+		{
+			"Raid", -- [1]
+			"Szh", -- [2]
+			"Add Raid EP +1 (Raid start)", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			"", -- [7]
+			[9] = "1582829881",
+		}, -- [858]
+		{
+			"Raid", -- [1]
+			"Szh", -- [2]
+			"Add Raid EP +7 - Razorgore the Untamed", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			"", -- [7]
+			[9] = "1582830763",
+		}, -- [859]
+		{
+			"Arihm", -- [1]
+			"Szh", -- [2]
+			"Add GP 18 (Main Spec)", -- [3]
+			"394", -- [4]
+			"394", -- [5]
+			"90", -- [6]
+			"108", -- [7]
+			"|cffa335ee|Hitem:16911:::::::::::::|h[Bloodfang Bracers]|h|r", -- [8]
+			"1582830798", -- [9]
+		}, -- [860]
+		{
+			"Skystrike", -- [1]
+			"Szh", -- [2]
+			"Add GP 0 (Off Spec)", -- [3]
+			"294", -- [4]
+			"294", -- [5]
+			"95", -- [6]
+			"95", -- [7]
+			"|cffa335ee|Hitem:19336:::::::::::::|h[Arcane Infused Gem]|h|r", -- [8]
+			"1582830828", -- [9]
+		}, -- [861]
+		{
+			"Aldebaren", -- [1]
+			"Szh", -- [2]
+			"Add GP 18 (Main Spec)", -- [3]
+			"432", -- [4]
+			"432", -- [5]
+			"83", -- [6]
+			"101", -- [7]
+			"|cffa335ee|Hitem:16951:::::::::::::|h[Judgement Bindings]|h|r", -- [8]
+			"1582830852", -- [9]
+		}, -- [862]
+		{
+			"Raid", -- [1]
+			"Szh", -- [2]
+			"Add Raid EP +7 - Vaelastrasz the Corrupt", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			"", -- [7]
+			[9] = "1582831547",
+		}, -- [863]
+		{
+			"Geshan", -- [1]
+			"Szh", -- [2]
+			"Add GP 27 (Main Spec)", -- [3]
+			"417", -- [4]
+			"417", -- [5]
+			"72", -- [6]
+			"99", -- [7]
+			"|cffa335ee|Hitem:16910:::::::::::::|h[Bloodfang Belt]|h|r", -- [8]
+			"1582831602", -- [9]
+		}, -- [864]
+		{
+			"Vulnus", -- [1]
+			"Szh", -- [2]
+			"Add GP 27 (Main Spec)", -- [3]
+			"44", -- [4]
+			"44", -- [5]
+			"25", -- [6]
+			"52", -- [7]
+			"|cffa335ee|Hitem:16903:::::::::::::|h[Stormrage Belt]|h|r", -- [8]
+			"1582831648", -- [9]
+		}, -- [865]
+		{
+			"Arihm", -- [1]
+			"Szh", -- [2]
+			"Add GP 52 (Main Spec)", -- [3]
+			"401", -- [4]
+			"401", -- [5]
+			"108", -- [6]
+			"160", -- [7]
+			"|cffa335ee|Hitem:19346:::::::::::::|h[Dragonfang Blade]|h|r", -- [8]
+			"1582831680", -- [9]
+		}, -- [866]
+		{
+			"Raid", -- [1]
+			"Szh", -- [2]
+			"Add Raid EP +7 - Broodlord Lashlayer", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			"", -- [7]
+			[9] = "1582834098",
+		}, -- [867]
+		{
+			"Thymüs", -- [1]
+			"Szh", -- [2]
+			"Add GP 27 (Main Spec)", -- [3]
+			"339", -- [4]
+			"339", -- [5]
+			"94", -- [6]
+			"121", -- [7]
+			"|cffa335ee|Hitem:16927:::::::::::::|h[Nemesis Boots]|h|r", -- [8]
+			"1582834129", -- [9]
+		}, -- [868]
+		{
+			"Blackmace", -- [1]
+			"Szh", -- [2]
+			"Add GP 27 (Main Spec)", -- [3]
+			"270", -- [4]
+			"270", -- [5]
+			"91", -- [6]
+			"118", -- [7]
+			"|cffa335ee|Hitem:16927:::::::::::::|h[Nemesis Boots]|h|r", -- [8]
+			"1582834154", -- [9]
+		}, -- [869]
+		{
+			"Zenster", -- [1]
+			"Szh", -- [2]
+			"Add GP 53 (Main Spec)", -- [3]
+			"379", -- [4]
+			"379", -- [5]
+			"75", -- [6]
+			"128", -- [7]
+			"|cffa335ee|Hitem:19351:::::::::::::|h[Maladath, Runed Blade of the Black Flight]|h|r", -- [8]
+			"1582834187", -- [9]
+		}, -- [870]
+		{
+			"Raid", -- [1]
+			"Szh", -- [2]
+			"Add Raid EP +7 - Firemaw", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			"", -- [7]
+			[9] = "1582835660",
+		}, -- [871]
+		{
+			"Elandrial", -- [1]
+			"Szh", -- [2]
+			"Add GP 35 (Main Spec)", -- [3]
+			"425", -- [4]
+			"425", -- [5]
+			"71", -- [6]
+			"106", -- [7]
+			"|cffa335ee|Hitem:19402:::::::::::::|h[Legguards of the Fallen Crusader]|h|r", -- [8]
+			"1582835688", -- [9]
+		}, -- [872]
+		{
+			"Mcgrumpy", -- [1]
+			"Szh", -- [2]
+			"Add GP 27 (Main Spec)", -- [3]
+			"461", -- [4]
+			"461", -- [5]
+			"43", -- [6]
+			"70", -- [7]
+			"|cffa335ee|Hitem:16913:::::::::::::|h[Netherwind Gloves]|h|r", -- [8]
+			"1582835713", -- [9]
+		}, -- [873]
+		{
+			"Zarlina", -- [1]
+			"Szh", -- [2]
+			"Add GP 0 (Off Spec)", -- [3]
+			"416", -- [4]
+			"416", -- [5]
+			"101", -- [6]
+			"101", -- [7]
+			"|cffa335ee|Hitem:19439:::::::::::::|h[Interlaced Shadow Jerkin]|h|r", -- [8]
+			"1582837845", -- [9]
+		}, -- [874]
+		{
+			"Raid", -- [1]
+			"Szh", -- [2]
+			"Add Raid EP +7 - Ebonroc", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			"", -- [7]
+			[9] = "1582838386",
+		}, -- [875]
+		{
+			"Tuarlok", -- [1]
+			"Szh", -- [2]
+			"Add GP 26 (Main Spec)", -- [3]
+			"339", -- [4]
+			"339", -- [5]
+			"32", -- [6]
+			"58", -- [7]
+			"|cffa335ee|Hitem:19407:::::::::::::|h[Ebony Flame Gloves]|h|r", -- [8]
+			"1582838415", -- [9]
+		}, -- [876]
+		{
+			"Tuarlok", -- [1]
+			"Szh", -- [2]
+			"Add GP 17 (Main Spec)", -- [3]
+			"339", -- [4]
+			"339", -- [5]
+			"58", -- [6]
+			"75", -- [7]
+			"|cffa335ee|Hitem:19397:::::::::::::|h[Ring of Blackrock]|h|r", -- [8]
+			"1582838443", -- [9]
+		}, -- [877]
+		{
+			"Raid", -- [1]
+			"Szh", -- [2]
+			"Add Raid EP +7 - Flamegor", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			"", -- [7]
+			[9] = "1582838646",
+		}, -- [878]
+		{
+			"Elandrial", -- [1]
+			"Szh", -- [2]
+			"Add GP 17 (Main Spec)", -- [3]
+			"439", -- [4]
+			"439", -- [5]
+			"106", -- [6]
+			"123", -- [7]
+			"|cffa335ee|Hitem:19432:::::::::::::|h[Circle of Applied Force]|h|r", -- [8]
+			"1582838705", -- [9]
+		}, -- [879]
+		{
+			"Adamantine", -- [1]
+			"Szh", -- [2]
+			"Add GP 27 (Main Spec)", -- [3]
+			"175", -- [4]
+			"175", -- [5]
+			"61", -- [6]
+			"88", -- [7]
+			"|cffa335ee|Hitem:16964:::::::::::::|h[Gauntlets of Wrath]|h|r", -- [8]
+			"1582838737", -- [9]
+		}, -- [880]
+		{
+			"Raid", -- [1]
+			"Szh", -- [2]
+			"Add Raid EP +7 - Chromaggus", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			"", -- [7]
+			[9] = "1582840571",
+		}, -- [881]
+		{
+			"Forsetius", -- [1]
+			"Szh", -- [2]
+			"Add GP 27 (Main Spec)", -- [3]
+			"365", -- [4]
+			"365", -- [5]
+			"123", -- [6]
+			"150", -- [7]
+			"|cffa335ee|Hitem:16953:::::::::::::|h[Judgement Spaulders]|h|r", -- [8]
+			"1582840602", -- [9]
+		}, -- [882]
+		{
+			"Lylalia", -- [1]
+			"Szh", -- [2]
+			"Add GP 27 (Main Spec)", -- [3]
+			"475", -- [4]
+			"475", -- [5]
+			"129", -- [6]
+			"156", -- [7]
+			"|cffa335ee|Hitem:16832:::::::::::::|h[Bloodfang Spaulders]|h|r", -- [8]
+			"1582840627", -- [9]
+		}, -- [883]
+		{
+			"Ciran", -- [1]
+			"Szh", -- [2]
+			"Add GP 18 (Main Spec)", -- [3]
+			"492", -- [4]
+			"492", -- [5]
+			"25", -- [6]
+			"43", -- [7]
+			"|cffa335ee|Hitem:19386:::::::::::::|h[Elementium Threaded Cloak]|h|r", -- [8]
+			"1582840643", -- [9]
+		}, -- [884]
+		{
+			"Wangfooklong", -- [1]
+			"Szh", -- [2]
+			"Add GP 28 (Main Spec)", -- [3]
+			"311", -- [4]
+			"311", -- [5]
+			"72", -- [6]
+			"100", -- [7]
+			"|cffa335ee|Hitem:19388:::::::::::::|h[Angelista's Grasp]|h|r", -- [8]
+			"1582840672", -- [9]
+		}, -- [885]
+		{
+			"Raid", -- [1]
+			"Szh", -- [2]
+			"Add Raid EP +1 (Raid slut)", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			"", -- [7]
+			[9] = "1582840770",
+		}, -- [886]
+		{
+			"Aimar", -- [1]
+			"Szh", -- [2]
+			"Add GP 27 (Belt)", -- [3]
+			"398", -- [4]
+			"398", -- [5]
+			"124", -- [6]
+			"151", -- [7]
+			[9] = "1582840872",
+		}, -- [887]
+		{
+			"Wangfooklong", -- [1]
+			"Szh", -- [2]
+			"Subtract GP 27 (Belt)", -- [3]
+			"312", -- [4]
+			"312", -- [5]
+			"46", -- [6]
+			"100", -- [7]
+			[9] = "1582840896",
+		}, -- [888]
 	},
 	["EP"] = {
 		["BossEP"] = {
@@ -9400,18 +9730,18 @@ CEPGP = {
 			["Ayamiss the Hunter"] = 3,
 			["Ebonroc"] = 7,
 			["Heigan the Unclean"] = 12,
-			["Renataki"] = 2,
+			["Gahz'ranka"] = 2,
 			["Azuregos"] = 7,
 			["Doom Lord Kazzak"] = 7,
-			["Sulfuron Harbinger"] = "1",
+			["Gluth"] = 12,
 			["Baron Geddon"] = "1",
 			["High Priestess Arlokk"] = 2,
 			["Gri'lek"] = 2,
-			["Gahz'ranka"] = 2,
+			["Sapphiron"] = 15,
 			["Chromaggus"] = 7,
-			["Vaelastrasz the Corrupt"] = 7,
-			["Gluth"] = 12,
 			["Firemaw"] = 7,
+			["Bloodlord Mandokir"] = 2,
+			["Renataki"] = 2,
 			["Onyxia"] = 5,
 			["Shazzrah"] = "1",
 			["Razorgore the Untamed"] = 7,
@@ -9425,9 +9755,9 @@ CEPGP = {
 			["Hazza'rah"] = 2,
 			["Ragnaros"] = "6",
 			["Viscidus"] = 10,
-			["Maexxna"] = 15,
 			["Hakkar"] = 3,
 			["Broodlord Lashlayer"] = 7,
+			["Maexxna"] = 15,
 			["The Four Horsemen"] = 15,
 			["Kurinnaxx"] = 3,
 			["Grobbulus"] = 12,
@@ -9435,8 +9765,8 @@ CEPGP = {
 			["Emeriss"] = 7,
 			["Magmadar"] = "1",
 			["Patchwerk"] = 12,
-			["Bloodlord Mandokir"] = 2,
-			["Sapphiron"] = 15,
+			["Sulfuron Harbinger"] = "1",
+			["Vaelastrasz the Corrupt"] = 7,
 			["Jin'do the Hexxer"] = 2,
 			["Garr"] = "1",
 		},
@@ -9471,18 +9801,18 @@ CEPGP = {
 			["Ayamiss the Hunter"] = true,
 			["Ebonroc"] = true,
 			["Heigan the Unclean"] = true,
-			["Renataki"] = true,
+			["Gahz'ranka"] = true,
 			["Azuregos"] = true,
 			["Doom Lord Kazzak"] = true,
-			["Sulfuron Harbinger"] = true,
+			["Gluth"] = true,
 			["Baron Geddon"] = true,
 			["High Priestess Arlokk"] = true,
 			["Gri'lek"] = true,
-			["Gahz'ranka"] = true,
+			["Sapphiron"] = true,
 			["Chromaggus"] = true,
-			["Vaelastrasz the Corrupt"] = true,
-			["Gluth"] = true,
 			["Firemaw"] = true,
+			["Bloodlord Mandokir"] = true,
+			["Renataki"] = true,
 			["Onyxia"] = true,
 			["Shazzrah"] = true,
 			["Razorgore the Untamed"] = true,
@@ -9496,9 +9826,9 @@ CEPGP = {
 			["Hazza'rah"] = true,
 			["Ragnaros"] = true,
 			["Viscidus"] = true,
-			["Maexxna"] = true,
 			["Hakkar"] = true,
 			["Broodlord Lashlayer"] = true,
+			["Maexxna"] = true,
 			["The Four Horsemen"] = true,
 			["Kurinnaxx"] = true,
 			["Grobbulus"] = true,
@@ -9506,8 +9836,8 @@ CEPGP = {
 			["Emeriss"] = true,
 			["Magmadar"] = true,
 			["Patchwerk"] = true,
-			["Bloodlord Mandokir"] = true,
-			["Sapphiron"] = true,
+			["Sulfuron Harbinger"] = true,
+			["Vaelastrasz the Corrupt"] = true,
 			["Jin'do the Hexxer"] = true,
 			["Garr"] = true,
 		},
@@ -10011,12 +10341,12 @@ CEPGP = {
 			["Maxdude-PyrewoodVillage"] = "0,25",
 			["Highlight-PyrewoodVillage"] = "0,25",
 			["Arniya-PyrewoodVillage"] = "0,25",
-			["Qizy-PyrewoodVillage"] = "0,25",
+			["Deep-PyrewoodVillage"] = "42,42",
 			["Maw-PyrewoodVillage"] = "0,25",
 			["Mcgrumpy-PyrewoodVillage"] = "426,48",
 			["Sinsin-PyrewoodVillage"] = "0,25",
 			["Elyrias-PyrewoodVillage"] = "0,25",
-			["Tuarlok-PyrewoodVillage"] = "276,36",
+			["Qizy-PyrewoodVillage"] = "0,25",
 			["Sávage-PyrewoodVillage"] = "0,25",
 			["Runnerfox-PyrewoodVillage"] = "377,66",
 			["Zraidryn-PyrewoodVillage"] = "0,25",
@@ -10032,9 +10362,9 @@ CEPGP = {
 			["Blackmace-PyrewoodVillage"] = "215,102",
 			["Thymüs-PyrewoodVillage"] = "292,105",
 			["Dohbank-PyrewoodVillage"] = "0,25",
-			["Deepfel-PyrewoodVillage"] = "0,25",
+			["Ragerider-PyrewoodVillage"] = "0,25",
 			["Runnerfoxx-PyrewoodVillage"] = "0,25",
-			["Aimar-PyrewoodVillage"] = "353,138",
+			["Rozzco-PyrewoodVillage"] = "75,50",
 			["Ursine-PyrewoodVillage"] = "0,25",
 			["Rounded-PyrewoodVillage"] = "0,25",
 			["Elandrial-PyrewoodVillage"] = "393,79",
@@ -10044,15 +10374,15 @@ CEPGP = {
 			["Crille-PyrewoodVillage"] = "288,48",
 			["Myaccountant-PyrewoodVillage"] = "0,25",
 			["Oldmanarnold-PyrewoodVillage"] = "0,25",
-			["Breetai-PyrewoodVillage"] = "0,25",
+			["Deepfel-PyrewoodVillage"] = "0,25",
 			["Helligskygge-PyrewoodVillage"] = "0,25",
 			["Warlnicuz-PyrewoodVillage"] = "0,25",
 			["Xperiana-PyrewoodVillage"] = "0,25",
 			["Bellus-PyrewoodVillage"] = "0,25",
-			["Hekxen-PyrewoodVillage"] = "0,25",
+			["Aimar-PyrewoodVillage"] = "353,138",
 			["Crittykat-PyrewoodVillage"] = "0,25",
+			["Matrïx-PyrewoodVillage"] = "0,25",
 			["Jnaas-PyrewoodVillage"] = "0,25",
-			["Ciran-PyrewoodVillage"] = "431,28",
 			["Zacur-PyrewoodVillage"] = "344,71",
 			["Grumbleknott-PyrewoodVillage"] = "0,25",
 			["Lutzow-PyrewoodVillage"] = "0,25",
@@ -10066,9 +10396,9 @@ CEPGP = {
 			["Ilia-PyrewoodVillage"] = "348,156",
 			["Skyggeuhygge-PyrewoodVillage"] = "0,25",
 			["Poisiana-PyrewoodVillage"] = "0,25",
-			["Rozzco-PyrewoodVillage"] = "75,50",
-			["Ragerider-PyrewoodVillage"] = "0,25",
-			["Matrïx-PyrewoodVillage"] = "0,25",
+			["Hekxen-PyrewoodVillage"] = "0,25",
+			["Breetai-PyrewoodVillage"] = "0,25",
+			["Ciran-PyrewoodVillage"] = "431,28",
 			["Silvaria-PyrewoodVillage"] = "0,25",
 			["Sinaya-PyrewoodVillage"] = "0,25",
 			["Nekromage-PyrewoodVillage"] = "0,25",
@@ -10076,7 +10406,7 @@ CEPGP = {
 			["Healbotone-PyrewoodVillage"] = "0,25",
 			["Rememberme-PyrewoodVillage"] = "0,25",
 			["Advocado-PyrewoodVillage"] = "0,25",
-			["Deep-PyrewoodVillage"] = "42,42",
+			["Tuarlok-PyrewoodVillage"] = "276,36",
 			["Mizzuna-PyrewoodVillage"] = "0,25",
 			["Yaliha-PyrewoodVillage"] = "0,25",
 			["Daleen-PyrewoodVillage"] = "0,25",
@@ -10379,13 +10709,13 @@ CEPGP = {
 			["Xeih-PyrewoodVillage"] = "0,1",
 			["Ðíor-PyrewoodVillage"] = "0,1",
 			["Sezzo-PyrewoodVillage"] = "0,1",
-			["Fionaa-PyrewoodVillage"] = "61,29",
+			["Gefion-PyrewoodVillage"] = "0,1",
 			["Fedtmule-PyrewoodVillage"] = "0,1",
 			["Aeih-PyrewoodVillage"] = "68,69",
 			["Nefrin-PyrewoodVillage"] = "0,1",
 			["Emeles-PyrewoodVillage"] = "0,1",
 			["Crille-PyrewoodVillage"] = "0,1",
-			["Gefion-PyrewoodVillage"] = "0,1",
+			["Buario-PyrewoodVillage"] = "0,1",
 			["Oldmanarnold-PyrewoodVillage"] = "0,1",
 			["Ragerider-PyrewoodVillage"] = "0,1",
 			["Ris-PyrewoodVillage"] = "0,1",
@@ -10403,7 +10733,7 @@ CEPGP = {
 			["Softball-PyrewoodVillage"] = "0,1",
 			["Pampers-PyrewoodVillage"] = "0,1",
 			["Hightower-PyrewoodVillage"] = "",
-			["Buario-PyrewoodVillage"] = "0,1",
+			["Fionaa-PyrewoodVillage"] = "61,29",
 			["Hotpop-PyrewoodVillage"] = "0,1",
 			["Smækøl-PyrewoodVillage"] = "0,1",
 			["Ilia-PyrewoodVillage"] = "29,1",
@@ -10501,18 +10831,18 @@ AUTOEP = {
 	["Ayamiss the Hunter"] = true,
 	["Ebonroc"] = true,
 	["Heigan the Unclean"] = true,
-	["Renataki"] = true,
+	["Gahz'ranka"] = true,
 	["Azuregos"] = true,
 	["Doom Lord Kazzak"] = true,
-	["Sulfuron Harbinger"] = true,
+	["Gluth"] = true,
 	["Baron Geddon"] = true,
 	["High Priestess Arlokk"] = true,
 	["Gri'lek"] = true,
-	["Gahz'ranka"] = true,
+	["Sapphiron"] = true,
 	["Chromaggus"] = true,
-	["Vaelastrasz the Corrupt"] = true,
-	["Gluth"] = true,
 	["Firemaw"] = true,
+	["Bloodlord Mandokir"] = true,
+	["Renataki"] = true,
 	["Onyxia"] = true,
 	["Shazzrah"] = true,
 	["Razorgore the Untamed"] = true,
@@ -10526,9 +10856,9 @@ AUTOEP = {
 	["Hazza'rah"] = true,
 	["Ragnaros"] = true,
 	["Viscidus"] = true,
-	["Maexxna"] = true,
 	["Hakkar"] = true,
 	["Broodlord Lashlayer"] = true,
+	["Maexxna"] = true,
 	["The Four Horsemen"] = true,
 	["Kurinnaxx"] = true,
 	["Grobbulus"] = true,
@@ -10536,8 +10866,8 @@ AUTOEP = {
 	["Emeriss"] = true,
 	["Magmadar"] = true,
 	["Patchwerk"] = true,
-	["Bloodlord Mandokir"] = true,
-	["Sapphiron"] = true,
+	["Sulfuron Harbinger"] = true,
+	["Vaelastrasz the Corrupt"] = true,
 	["Jin'do the Hexxer"] = true,
 	["Garr"] = true,
 }
@@ -10572,18 +10902,18 @@ EPVALS = {
 	["Ayamiss the Hunter"] = 3,
 	["Ebonroc"] = 7,
 	["Heigan the Unclean"] = 12,
-	["Renataki"] = 2,
+	["Gahz'ranka"] = 2,
 	["Azuregos"] = 7,
 	["Doom Lord Kazzak"] = 7,
-	["Sulfuron Harbinger"] = "1",
+	["Gluth"] = 12,
 	["Baron Geddon"] = "1",
 	["High Priestess Arlokk"] = 2,
 	["Gri'lek"] = 2,
-	["Gahz'ranka"] = 2,
+	["Sapphiron"] = 15,
 	["Chromaggus"] = 7,
-	["Vaelastrasz the Corrupt"] = 7,
-	["Gluth"] = 12,
 	["Firemaw"] = 7,
+	["Bloodlord Mandokir"] = 2,
+	["Renataki"] = 2,
 	["Onyxia"] = 5,
 	["Shazzrah"] = "1",
 	["Razorgore the Untamed"] = 7,
@@ -10597,9 +10927,9 @@ EPVALS = {
 	["Hazza'rah"] = 2,
 	["Ragnaros"] = "6",
 	["Viscidus"] = 10,
-	["Maexxna"] = 15,
 	["Hakkar"] = 3,
 	["Broodlord Lashlayer"] = 7,
+	["Maexxna"] = 15,
 	["The Four Horsemen"] = 15,
 	["Kurinnaxx"] = 3,
 	["Grobbulus"] = 12,
@@ -10607,8 +10937,8 @@ EPVALS = {
 	["Emeriss"] = 7,
 	["Magmadar"] = "1",
 	["Patchwerk"] = 12,
-	["Bloodlord Mandokir"] = 2,
-	["Sapphiron"] = 15,
+	["Sulfuron Harbinger"] = "1",
+	["Vaelastrasz the Corrupt"] = 7,
 	["Jin'do the Hexxer"] = 2,
 	["Garr"] = "1",
 }
@@ -10813,12 +11143,12 @@ RECORDS = {
 		["Maxdude-PyrewoodVillage"] = "0,25",
 		["Highlight-PyrewoodVillage"] = "0,25",
 		["Arniya-PyrewoodVillage"] = "0,25",
-		["Qizy-PyrewoodVillage"] = "0,25",
+		["Deep-PyrewoodVillage"] = "42,42",
 		["Maw-PyrewoodVillage"] = "0,25",
 		["Mcgrumpy-PyrewoodVillage"] = "426,48",
 		["Sinsin-PyrewoodVillage"] = "0,25",
 		["Elyrias-PyrewoodVillage"] = "0,25",
-		["Tuarlok-PyrewoodVillage"] = "276,36",
+		["Qizy-PyrewoodVillage"] = "0,25",
 		["Sávage-PyrewoodVillage"] = "0,25",
 		["Runnerfox-PyrewoodVillage"] = "377,66",
 		["Zraidryn-PyrewoodVillage"] = "0,25",
@@ -10834,9 +11164,9 @@ RECORDS = {
 		["Blackmace-PyrewoodVillage"] = "215,102",
 		["Thymüs-PyrewoodVillage"] = "292,105",
 		["Dohbank-PyrewoodVillage"] = "0,25",
-		["Deepfel-PyrewoodVillage"] = "0,25",
+		["Ragerider-PyrewoodVillage"] = "0,25",
 		["Runnerfoxx-PyrewoodVillage"] = "0,25",
-		["Aimar-PyrewoodVillage"] = "353,138",
+		["Rozzco-PyrewoodVillage"] = "75,50",
 		["Ursine-PyrewoodVillage"] = "0,25",
 		["Rounded-PyrewoodVillage"] = "0,25",
 		["Elandrial-PyrewoodVillage"] = "393,79",
@@ -10846,15 +11176,15 @@ RECORDS = {
 		["Crille-PyrewoodVillage"] = "288,48",
 		["Myaccountant-PyrewoodVillage"] = "0,25",
 		["Oldmanarnold-PyrewoodVillage"] = "0,25",
-		["Breetai-PyrewoodVillage"] = "0,25",
+		["Deepfel-PyrewoodVillage"] = "0,25",
 		["Helligskygge-PyrewoodVillage"] = "0,25",
 		["Warlnicuz-PyrewoodVillage"] = "0,25",
 		["Xperiana-PyrewoodVillage"] = "0,25",
 		["Bellus-PyrewoodVillage"] = "0,25",
-		["Hekxen-PyrewoodVillage"] = "0,25",
+		["Aimar-PyrewoodVillage"] = "353,138",
 		["Crittykat-PyrewoodVillage"] = "0,25",
+		["Matrïx-PyrewoodVillage"] = "0,25",
 		["Jnaas-PyrewoodVillage"] = "0,25",
-		["Ciran-PyrewoodVillage"] = "431,28",
 		["Zacur-PyrewoodVillage"] = "344,71",
 		["Grumbleknott-PyrewoodVillage"] = "0,25",
 		["Lutzow-PyrewoodVillage"] = "0,25",
@@ -10868,9 +11198,9 @@ RECORDS = {
 		["Ilia-PyrewoodVillage"] = "348,156",
 		["Skyggeuhygge-PyrewoodVillage"] = "0,25",
 		["Poisiana-PyrewoodVillage"] = "0,25",
-		["Rozzco-PyrewoodVillage"] = "75,50",
-		["Ragerider-PyrewoodVillage"] = "0,25",
-		["Matrïx-PyrewoodVillage"] = "0,25",
+		["Hekxen-PyrewoodVillage"] = "0,25",
+		["Breetai-PyrewoodVillage"] = "0,25",
+		["Ciran-PyrewoodVillage"] = "431,28",
 		["Silvaria-PyrewoodVillage"] = "0,25",
 		["Sinaya-PyrewoodVillage"] = "0,25",
 		["Nekromage-PyrewoodVillage"] = "0,25",
@@ -10878,7 +11208,7 @@ RECORDS = {
 		["Healbotone-PyrewoodVillage"] = "0,25",
 		["Rememberme-PyrewoodVillage"] = "0,25",
 		["Advocado-PyrewoodVillage"] = "0,25",
-		["Deep-PyrewoodVillage"] = "42,42",
+		["Tuarlok-PyrewoodVillage"] = "276,36",
 		["Mizzuna-PyrewoodVillage"] = "0,25",
 		["Yaliha-PyrewoodVillage"] = "0,25",
 		["Daleen-PyrewoodVillage"] = "0,25",
@@ -11181,13 +11511,13 @@ RECORDS = {
 		["Xeih-PyrewoodVillage"] = "0,1",
 		["Ðíor-PyrewoodVillage"] = "0,1",
 		["Sezzo-PyrewoodVillage"] = "0,1",
-		["Fionaa-PyrewoodVillage"] = "61,29",
+		["Gefion-PyrewoodVillage"] = "0,1",
 		["Fedtmule-PyrewoodVillage"] = "0,1",
 		["Aeih-PyrewoodVillage"] = "68,69",
 		["Nefrin-PyrewoodVillage"] = "0,1",
 		["Emeles-PyrewoodVillage"] = "0,1",
 		["Crille-PyrewoodVillage"] = "0,1",
-		["Gefion-PyrewoodVillage"] = "0,1",
+		["Buario-PyrewoodVillage"] = "0,1",
 		["Oldmanarnold-PyrewoodVillage"] = "0,1",
 		["Ragerider-PyrewoodVillage"] = "0,1",
 		["Ris-PyrewoodVillage"] = "0,1",
@@ -11205,7 +11535,7 @@ RECORDS = {
 		["Softball-PyrewoodVillage"] = "0,1",
 		["Pampers-PyrewoodVillage"] = "0,1",
 		["Hightower-PyrewoodVillage"] = "",
-		["Buario-PyrewoodVillage"] = "0,1",
+		["Fionaa-PyrewoodVillage"] = "61,29",
 		["Hotpop-PyrewoodVillage"] = "0,1",
 		["Smækøl-PyrewoodVillage"] = "0,1",
 		["Ilia-PyrewoodVillage"] = "29,1",
@@ -20534,6 +20864,336 @@ TRAFFIC = {
 		"", -- [8]
 		1582827474, -- [9]
 	}, -- [857]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +1 (Raid start)", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		[9] = "1582829881",
+	}, -- [858]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +7 - Razorgore the Untamed", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		[9] = "1582830763",
+	}, -- [859]
+	{
+		"Arihm", -- [1]
+		"Szh", -- [2]
+		"Add GP 18 (Main Spec)", -- [3]
+		"394", -- [4]
+		"394", -- [5]
+		"90", -- [6]
+		"108", -- [7]
+		"|cffa335ee|Hitem:16911:::::::::::::|h[Bloodfang Bracers]|h|r", -- [8]
+		"1582830798", -- [9]
+	}, -- [860]
+	{
+		"Skystrike", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Off Spec)", -- [3]
+		"294", -- [4]
+		"294", -- [5]
+		"95", -- [6]
+		"95", -- [7]
+		"|cffa335ee|Hitem:19336:::::::::::::|h[Arcane Infused Gem]|h|r", -- [8]
+		"1582830828", -- [9]
+	}, -- [861]
+	{
+		"Aldebaren", -- [1]
+		"Szh", -- [2]
+		"Add GP 18 (Main Spec)", -- [3]
+		"432", -- [4]
+		"432", -- [5]
+		"83", -- [6]
+		"101", -- [7]
+		"|cffa335ee|Hitem:16951:::::::::::::|h[Judgement Bindings]|h|r", -- [8]
+		"1582830852", -- [9]
+	}, -- [862]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +7 - Vaelastrasz the Corrupt", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		[9] = "1582831547",
+	}, -- [863]
+	{
+		"Geshan", -- [1]
+		"Szh", -- [2]
+		"Add GP 27 (Main Spec)", -- [3]
+		"417", -- [4]
+		"417", -- [5]
+		"72", -- [6]
+		"99", -- [7]
+		"|cffa335ee|Hitem:16910:::::::::::::|h[Bloodfang Belt]|h|r", -- [8]
+		"1582831602", -- [9]
+	}, -- [864]
+	{
+		"Vulnus", -- [1]
+		"Szh", -- [2]
+		"Add GP 27 (Main Spec)", -- [3]
+		"44", -- [4]
+		"44", -- [5]
+		"25", -- [6]
+		"52", -- [7]
+		"|cffa335ee|Hitem:16903:::::::::::::|h[Stormrage Belt]|h|r", -- [8]
+		"1582831648", -- [9]
+	}, -- [865]
+	{
+		"Arihm", -- [1]
+		"Szh", -- [2]
+		"Add GP 52 (Main Spec)", -- [3]
+		"401", -- [4]
+		"401", -- [5]
+		"108", -- [6]
+		"160", -- [7]
+		"|cffa335ee|Hitem:19346:::::::::::::|h[Dragonfang Blade]|h|r", -- [8]
+		"1582831680", -- [9]
+	}, -- [866]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +7 - Broodlord Lashlayer", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		[9] = "1582834098",
+	}, -- [867]
+	{
+		"Thymüs", -- [1]
+		"Szh", -- [2]
+		"Add GP 27 (Main Spec)", -- [3]
+		"339", -- [4]
+		"339", -- [5]
+		"94", -- [6]
+		"121", -- [7]
+		"|cffa335ee|Hitem:16927:::::::::::::|h[Nemesis Boots]|h|r", -- [8]
+		"1582834129", -- [9]
+	}, -- [868]
+	{
+		"Blackmace", -- [1]
+		"Szh", -- [2]
+		"Add GP 27 (Main Spec)", -- [3]
+		"270", -- [4]
+		"270", -- [5]
+		"91", -- [6]
+		"118", -- [7]
+		"|cffa335ee|Hitem:16927:::::::::::::|h[Nemesis Boots]|h|r", -- [8]
+		"1582834154", -- [9]
+	}, -- [869]
+	{
+		"Zenster", -- [1]
+		"Szh", -- [2]
+		"Add GP 53 (Main Spec)", -- [3]
+		"379", -- [4]
+		"379", -- [5]
+		"75", -- [6]
+		"128", -- [7]
+		"|cffa335ee|Hitem:19351:::::::::::::|h[Maladath, Runed Blade of the Black Flight]|h|r", -- [8]
+		"1582834187", -- [9]
+	}, -- [870]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +7 - Firemaw", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		[9] = "1582835660",
+	}, -- [871]
+	{
+		"Elandrial", -- [1]
+		"Szh", -- [2]
+		"Add GP 35 (Main Spec)", -- [3]
+		"425", -- [4]
+		"425", -- [5]
+		"71", -- [6]
+		"106", -- [7]
+		"|cffa335ee|Hitem:19402:::::::::::::|h[Legguards of the Fallen Crusader]|h|r", -- [8]
+		"1582835688", -- [9]
+	}, -- [872]
+	{
+		"Mcgrumpy", -- [1]
+		"Szh", -- [2]
+		"Add GP 27 (Main Spec)", -- [3]
+		"461", -- [4]
+		"461", -- [5]
+		"43", -- [6]
+		"70", -- [7]
+		"|cffa335ee|Hitem:16913:::::::::::::|h[Netherwind Gloves]|h|r", -- [8]
+		"1582835713", -- [9]
+	}, -- [873]
+	{
+		"Zarlina", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Off Spec)", -- [3]
+		"416", -- [4]
+		"416", -- [5]
+		"101", -- [6]
+		"101", -- [7]
+		"|cffa335ee|Hitem:19439:::::::::::::|h[Interlaced Shadow Jerkin]|h|r", -- [8]
+		"1582837845", -- [9]
+	}, -- [874]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +7 - Ebonroc", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		[9] = "1582838386",
+	}, -- [875]
+	{
+		"Tuarlok", -- [1]
+		"Szh", -- [2]
+		"Add GP 26 (Main Spec)", -- [3]
+		"339", -- [4]
+		"339", -- [5]
+		"32", -- [6]
+		"58", -- [7]
+		"|cffa335ee|Hitem:19407:::::::::::::|h[Ebony Flame Gloves]|h|r", -- [8]
+		"1582838415", -- [9]
+	}, -- [876]
+	{
+		"Tuarlok", -- [1]
+		"Szh", -- [2]
+		"Add GP 17 (Main Spec)", -- [3]
+		"339", -- [4]
+		"339", -- [5]
+		"58", -- [6]
+		"75", -- [7]
+		"|cffa335ee|Hitem:19397:::::::::::::|h[Ring of Blackrock]|h|r", -- [8]
+		"1582838443", -- [9]
+	}, -- [877]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +7 - Flamegor", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		[9] = "1582838646",
+	}, -- [878]
+	{
+		"Elandrial", -- [1]
+		"Szh", -- [2]
+		"Add GP 17 (Main Spec)", -- [3]
+		"439", -- [4]
+		"439", -- [5]
+		"106", -- [6]
+		"123", -- [7]
+		"|cffa335ee|Hitem:19432:::::::::::::|h[Circle of Applied Force]|h|r", -- [8]
+		"1582838705", -- [9]
+	}, -- [879]
+	{
+		"Adamantine", -- [1]
+		"Szh", -- [2]
+		"Add GP 27 (Main Spec)", -- [3]
+		"175", -- [4]
+		"175", -- [5]
+		"61", -- [6]
+		"88", -- [7]
+		"|cffa335ee|Hitem:16964:::::::::::::|h[Gauntlets of Wrath]|h|r", -- [8]
+		"1582838737", -- [9]
+	}, -- [880]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +7 - Chromaggus", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		[9] = "1582840571",
+	}, -- [881]
+	{
+		"Forsetius", -- [1]
+		"Szh", -- [2]
+		"Add GP 27 (Main Spec)", -- [3]
+		"365", -- [4]
+		"365", -- [5]
+		"123", -- [6]
+		"150", -- [7]
+		"|cffa335ee|Hitem:16953:::::::::::::|h[Judgement Spaulders]|h|r", -- [8]
+		"1582840602", -- [9]
+	}, -- [882]
+	{
+		"Lylalia", -- [1]
+		"Szh", -- [2]
+		"Add GP 27 (Main Spec)", -- [3]
+		"475", -- [4]
+		"475", -- [5]
+		"129", -- [6]
+		"156", -- [7]
+		"|cffa335ee|Hitem:16832:::::::::::::|h[Bloodfang Spaulders]|h|r", -- [8]
+		"1582840627", -- [9]
+	}, -- [883]
+	{
+		"Ciran", -- [1]
+		"Szh", -- [2]
+		"Add GP 18 (Main Spec)", -- [3]
+		"492", -- [4]
+		"492", -- [5]
+		"25", -- [6]
+		"43", -- [7]
+		"|cffa335ee|Hitem:19386:::::::::::::|h[Elementium Threaded Cloak]|h|r", -- [8]
+		"1582840643", -- [9]
+	}, -- [884]
+	{
+		"Wangfooklong", -- [1]
+		"Szh", -- [2]
+		"Add GP 28 (Main Spec)", -- [3]
+		"311", -- [4]
+		"311", -- [5]
+		"72", -- [6]
+		"100", -- [7]
+		"|cffa335ee|Hitem:19388:::::::::::::|h[Angelista's Grasp]|h|r", -- [8]
+		"1582840672", -- [9]
+	}, -- [885]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +1 (Raid slut)", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		[9] = "1582840770",
+	}, -- [886]
+	{
+		"Aimar", -- [1]
+		"Szh", -- [2]
+		"Add GP 27 (Belt)", -- [3]
+		"398", -- [4]
+		"398", -- [5]
+		"124", -- [6]
+		"151", -- [7]
+		[9] = "1582840872",
+	}, -- [887]
+	{
+		"Wangfooklong", -- [1]
+		"Szh", -- [2]
+		"Subtract GP 27 (Belt)", -- [3]
+		"312", -- [4]
+		"312", -- [5]
+		"46", -- [6]
+		"100", -- [7]
+		[9] = "1582840896",
+	}, -- [888]
 }
 CEPGP_raid_logs = {
 	{
