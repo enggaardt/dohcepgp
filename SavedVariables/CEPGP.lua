@@ -61,7 +61,6 @@ CEPGP = {
 		["Percent"] = 0,
 		["Share"] = false,
 	},
-	["Notice"] = true,
 	["Exclusions"] = {
 		false, -- [1]
 		false, -- [2]
@@ -74,6 +73,7 @@ CEPGP = {
 		false, -- [9]
 		false, -- [10]
 	},
+	["Notice"] = true,
 	["Backups"] = {
 		[""] = {
 			["Mcdaggerface-PyrewoodVillage"] = "0,25",
@@ -143,16 +143,16 @@ CEPGP = {
 			["Frozzywhimp-PyrewoodVillage"] = "0,25",
 			["Kassidy-PyrewoodVillage"] = "0,25",
 			["Hally-PyrewoodVillage"] = "0,25",
-			["Ohéaly-PyrewoodVillage"] = "505,92",
+			["Daryel-PyrewoodVillage"] = "0,25",
 			["Aladiss-PyrewoodVillage"] = "11,25",
 			["Renpels-PyrewoodVillage"] = "0,25",
-			["Skystrike-PyrewoodVillage"] = "566,162",
-			["Gearup-PyrewoodVillage"] = "0,25",
+			["Grumblegutt-PyrewoodVillage"] = "0,25",
+			["Applepot-PyrewoodVillage"] = "0,25",
 			["Auras-PyrewoodVillage"] = "0,25",
 			["Unclenecro-PyrewoodVillage"] = "548,162",
 			["Halbera-PyrewoodVillage"] = "0,25",
 			["Casmus-PyrewoodVillage"] = "0,25",
-			["Applepot-PyrewoodVillage"] = "0,25",
+			["Gearup-PyrewoodVillage"] = "0,25",
 			["Hullo-PyrewoodVillage"] = "0,25",
 			["Haddoc-PyrewoodVillage"] = "0,25",
 			["Arnia-PyrewoodVillage"] = "0,25",
@@ -163,7 +163,7 @@ CEPGP = {
 			["Wigga-PyrewoodVillage"] = "0,25",
 			["Noosie-PyrewoodVillage"] = "0,25",
 			["Stabster-PyrewoodVillage"] = "0,25",
-			["Aben-PyrewoodVillage"] = "0,25",
+			["Amaronee-PyrewoodVillage"] = "0,25",
 			["Necromaniaxx-PyrewoodVillage"] = "0,25",
 			["Thybo-PyrewoodVillage"] = "0,25",
 			["Tálpá-PyrewoodVillage"] = "332,93",
@@ -173,24 +173,24 @@ CEPGP = {
 			["Garkan-PyrewoodVillage"] = "0,25",
 			["Daphreen-PyrewoodVillage"] = "0,25",
 			["Sellomatic-PyrewoodVillage"] = "0,25",
-			["Diavell-PyrewoodVillage"] = "0,25",
-			["Amaronee-PyrewoodVillage"] = "0,25",
+			["Skybanker-PyrewoodVillage"] = "0,25",
+			["Aben-PyrewoodVillage"] = "0,25",
 			["Orieck-PyrewoodVillage"] = "0,25",
 			["Mayce-PyrewoodVillage"] = "0,25",
 			["Zorgulba-PyrewoodVillage"] = "0,25",
 			["Froren-PyrewoodVillage"] = "0,25",
-			["Wowarrow-PyrewoodVillage"] = "659,182",
-			["Blixa-PyrewoodVillage"] = "0,25",
+			["Adamantine-PyrewoodVillage"] = "470,242",
+			["Szheal-PyrewoodVillage"] = "0,25",
 			["Bagthera-PyrewoodVillage"] = "3,32",
 			["Northgard-PyrewoodVillage"] = "41,208",
 			["Excon-PyrewoodVillage"] = "0,25",
-			["Adamantine-PyrewoodVillage"] = "470,242",
+			["Wowarrow-PyrewoodVillage"] = "659,182",
 			["Scaladei-PyrewoodVillage"] = "15,25",
 			["Blixy-PyrewoodVillage"] = "0,25",
-			["Legendaryelf-PyrewoodVillage"] = "",
+			["Zanci-PyrewoodVillage"] = "0,25",
 			["Obóytoy-PyrewoodVillage"] = "",
 			["Thebigboy-PyrewoodVillage"] = "63,28",
-			["Zanci-PyrewoodVillage"] = "0,25",
+			["Legendaryelf-PyrewoodVillage"] = "",
 			["Krokos-PyrewoodVillage"] = "432,101",
 			["Micropop-PyrewoodVillage"] = "",
 			["Enfermero-PyrewoodVillage"] = "0,25",
@@ -201,10 +201,10 @@ CEPGP = {
 			["Thri-PyrewoodVillage"] = "0,25",
 			["Phoenican-PyrewoodVillage"] = "0,25",
 			["Drikkerikke-PyrewoodVillage"] = "0,25",
-			["Qizy-PyrewoodVillage"] = "0,25",
+			["Tuarlok-PyrewoodVillage"] = "376,62",
 			["Mizzuna-PyrewoodVillage"] = "0,25",
 			["Humansource-PyrewoodVillage"] = "0,25",
-			["Tuarlok-PyrewoodVillage"] = "376,62",
+			["Qizy-PyrewoodVillage"] = "0,25",
 			["Asteríx-PyrewoodVillage"] = "",
 			["Highlight-PyrewoodVillage"] = "0,25",
 			["Jnaas-PyrewoodVillage"] = "0,25",
@@ -228,28 +228,28 @@ CEPGP = {
 			["Wittelsbach-PyrewoodVillage"] = "0,25",
 			["Blackmace-PyrewoodVillage"] = "546,147",
 			["Thymüs-PyrewoodVillage"] = "596,133",
-			["Crille-PyrewoodVillage"] = "506,208",
+			["Dohbank-PyrewoodVillage"] = "0,25",
 			["Ilia-PyrewoodVillage"] = "546,227",
 			["Runnerfoxx-PyrewoodVillage"] = "12,45",
 			["Hekxen-PyrewoodVillage"] = "0,25",
 			["Ursine-PyrewoodVillage"] = "0,25",
 			["Iconbank-PyrewoodVillage"] = "0,25",
-			["Sparrow-PyrewoodVillage"] = "0,25",
+			["Ciran-PyrewoodVillage"] = "669,127",
 			["Rounded-PyrewoodVillage"] = "0,25",
 			["Nefrin-PyrewoodVillage"] = "0,25",
 			["Daparras-PyrewoodVillage"] = "0,25",
-			["Dohbank-PyrewoodVillage"] = "0,25",
+			["Crille-PyrewoodVillage"] = "506,208",
 			["Elandrial-PyrewoodVillage"] = "634,183",
 			["Oldmanarnold-PyrewoodVillage"] = "0,25",
 			["Ragerider-PyrewoodVillage"] = "0,25",
 			["Sunnu-PyrewoodVillage"] = "0,25",
-			["Huntert-PyrewoodVillage"] = "22,60",
+			["Warlnicuz-PyrewoodVillage"] = "0,25",
 			["Myaccountant-PyrewoodVillage"] = "14,117",
 			["Diavelu-PyrewoodVillage"] = "292,161",
 			["Stegger-PyrewoodVillage"] = "0,25",
 			["Poisiana-PyrewoodVillage"] = "0,25",
 			["Shespy-PyrewoodVillage"] = "",
-			["Ciran-PyrewoodVillage"] = "669,127",
+			["Sparrow-PyrewoodVillage"] = "0,25",
 			["Zacur-PyrewoodVillage"] = "558,83",
 			["Grumbleknott-PyrewoodVillage"] = "0,25",
 			["Bellus-PyrewoodVillage"] = "0,25",
@@ -261,19 +261,19 @@ CEPGP = {
 			["Hotpop-PyrewoodVillage"] = "0,25",
 			["Smækøl-PyrewoodVillage"] = "0,25",
 			["Nexsia-PyrewoodVillage"] = "83,231",
-			["Skyggeuhygge-PyrewoodVillage"] = "0,25",
+			["Aldebaren-PyrewoodVillage"] = "627,69",
 			["Matrïx-PyrewoodVillage"] = "0,25",
-			["Warlnicuz-PyrewoodVillage"] = "0,25",
+			["Huntert-PyrewoodVillage"] = "22,60",
 			["Deepfel-PyrewoodVillage"] = "0,25",
 			["Badur-PyrewoodVillage"] = "0,25",
-			["Aldebaren-PyrewoodVillage"] = "627,69",
+			["Skyggeuhygge-PyrewoodVillage"] = "0,25",
 			["Sinaya-PyrewoodVillage"] = "0,25",
 			["Nekromage-PyrewoodVillage"] = "24,48",
-			["Healbotone-PyrewoodVillage"] = "0,25",
+			["Enggaardk-PyrewoodVillage"] = "0,25",
 			["Breetai-PyrewoodVillage"] = "0,25",
 			["Rememberme-PyrewoodVillage"] = "23,25",
 			["Advocado-PyrewoodVillage"] = "0,25",
-			["Enggaardk-PyrewoodVillage"] = "0,25",
+			["Healbotone-PyrewoodVillage"] = "0,25",
 			["Didnthurt-PyrewoodVillage"] = "0,25",
 			["Yaliha-PyrewoodVillage"] = "7,32",
 			["Daleen-PyrewoodVillage"] = "22,39",
@@ -289,22 +289,22 @@ CEPGP = {
 			["Moleen-PyrewoodVillage"] = "0,25",
 			["Muhkoo-PyrewoodVillage"] = "",
 			["Trinia-PyrewoodVillage"] = "0,25",
-			["Szheal-PyrewoodVillage"] = "0,25",
+			["Blixa-PyrewoodVillage"] = "0,25",
 			["Gillis-PyrewoodVillage"] = "0,25",
 			["Regnbueis-PyrewoodVillage"] = "0,25",
 			["Paladinicuz-PyrewoodVillage"] = "45,25",
 			["Grumbelaar-PyrewoodVillage"] = "120,87",
-			["Skybanker-PyrewoodVillage"] = "0,25",
+			["Diavell-PyrewoodVillage"] = "0,25",
 			["Talpa-PyrewoodVillage"] = "295,59",
 			["Thÿmus-PyrewoodVillage"] = "0,25",
 			["Lailah-PyrewoodVillage"] = "0,25",
 			["Ícon-PyrewoodVillage"] = "579,99",
 			["Ulrikka-PyrewoodVillage"] = "0,25",
 			["Braunstein-PyrewoodVillage"] = "0,25",
-			["Daryel-PyrewoodVillage"] = "0,25",
+			["Ohéaly-PyrewoodVillage"] = "505,92",
 			["Norrgard-PyrewoodVillage"] = "0,25",
 			["Tálpa-PyrewoodVillage"] = "0,25",
-			["Grumblegutt-PyrewoodVillage"] = "0,25",
+			["Skystrike-PyrewoodVillage"] = "566,162",
 			["Zarrlock-PyrewoodVillage"] = "0,25",
 			["Irememberyou-PyrewoodVillage"] = "0,25",
 			["Vulnus-PyrewoodVillage"] = "69,45",
@@ -353,7 +353,7 @@ CEPGP = {
 			["Oriick-PyrewoodVillage"] = "0,25",
 			["Djmad-PyrewoodVillage"] = "0,25",
 			["Sinoz-PyrewoodVillage"] = "0,25",
-			["Gotyourback-PyrewoodVillage"] = "0,25",
+			["Alodor-PyrewoodVillage"] = "0,25",
 			["Frozzywhimp-PyrewoodVillage"] = "0,25",
 			["Daphereen-PyrewoodVillage"] = "415,215",
 			["Talpá-PyrewoodVillage"] = "0,25",
@@ -392,7 +392,7 @@ CEPGP = {
 			["Auras-PyrewoodVillage"] = "0,25",
 			["Applepot-PyrewoodVillage"] = "0,25",
 			["Halbera-PyrewoodVillage"] = "0,25",
-			["Ohéaly-PyrewoodVillage"] = "385,113",
+			["Casmus-PyrewoodVillage"] = "0,25",
 			["Gearup-PyrewoodVillage"] = "0,25",
 			["Pyanfar-PyrewoodVillage"] = "0,25",
 			["Haddoc-PyrewoodVillage"] = "0,25",
@@ -400,7 +400,7 @@ CEPGP = {
 			["Thybo-PyrewoodVillage"] = "0,25",
 			["Bjornstar-PyrewoodVillage"] = "0,25",
 			["Arihm-PyrewoodVillage"] = "507,153",
-			["Garkan-PyrewoodVillage"] = "0,25",
+			["Clas-PyrewoodVillage"] = "0,25",
 			["Wigga-PyrewoodVillage"] = "0,25",
 			["Noosie-PyrewoodVillage"] = "0,25",
 			["Tenox-PyrewoodVillage"] = "0,25",
@@ -411,33 +411,33 @@ CEPGP = {
 			["Dura-PyrewoodVillage"] = "0,25",
 			["Mayce-PyrewoodVillage"] = "0,25",
 			["Theícon-PyrewoodVillage"] = "6,25",
-			["Clas-PyrewoodVillage"] = "0,25",
+			["Garkan-PyrewoodVillage"] = "0,25",
 			["Pewster-PyrewoodVillage"] = "0,25",
-			["Tourmentfire-PyrewoodVillage"] = "0,25",
+			["Stabster-PyrewoodVillage"] = "0,25",
 			["Hoy-PyrewoodVillage"] = "0,25",
 			["Amaronee-PyrewoodVillage"] = "0,25",
 			["Sellomatic-PyrewoodVillage"] = "0,25",
 			["Riviana-PyrewoodVillage"] = "0,25",
 			["Fangorr-PyrewoodVillage"] = "0,25",
-			["Wangfooklong-PyrewoodVillage"] = "405,82",
-			["Szheal-PyrewoodVillage"] = "0,25",
+			["Froren-PyrewoodVillage"] = "0,25",
 			["Blixa-PyrewoodVillage"] = "0,25",
+			["Szheal-PyrewoodVillage"] = "0,25",
 			["Bagthera-PyrewoodVillage"] = "6,45",
 			["Northgard-PyrewoodVillage"] = "0,25",
 			["Excon-PyrewoodVillage"] = "0,25",
 			["Wowarrow-PyrewoodVillage"] = "598,174",
 			["Scaladei-PyrewoodVillage"] = "22,25",
-			["Adamantine-PyrewoodVillage"] = "338,231",
+			["Blixy-PyrewoodVillage"] = "0,25",
 			["Fwoozy-PyrewoodVillage"] = "586,91",
 			["Dawina-PyrewoodVillage"] = "25,25",
 			["Mimy-PyrewoodVillage"] = "528,136",
-			["Zanci-PyrewoodVillage"] = "0,25",
+			["Moriathi-PyrewoodVillage"] = "0,25",
 			["Krokos-PyrewoodVillage"] = "369,90",
 			["Thebigboy-PyrewoodVillage"] = "87,40",
 			["Enfermero-PyrewoodVillage"] = "0,25",
 			["Zorgulba-PyrewoodVillage"] = "0,25",
-			["Silia-PyrewoodVillage"] = "0,25",
 			["Zeti-PyrewoodVillage"] = "0,25",
+			["Silia-PyrewoodVillage"] = "0,25",
 			["Healgirl-PyrewoodVillage"] = "0,25",
 			["Thri-PyrewoodVillage"] = "0,25",
 			["Phoenican-PyrewoodVillage"] = "0,25",
@@ -445,13 +445,13 @@ CEPGP = {
 			["Knagerække-PyrewoodVillage"] = "0,25",
 			["Drikkerikke-PyrewoodVillage"] = "0,25",
 			["Humansource-PyrewoodVillage"] = "0,25",
-			["Tuarlok-PyrewoodVillage"] = "449,86",
+			["Deep-PyrewoodVillage"] = "29,29",
 			["Arniya-PyrewoodVillage"] = "0,25",
 			["Highlight-PyrewoodVillage"] = "0,25",
-			["Sinsin-PyrewoodVillage"] = "11,25",
+			["Tourment-PyrewoodVillage"] = "0,25",
 			["Palidine-PyrewoodVillage"] = "78,32",
 			["Maw-PyrewoodVillage"] = "0,25",
-			["Mcgrumpy-PyrewoodVillage"] = "588,75",
+			["Mizzuna-PyrewoodVillage"] = "0,25",
 			["Raptoxx-PyrewoodVillage"] = "0,25",
 			["Elyrias-PyrewoodVillage"] = "0,25",
 			["Qizy-PyrewoodVillage"] = "0,25",
@@ -459,66 +459,66 @@ CEPGP = {
 			["Holleen-PyrewoodVillage"] = "0,25",
 			["Zraidryn-PyrewoodVillage"] = "0,25",
 			["Runnerfox-PyrewoodVillage"] = "506,104",
-			["Sparrow-PyrewoodVillage"] = "0,25",
-			["Tourment-PyrewoodVillage"] = "0,25",
-			["Breetai-PyrewoodVillage"] = "0,25",
+			["Ciran-PyrewoodVillage"] = "612,57",
+			["Sinsin-PyrewoodVillage"] = "11,25",
+			["Ragerider-PyrewoodVillage"] = "0,25",
 			["Slapster-PyrewoodVillage"] = "601,212",
 			["Zarz-PyrewoodVillage"] = "0,25",
 			["Sinaya-PyrewoodVillage"] = "0,25",
 			["Rounded-PyrewoodVillage"] = "0,25",
-			["Matrïx-PyrewoodVillage"] = "0,25",
+			["Lylalia-PyrewoodVillage"] = "580,179",
 			["Blackmace-PyrewoodVillage"] = "443,204",
 			["Thymüs-PyrewoodVillage"] = "511,135",
-			["Huntert-PyrewoodVillage"] = "0,25",
+			["Warlnicuz-PyrewoodVillage"] = "0,25",
 			["Aimar-PyrewoodVillage"] = "530,164",
 			["Runnerfoxx-PyrewoodVillage"] = "16,25",
-			["Poisiana-PyrewoodVillage"] = "0,25",
+			["Crittykat-PyrewoodVillage"] = "0,25",
 			["Ursine-PyrewoodVillage"] = "0,25",
 			["Skyggeuhygge-PyrewoodVillage"] = "0,25",
 			["Ilia-PyrewoodVillage"] = "524,207",
 			["Hekxen-PyrewoodVillage"] = "0,25",
 			["Nefrin-PyrewoodVillage"] = "0,25",
 			["Daparras-PyrewoodVillage"] = "0,25",
-			["Dohbank-PyrewoodVillage"] = "0,25",
+			["Crille-PyrewoodVillage"] = "417,199",
 			["Myaccountant-PyrewoodVillage"] = "20,162",
 			["Oldmanarnold-PyrewoodVillage"] = "0,25",
 			["Deepfel-PyrewoodVillage"] = "0,25",
 			["Fionaa-PyrewoodVillage"] = "587,117",
-			["Warlnicuz-PyrewoodVillage"] = "0,25",
-			["Sunnu-PyrewoodVillage"] = "0,25",
+			["Huntert-PyrewoodVillage"] = "0,25",
+			["Grumbleknott-PyrewoodVillage"] = "0,25",
 			["Diavelu-PyrewoodVillage"] = "94,25",
 			["Stegger-PyrewoodVillage"] = "",
-			["Crittykat-PyrewoodVillage"] = "0,25",
+			["Poisiana-PyrewoodVillage"] = "0,25",
 			["Lutzow-PyrewoodVillage"] = "0,25",
-			["Jnaas-PyrewoodVillage"] = "0,25",
+			["Sparrow-PyrewoodVillage"] = "0,25",
 			["Zacur-PyrewoodVillage"] = "465,50",
-			["Grumbleknott-PyrewoodVillage"] = "0,25",
+			["Sunnu-PyrewoodVillage"] = "0,25",
 			["Daphreen-PyrewoodVillage"] = "0,25",
 			["Delmoren-PyrewoodVillage"] = "0,25",
 			["Softball-PyrewoodVillage"] = "0,25",
 			["Moffe-PyrewoodVillage"] = "193,27",
-			["Lylalia-PyrewoodVillage"] = "580,179",
+			["Jnaas-PyrewoodVillage"] = "0,25",
 			["Bellus-PyrewoodVillage"] = "0,25",
 			["Hotpop-PyrewoodVillage"] = "0,25",
 			["Smækøl-PyrewoodVillage"] = "0,25",
 			["Elandrial-PyrewoodVillage"] = "563,154",
 			["Aldebaren-PyrewoodVillage"] = "580,96",
-			["Ciran-PyrewoodVillage"] = "612,57",
-			["Ragerider-PyrewoodVillage"] = "0,25",
-			["Crille-PyrewoodVillage"] = "417,199",
+			["Matrïx-PyrewoodVillage"] = "0,25",
+			["Breetai-PyrewoodVillage"] = "0,25",
+			["Dohbank-PyrewoodVillage"] = "0,25",
 			["Badur-PyrewoodVillage"] = "",
 			["Silvaria-PyrewoodVillage"] = "0,25",
 			["Wittelsbach-PyrewoodVillage"] = "0,25",
 			["Nekromage-PyrewoodVillage"] = "0,25",
-			["Healbotone-PyrewoodVillage"] = "0,25",
+			["Enggaardk-PyrewoodVillage"] = "0,25",
 			["Didnthurt-PyrewoodVillage"] = "0,25",
 			["Rememberme-PyrewoodVillage"] = "16,25",
 			["Advocado-PyrewoodVillage"] = "0,25",
-			["Enggaardk-PyrewoodVillage"] = "0,25",
-			["Deep-PyrewoodVillage"] = "29,29",
+			["Healbotone-PyrewoodVillage"] = "0,25",
+			["Tuarlok-PyrewoodVillage"] = "449,86",
 			["Yaliha-PyrewoodVillage"] = "11,45",
 			["Daleen-PyrewoodVillage"] = "0,25",
-			["Mizzuna-PyrewoodVillage"] = "0,25",
+			["Mcgrumpy-PyrewoodVillage"] = "588,75",
 			["Fumblefinger-PyrewoodVillage"] = "514,94",
 			["Thymus-PyrewoodVillage"] = "89,25",
 			["Grovn-PyrewoodVillage"] = "0,25",
@@ -528,21 +528,21 @@ CEPGP = {
 			["Zeraal-PyrewoodVillage"] = "528,187",
 			["Bootes-PyrewoodVillage"] = "0,25",
 			["Moleen-PyrewoodVillage"] = "0,25",
-			["Moriathi-PyrewoodVillage"] = "0,25",
+			["Zanci-PyrewoodVillage"] = "0,25",
 			["Trinia-PyrewoodVillage"] = "0,25",
-			["Blixy-PyrewoodVillage"] = "0,25",
-			["Froren-PyrewoodVillage"] = "0,25",
+			["Adamantine-PyrewoodVillage"] = "338,231",
+			["Wangfooklong-PyrewoodVillage"] = "405,82",
 			["Regnbueis-PyrewoodVillage"] = "0,25",
 			["Paladinicuz-PyrewoodVillage"] = "63,25",
 			["Grumbelaar-PyrewoodVillage"] = "74,120",
-			["Stabster-PyrewoodVillage"] = "0,25",
+			["Tourmentfire-PyrewoodVillage"] = "0,25",
 			["Talpa-PyrewoodVillage"] = "406,83",
 			["Thÿmus-PyrewoodVillage"] = "0,25",
 			["Lailah-PyrewoodVillage"] = "0,25",
 			["Ícon-PyrewoodVillage"] = "534,104",
 			["Ulrikka-PyrewoodVillage"] = "0,25",
 			["Braunstein-PyrewoodVillage"] = "0,25",
-			["Casmus-PyrewoodVillage"] = "0,25",
+			["Ohéaly-PyrewoodVillage"] = "385,113",
 			["Norrgard-PyrewoodVillage"] = "0,25",
 			["Telyah-PyrewoodVillage"] = "0,25",
 			["Hullo-PyrewoodVillage"] = "0,25",
@@ -554,7 +554,7 @@ CEPGP = {
 			["Darwina-PyrewoodVillage"] = "0,25",
 			["Geshan-PyrewoodVillage"] = "492,119",
 			["Aplais-PyrewoodVillage"] = "0,25",
-			["Alodor-PyrewoodVillage"] = "0,25",
+			["Gotyourback-PyrewoodVillage"] = "0,25",
 			["Achernar-PyrewoodVillage"] = "0,25",
 		},
 		["raid_3"] = {
@@ -783,8 +783,8 @@ CEPGP = {
 			["Animatuz-PyrewoodVillage"] = "0,1",
 			["Frejjaa-PyrewoodVillage"] = "0,1",
 			["Thri-PyrewoodVillage"] = "0,1",
-			["Azborg-PyrewoodVillage"] = "0,1",
 			["Xplord-PyrewoodVillage"] = "0,1",
+			["Azborg-PyrewoodVillage"] = "0,1",
 			["Fwoozy-PyrewoodVillage"] = "68,22",
 			["Enggaardk-PyrewoodVillage"] = "0,1",
 			["Fumblefinger-PyrewoodVillage"] = "61,1",
@@ -792,11 +792,11 @@ CEPGP = {
 			["Rumsterstang-PyrewoodVillage"] = "0,1",
 			["Alarici-PyrewoodVillage"] = "0,1",
 			["Sikri-PyrewoodVillage"] = "0,1",
-			["Rødcecil-PyrewoodVillage"] = "0,1",
-			["Luskebuksen-PyrewoodVillage"] = "0,1",
 			["Arniya-PyrewoodVillage"] = "",
+			["Luskebuksen-PyrewoodVillage"] = "0,1",
+			["Rødcecil-PyrewoodVillage"] = "0,1",
 			["Gabehorn-PyrewoodVillage"] = "39,1",
-			["Temizleyici-PyrewoodVillage"] = "0,1",
+			["Pistvæk-PyrewoodVillage"] = "0,1",
 			["Sjatpisser-PyrewoodVillage"] = "",
 			["Runnerfox-PyrewoodVillage"] = "68,25",
 			["Zarlina-PyrewoodVillage"] = "0,1",
@@ -804,25 +804,25 @@ CEPGP = {
 			["Rozzco-PyrewoodVillage"] = "0,1",
 			["Icetalonbear-PyrewoodVillage"] = "0,1",
 			["Holyhojbjerg-PyrewoodVillage"] = "0,1",
-			["Pepsimage-PyrewoodVillage"] = "0,1",
-			["Dupond-PyrewoodVillage"] = "",
-			["Buffbuffpass-PyrewoodVillage"] = "0,1",
-			["Thymüs-PyrewoodVillage"] = "0,1",
-			["Evilwan-PyrewoodVillage"] = "0,1",
 			["Anjun-PyrewoodVillage"] = "36,1",
+			["Dupond-PyrewoodVillage"] = "",
+			["Palidine-PyrewoodVillage"] = "0,1",
+			["Thymüs-PyrewoodVillage"] = "0,1",
+			["Sezzo-PyrewoodVillage"] = "0,1",
+			["Pepsimage-PyrewoodVillage"] = "0,1",
 			["Blackmace-PyrewoodVillage"] = "0,1",
 			["Ulfhednir-PyrewoodVillage"] = "0,1",
-			["Dohbank-PyrewoodVillage"] = "0,1",
+			["Crille-PyrewoodVillage"] = "0,1",
 			["Skullbud-PyrewoodVillage"] = "0,1",
 			["Xeih-PyrewoodVillage"] = "0,1",
 			["Ðíor-PyrewoodVillage"] = "0,1",
-			["Sezzo-PyrewoodVillage"] = "0,1",
+			["Evilwan-PyrewoodVillage"] = "0,1",
 			["Gefion-PyrewoodVillage"] = "0,1",
 			["Fedtmule-PyrewoodVillage"] = "0,1",
 			["Aeih-PyrewoodVillage"] = "68,69",
 			["Nefrin-PyrewoodVillage"] = "0,1",
 			["Emeles-PyrewoodVillage"] = "0,1",
-			["Crille-PyrewoodVillage"] = "0,1",
+			["Dohbank-PyrewoodVillage"] = "0,1",
 			["Buario-PyrewoodVillage"] = "0,1",
 			["Oldmanarnold-PyrewoodVillage"] = "0,1",
 			["Ragerider-PyrewoodVillage"] = "0,1",
@@ -833,11 +833,11 @@ CEPGP = {
 			["Aimar-PyrewoodVillage"] = "0,1",
 			["Maw-PyrewoodVillage"] = "0,1",
 			["Haddoc-PyrewoodVillage"] = "0,1",
-			["Lylalia-PyrewoodVillage"] = "0,1",
-			["Zacur-PyrewoodVillage"] = "38,1",
-			["Ikkehende-PyrewoodVillage"] = "0,1",
-			["Pepsipriest-PyrewoodVillage"] = "0,1",
 			["Matrïx-PyrewoodVillage"] = "0,1",
+			["Zacur-PyrewoodVillage"] = "38,1",
+			["Pepsipriest-PyrewoodVillage"] = "0,1",
+			["Ikkehende-PyrewoodVillage"] = "0,1",
+			["Lylalia-PyrewoodVillage"] = "0,1",
 			["Softball-PyrewoodVillage"] = "0,1",
 			["Pampers-PyrewoodVillage"] = "0,1",
 			["Hightower-PyrewoodVillage"] = "",
@@ -850,14 +850,14 @@ CEPGP = {
 			["Topløs-PyrewoodVillage"] = "",
 			["Bingoo-PyrewoodVillage"] = "56,1",
 			["Jenya-PyrewoodVillage"] = "0,1",
-			["Palidine-PyrewoodVillage"] = "0,1",
+			["Buffbuffpass-PyrewoodVillage"] = "0,1",
 			["Jokemon-PyrewoodVillage"] = "0,1",
 			["Heavyweight-PyrewoodVillage"] = "0,1",
 			["Sinsin-PyrewoodVillage"] = "0,1",
 			["Lupna-PyrewoodVillage"] = "0,1",
 			["Mikela-PyrewoodVillage"] = "0,1",
 			["Isobel-PyrewoodVillage"] = "0,1",
-			["Pistvæk-PyrewoodVillage"] = "0,1",
+			["Temizleyici-PyrewoodVillage"] = "0,1",
 			["Powersurge-PyrewoodVillage"] = "0,1",
 			["Rosslyn-PyrewoodVillage"] = "0,1",
 			["Landcarver-PyrewoodVillage"] = "0,1",
@@ -1000,153 +1000,7 @@ CEPGP = {
 		["Shadosstrike"] = 1,
 		["|cffa335ee|Hitem:17077:::::::::::::|h[Crimson Shocker]|h|r"] = 1,
 	},
-	["EP"] = {
-		["BossEP"] = {
-			["High Priestess Jeklik"] = 2,
-			["Gothik the Harvester"] = 12,
-			["Buru the Gorger"] = 3,
-			["Wushoolay"] = 2,
-			["Silithid Royalty"] = 10,
-			["Ossirian the Unscarred"] = 4,
-			["Golemagg the Incinerator"] = "1",
-			["Grand Widow Faerlina"] = 12,
-			["High Priestess Mar'li"] = 2,
-			["Twin Emperors"] = 10,
-			["Majordomo Executus"] = "1",
-			["High Priest Venoxis"] = 2,
-			["Gehennas"] = "1",
-			["Taerar"] = 7,
-			["Ysondre"] = 7,
-			["Thane Korth'azz"] = 15,
-			["High Priest Thekal"] = 2,
-			["Noth the Plaguebringer"] = 12,
-			["Lethon"] = 7,
-			["Moam"] = 3,
-			["The Prophet Skeram"] = 10,
-			["Flamegor"] = 7,
-			["C'Thun"] = 12,
-			["General Rajaxx"] = 3,
-			["Princess Huhuran"] = 10,
-			["Thaddius"] = 15,
-			["Loatheb"] = 15,
-			["Ayamiss the Hunter"] = 3,
-			["Ebonroc"] = 7,
-			["Heigan the Unclean"] = 12,
-			["Azuregos"] = 7,
-			["Doom Lord Kazzak"] = 7,
-			["Baron Geddon"] = "1",
-			["Sulfuron Harbinger"] = "1",
-			["Gri'lek"] = 2,
-			["Firemaw"] = 7,
-			["Chromaggus"] = 7,
-			["Gahz'ranka"] = 2,
-			["High Priestess Arlokk"] = 2,
-			["Sapphiron"] = 15,
-			["Onyxia"] = 5,
-			["Lord Kazzak"] = 7,
-			["Shazzrah"] = "1",
-			["Ouro"] = 10,
-			["Battleguard Sartura"] = 10,
-			["Razorgore the Untamed"] = 7,
-			["Kel'Thuzad"] = 15,
-			["Nefarian"] = 10,
-			["Fankriss the Unyielding"] = 10,
-			["Lucifron"] = "1",
-			["Anub'Rekhan"] = 12,
-			["Hazza'rah"] = 2,
-			["Ragnaros"] = "6",
-			["Viscidus"] = 10,
-			["Kurinnaxx"] = 3,
-			["Broodlord Lashlayer"] = 7,
-			["Hakkar"] = 3,
-			["The Four Horsemen"] = 15,
-			["Maexxna"] = 15,
-			["Grobbulus"] = 12,
-			["Instructor Razuvious"] = 12,
-			["Emeriss"] = 7,
-			["Magmadar"] = "1",
-			["Vaelastrasz the Corrupt"] = 7,
-			["Bloodlord Mandokir"] = 2,
-			["Patchwerk"] = 12,
-			["Gluth"] = 12,
-			["Renataki"] = 2,
-			["Jin'do the Hexxer"] = 2,
-			["Garr"] = "1",
-		},
-		["AutoAward"] = {
-			["High Priestess Jeklik"] = true,
-			["Gothik the Harvester"] = true,
-			["Buru the Gorger"] = true,
-			["Wushoolay"] = true,
-			["Silithid Royalty"] = true,
-			["Ossirian the Unscarred"] = true,
-			["Golemagg the Incinerator"] = true,
-			["Grand Widow Faerlina"] = true,
-			["High Priestess Mar'li"] = true,
-			["Twin Emperors"] = true,
-			["Majordomo Executus"] = true,
-			["High Priest Venoxis"] = true,
-			["Gehennas"] = true,
-			["Taerar"] = true,
-			["Ysondre"] = true,
-			["Thane Korth'azz"] = true,
-			["High Priest Thekal"] = true,
-			["Noth the Plaguebringer"] = true,
-			["Lethon"] = true,
-			["Moam"] = true,
-			["The Prophet Skeram"] = true,
-			["Flamegor"] = true,
-			["C'Thun"] = true,
-			["General Rajaxx"] = true,
-			["Princess Huhuran"] = true,
-			["Thaddius"] = true,
-			["Loatheb"] = true,
-			["Ayamiss the Hunter"] = true,
-			["Ebonroc"] = true,
-			["Heigan the Unclean"] = true,
-			["Azuregos"] = true,
-			["Doom Lord Kazzak"] = true,
-			["Baron Geddon"] = true,
-			["Sulfuron Harbinger"] = true,
-			["Gri'lek"] = true,
-			["Firemaw"] = true,
-			["Chromaggus"] = true,
-			["Gahz'ranka"] = true,
-			["High Priestess Arlokk"] = true,
-			["Sapphiron"] = true,
-			["Onyxia"] = true,
-			["Lord Kazzak"] = true,
-			["Shazzrah"] = true,
-			["Ouro"] = true,
-			["Battleguard Sartura"] = true,
-			["Razorgore the Untamed"] = true,
-			["Kel'Thuzad"] = true,
-			["Nefarian"] = true,
-			["Fankriss the Unyielding"] = true,
-			["Lucifron"] = true,
-			["Anub'Rekhan"] = true,
-			["Hazza'rah"] = true,
-			["Ragnaros"] = true,
-			["Viscidus"] = true,
-			["Kurinnaxx"] = true,
-			["Broodlord Lashlayer"] = true,
-			["Hakkar"] = true,
-			["The Four Horsemen"] = true,
-			["Maexxna"] = true,
-			["Grobbulus"] = true,
-			["Instructor Razuvious"] = true,
-			["Emeriss"] = true,
-			["Magmadar"] = true,
-			["Vaelastrasz the Corrupt"] = true,
-			["Bloodlord Mandokir"] = true,
-			["Patchwerk"] = true,
-			["Gluth"] = true,
-			["Renataki"] = true,
-			["Jin'do the Hexxer"] = true,
-			["Garr"] = true,
-		},
-		["Keyword"] = "!need",
-	},
+	["Channel"] = "Raid",
 	["Attendance"] = {
 		{
 			1573159788, -- [1]
@@ -16035,7 +15889,153 @@ CEPGP = {
 			1586466280, -- [9]
 		}, -- [1348]
 	},
-	["Channel"] = "Raid",
+	["EP"] = {
+		["BossEP"] = {
+			["High Priestess Jeklik"] = 2,
+			["Gothik the Harvester"] = 12,
+			["Buru the Gorger"] = 3,
+			["Wushoolay"] = 2,
+			["Silithid Royalty"] = 10,
+			["Ossirian the Unscarred"] = 4,
+			["Golemagg the Incinerator"] = "1",
+			["Grand Widow Faerlina"] = 12,
+			["High Priestess Mar'li"] = 2,
+			["Twin Emperors"] = 10,
+			["Majordomo Executus"] = "1",
+			["High Priest Venoxis"] = 2,
+			["Gehennas"] = "1",
+			["Taerar"] = 7,
+			["Ysondre"] = 7,
+			["Thane Korth'azz"] = 15,
+			["High Priest Thekal"] = 2,
+			["Noth the Plaguebringer"] = 12,
+			["Lethon"] = 7,
+			["Moam"] = 3,
+			["The Prophet Skeram"] = 10,
+			["Flamegor"] = 7,
+			["C'Thun"] = 12,
+			["General Rajaxx"] = 3,
+			["Princess Huhuran"] = 10,
+			["Thaddius"] = 15,
+			["Loatheb"] = 15,
+			["Ayamiss the Hunter"] = 3,
+			["Ebonroc"] = 7,
+			["Heigan the Unclean"] = 12,
+			["Azuregos"] = 7,
+			["Doom Lord Kazzak"] = 7,
+			["Baron Geddon"] = "1",
+			["Sulfuron Harbinger"] = "1",
+			["Gri'lek"] = 2,
+			["Firemaw"] = 7,
+			["Chromaggus"] = 7,
+			["Gahz'ranka"] = 2,
+			["High Priestess Arlokk"] = 2,
+			["Sapphiron"] = 15,
+			["Onyxia"] = 5,
+			["Shazzrah"] = "1",
+			["Lord Kazzak"] = 7,
+			["Ouro"] = 10,
+			["Battleguard Sartura"] = 10,
+			["Razorgore the Untamed"] = 7,
+			["Kel'Thuzad"] = 15,
+			["Nefarian"] = 10,
+			["Fankriss the Unyielding"] = 10,
+			["Lucifron"] = "1",
+			["Anub'Rekhan"] = 12,
+			["Hazza'rah"] = 2,
+			["Ragnaros"] = "6",
+			["Viscidus"] = 10,
+			["Kurinnaxx"] = 3,
+			["Broodlord Lashlayer"] = 7,
+			["Maexxna"] = 15,
+			["The Four Horsemen"] = 15,
+			["Hakkar"] = 3,
+			["Grobbulus"] = 12,
+			["Instructor Razuvious"] = 12,
+			["Emeriss"] = 7,
+			["Magmadar"] = "1",
+			["Vaelastrasz the Corrupt"] = 7,
+			["Bloodlord Mandokir"] = 2,
+			["Patchwerk"] = 12,
+			["Gluth"] = 12,
+			["Renataki"] = 2,
+			["Jin'do the Hexxer"] = 2,
+			["Garr"] = "1",
+		},
+		["AutoAward"] = {
+			["High Priestess Jeklik"] = true,
+			["Gothik the Harvester"] = true,
+			["Buru the Gorger"] = true,
+			["Wushoolay"] = true,
+			["Silithid Royalty"] = true,
+			["Ossirian the Unscarred"] = true,
+			["Golemagg the Incinerator"] = true,
+			["Grand Widow Faerlina"] = true,
+			["High Priestess Mar'li"] = true,
+			["Twin Emperors"] = true,
+			["Majordomo Executus"] = true,
+			["High Priest Venoxis"] = true,
+			["Gehennas"] = true,
+			["Taerar"] = true,
+			["Ysondre"] = true,
+			["Thane Korth'azz"] = true,
+			["High Priest Thekal"] = true,
+			["Noth the Plaguebringer"] = true,
+			["Lethon"] = true,
+			["Moam"] = true,
+			["The Prophet Skeram"] = true,
+			["Flamegor"] = true,
+			["C'Thun"] = true,
+			["General Rajaxx"] = true,
+			["Princess Huhuran"] = true,
+			["Thaddius"] = true,
+			["Loatheb"] = true,
+			["Ayamiss the Hunter"] = true,
+			["Ebonroc"] = true,
+			["Heigan the Unclean"] = true,
+			["Azuregos"] = true,
+			["Doom Lord Kazzak"] = true,
+			["Baron Geddon"] = true,
+			["Sulfuron Harbinger"] = true,
+			["Gri'lek"] = true,
+			["Firemaw"] = true,
+			["Chromaggus"] = true,
+			["Gahz'ranka"] = true,
+			["High Priestess Arlokk"] = true,
+			["Sapphiron"] = true,
+			["Onyxia"] = true,
+			["Shazzrah"] = true,
+			["Lord Kazzak"] = true,
+			["Ouro"] = true,
+			["Battleguard Sartura"] = true,
+			["Razorgore the Untamed"] = true,
+			["Kel'Thuzad"] = true,
+			["Nefarian"] = true,
+			["Fankriss the Unyielding"] = true,
+			["Lucifron"] = true,
+			["Anub'Rekhan"] = true,
+			["Hazza'rah"] = true,
+			["Ragnaros"] = true,
+			["Viscidus"] = true,
+			["Kurinnaxx"] = true,
+			["Broodlord Lashlayer"] = true,
+			["Maexxna"] = true,
+			["The Four Horsemen"] = true,
+			["Hakkar"] = true,
+			["Grobbulus"] = true,
+			["Instructor Razuvious"] = true,
+			["Emeriss"] = true,
+			["Magmadar"] = true,
+			["Vaelastrasz the Corrupt"] = true,
+			["Bloodlord Mandokir"] = true,
+			["Patchwerk"] = true,
+			["Gluth"] = true,
+			["Renataki"] = true,
+			["Jin'do the Hexxer"] = true,
+			["Garr"] = true,
+		},
+		["Keyword"] = "!need",
+	},
 }
 CHANNEL = "Raid"
 CEPGP_lootChannel = "Raid"
@@ -16074,7 +16074,7 @@ AUTOEP = {
 	["The Silithid Royalty"] = true,
 	["Ayamiss the Hunter"] = true,
 	["Ebonroc"] = true,
-	["Renataki"] = true,
+	["The Twin Emperors"] = true,
 	["Heigan the Unclean"] = true,
 	["Gluth"] = true,
 	["Azuregos"] = true,
@@ -16082,11 +16082,11 @@ AUTOEP = {
 	["Baron Geddon"] = true,
 	["High Priestess Arlokk"] = true,
 	["Gri'lek"] = true,
-	["Bloodlord Mandokir"] = true,
+	["Renataki"] = true,
 	["Chromaggus"] = true,
-	["Vaelastrasz the Corrupt"] = true,
+	["Gahz'ranka"] = true,
 	["Firemaw"] = true,
-	["The Twin Emperors"] = true,
+	["Vaelastrasz the Corrupt"] = true,
 	["Sapphiron"] = true,
 	["Razorgore the Untamed"] = true,
 	["Lord Kazzak"] = true,
@@ -16113,7 +16113,7 @@ AUTOEP = {
 	["Magmadar"] = true,
 	["Patchwerk"] = true,
 	["Sulfuron Harbinger"] = true,
-	["Gahz'ranka"] = true,
+	["Bloodlord Mandokir"] = true,
 	["Jin'do the Hexxer"] = true,
 	["Garr"] = true,
 }
@@ -16149,7 +16149,7 @@ EPVALS = {
 	["The Silithid Royalty"] = 10,
 	["Ayamiss the Hunter"] = 3,
 	["Ebonroc"] = 7,
-	["Renataki"] = 2,
+	["The Twin Emperors"] = 10,
 	["Heigan the Unclean"] = 12,
 	["Gluth"] = 12,
 	["Azuregos"] = 7,
@@ -16157,11 +16157,11 @@ EPVALS = {
 	["Baron Geddon"] = "1",
 	["High Priestess Arlokk"] = 2,
 	["Gri'lek"] = 2,
-	["Bloodlord Mandokir"] = 2,
+	["Renataki"] = 2,
 	["Chromaggus"] = 7,
-	["Vaelastrasz the Corrupt"] = 7,
+	["Gahz'ranka"] = 2,
 	["Firemaw"] = 7,
-	["The Twin Emperors"] = 10,
+	["Vaelastrasz the Corrupt"] = 7,
 	["Sapphiron"] = 15,
 	["Razorgore the Untamed"] = 7,
 	["Lord Kazzak"] = 7,
@@ -16188,7 +16188,7 @@ EPVALS = {
 	["Magmadar"] = "1",
 	["Patchwerk"] = 12,
 	["Sulfuron Harbinger"] = "1",
-	["Gahz'ranka"] = 2,
+	["Bloodlord Mandokir"] = 2,
 	["Jin'do the Hexxer"] = 2,
 	["Garr"] = "1",
 }
@@ -16333,16 +16333,16 @@ RECORDS = {
 		["Frozzywhimp-PyrewoodVillage"] = "0,25",
 		["Kassidy-PyrewoodVillage"] = "0,25",
 		["Hally-PyrewoodVillage"] = "0,25",
-		["Ohéaly-PyrewoodVillage"] = "505,92",
+		["Daryel-PyrewoodVillage"] = "0,25",
 		["Aladiss-PyrewoodVillage"] = "11,25",
 		["Renpels-PyrewoodVillage"] = "0,25",
-		["Skystrike-PyrewoodVillage"] = "566,162",
-		["Gearup-PyrewoodVillage"] = "0,25",
+		["Grumblegutt-PyrewoodVillage"] = "0,25",
+		["Applepot-PyrewoodVillage"] = "0,25",
 		["Auras-PyrewoodVillage"] = "0,25",
 		["Unclenecro-PyrewoodVillage"] = "548,162",
 		["Halbera-PyrewoodVillage"] = "0,25",
 		["Casmus-PyrewoodVillage"] = "0,25",
-		["Applepot-PyrewoodVillage"] = "0,25",
+		["Gearup-PyrewoodVillage"] = "0,25",
 		["Hullo-PyrewoodVillage"] = "0,25",
 		["Haddoc-PyrewoodVillage"] = "0,25",
 		["Arnia-PyrewoodVillage"] = "0,25",
@@ -16353,7 +16353,7 @@ RECORDS = {
 		["Wigga-PyrewoodVillage"] = "0,25",
 		["Noosie-PyrewoodVillage"] = "0,25",
 		["Stabster-PyrewoodVillage"] = "0,25",
-		["Aben-PyrewoodVillage"] = "0,25",
+		["Amaronee-PyrewoodVillage"] = "0,25",
 		["Necromaniaxx-PyrewoodVillage"] = "0,25",
 		["Thybo-PyrewoodVillage"] = "0,25",
 		["Tálpá-PyrewoodVillage"] = "332,93",
@@ -16363,24 +16363,24 @@ RECORDS = {
 		["Garkan-PyrewoodVillage"] = "0,25",
 		["Daphreen-PyrewoodVillage"] = "0,25",
 		["Sellomatic-PyrewoodVillage"] = "0,25",
-		["Diavell-PyrewoodVillage"] = "0,25",
-		["Amaronee-PyrewoodVillage"] = "0,25",
+		["Skybanker-PyrewoodVillage"] = "0,25",
+		["Aben-PyrewoodVillage"] = "0,25",
 		["Orieck-PyrewoodVillage"] = "0,25",
 		["Mayce-PyrewoodVillage"] = "0,25",
 		["Zorgulba-PyrewoodVillage"] = "0,25",
 		["Froren-PyrewoodVillage"] = "0,25",
-		["Wowarrow-PyrewoodVillage"] = "659,182",
-		["Blixa-PyrewoodVillage"] = "0,25",
+		["Adamantine-PyrewoodVillage"] = "470,242",
+		["Szheal-PyrewoodVillage"] = "0,25",
 		["Bagthera-PyrewoodVillage"] = "3,32",
 		["Northgard-PyrewoodVillage"] = "41,208",
 		["Excon-PyrewoodVillage"] = "0,25",
-		["Adamantine-PyrewoodVillage"] = "470,242",
+		["Wowarrow-PyrewoodVillage"] = "659,182",
 		["Scaladei-PyrewoodVillage"] = "15,25",
 		["Blixy-PyrewoodVillage"] = "0,25",
-		["Legendaryelf-PyrewoodVillage"] = "",
+		["Zanci-PyrewoodVillage"] = "0,25",
 		["Obóytoy-PyrewoodVillage"] = "",
 		["Thebigboy-PyrewoodVillage"] = "63,28",
-		["Zanci-PyrewoodVillage"] = "0,25",
+		["Legendaryelf-PyrewoodVillage"] = "",
 		["Krokos-PyrewoodVillage"] = "432,101",
 		["Micropop-PyrewoodVillage"] = "",
 		["Enfermero-PyrewoodVillage"] = "0,25",
@@ -16391,10 +16391,10 @@ RECORDS = {
 		["Thri-PyrewoodVillage"] = "0,25",
 		["Phoenican-PyrewoodVillage"] = "0,25",
 		["Drikkerikke-PyrewoodVillage"] = "0,25",
-		["Qizy-PyrewoodVillage"] = "0,25",
+		["Tuarlok-PyrewoodVillage"] = "376,62",
 		["Mizzuna-PyrewoodVillage"] = "0,25",
 		["Humansource-PyrewoodVillage"] = "0,25",
-		["Tuarlok-PyrewoodVillage"] = "376,62",
+		["Qizy-PyrewoodVillage"] = "0,25",
 		["Asteríx-PyrewoodVillage"] = "",
 		["Highlight-PyrewoodVillage"] = "0,25",
 		["Jnaas-PyrewoodVillage"] = "0,25",
@@ -16418,28 +16418,28 @@ RECORDS = {
 		["Wittelsbach-PyrewoodVillage"] = "0,25",
 		["Blackmace-PyrewoodVillage"] = "546,147",
 		["Thymüs-PyrewoodVillage"] = "596,133",
-		["Crille-PyrewoodVillage"] = "506,208",
+		["Dohbank-PyrewoodVillage"] = "0,25",
 		["Ilia-PyrewoodVillage"] = "546,227",
 		["Runnerfoxx-PyrewoodVillage"] = "12,45",
 		["Hekxen-PyrewoodVillage"] = "0,25",
 		["Ursine-PyrewoodVillage"] = "0,25",
 		["Iconbank-PyrewoodVillage"] = "0,25",
-		["Sparrow-PyrewoodVillage"] = "0,25",
+		["Ciran-PyrewoodVillage"] = "669,127",
 		["Rounded-PyrewoodVillage"] = "0,25",
 		["Nefrin-PyrewoodVillage"] = "0,25",
 		["Daparras-PyrewoodVillage"] = "0,25",
-		["Dohbank-PyrewoodVillage"] = "0,25",
+		["Crille-PyrewoodVillage"] = "506,208",
 		["Elandrial-PyrewoodVillage"] = "634,183",
 		["Oldmanarnold-PyrewoodVillage"] = "0,25",
 		["Ragerider-PyrewoodVillage"] = "0,25",
 		["Sunnu-PyrewoodVillage"] = "0,25",
-		["Huntert-PyrewoodVillage"] = "22,60",
+		["Warlnicuz-PyrewoodVillage"] = "0,25",
 		["Myaccountant-PyrewoodVillage"] = "14,117",
 		["Diavelu-PyrewoodVillage"] = "292,161",
 		["Stegger-PyrewoodVillage"] = "0,25",
 		["Poisiana-PyrewoodVillage"] = "0,25",
 		["Shespy-PyrewoodVillage"] = "",
-		["Ciran-PyrewoodVillage"] = "669,127",
+		["Sparrow-PyrewoodVillage"] = "0,25",
 		["Zacur-PyrewoodVillage"] = "558,83",
 		["Grumbleknott-PyrewoodVillage"] = "0,25",
 		["Bellus-PyrewoodVillage"] = "0,25",
@@ -16451,19 +16451,19 @@ RECORDS = {
 		["Hotpop-PyrewoodVillage"] = "0,25",
 		["Smækøl-PyrewoodVillage"] = "0,25",
 		["Nexsia-PyrewoodVillage"] = "83,231",
-		["Skyggeuhygge-PyrewoodVillage"] = "0,25",
+		["Aldebaren-PyrewoodVillage"] = "627,69",
 		["Matrïx-PyrewoodVillage"] = "0,25",
-		["Warlnicuz-PyrewoodVillage"] = "0,25",
+		["Huntert-PyrewoodVillage"] = "22,60",
 		["Deepfel-PyrewoodVillage"] = "0,25",
 		["Badur-PyrewoodVillage"] = "0,25",
-		["Aldebaren-PyrewoodVillage"] = "627,69",
+		["Skyggeuhygge-PyrewoodVillage"] = "0,25",
 		["Sinaya-PyrewoodVillage"] = "0,25",
 		["Nekromage-PyrewoodVillage"] = "24,48",
-		["Healbotone-PyrewoodVillage"] = "0,25",
+		["Enggaardk-PyrewoodVillage"] = "0,25",
 		["Breetai-PyrewoodVillage"] = "0,25",
 		["Rememberme-PyrewoodVillage"] = "23,25",
 		["Advocado-PyrewoodVillage"] = "0,25",
-		["Enggaardk-PyrewoodVillage"] = "0,25",
+		["Healbotone-PyrewoodVillage"] = "0,25",
 		["Didnthurt-PyrewoodVillage"] = "0,25",
 		["Yaliha-PyrewoodVillage"] = "7,32",
 		["Daleen-PyrewoodVillage"] = "22,39",
@@ -16479,22 +16479,22 @@ RECORDS = {
 		["Moleen-PyrewoodVillage"] = "0,25",
 		["Muhkoo-PyrewoodVillage"] = "",
 		["Trinia-PyrewoodVillage"] = "0,25",
-		["Szheal-PyrewoodVillage"] = "0,25",
+		["Blixa-PyrewoodVillage"] = "0,25",
 		["Gillis-PyrewoodVillage"] = "0,25",
 		["Regnbueis-PyrewoodVillage"] = "0,25",
 		["Paladinicuz-PyrewoodVillage"] = "45,25",
 		["Grumbelaar-PyrewoodVillage"] = "120,87",
-		["Skybanker-PyrewoodVillage"] = "0,25",
+		["Diavell-PyrewoodVillage"] = "0,25",
 		["Talpa-PyrewoodVillage"] = "295,59",
 		["Thÿmus-PyrewoodVillage"] = "0,25",
 		["Lailah-PyrewoodVillage"] = "0,25",
 		["Ícon-PyrewoodVillage"] = "579,99",
 		["Ulrikka-PyrewoodVillage"] = "0,25",
 		["Braunstein-PyrewoodVillage"] = "0,25",
-		["Daryel-PyrewoodVillage"] = "0,25",
+		["Ohéaly-PyrewoodVillage"] = "505,92",
 		["Norrgard-PyrewoodVillage"] = "0,25",
 		["Tálpa-PyrewoodVillage"] = "0,25",
-		["Grumblegutt-PyrewoodVillage"] = "0,25",
+		["Skystrike-PyrewoodVillage"] = "566,162",
 		["Zarrlock-PyrewoodVillage"] = "0,25",
 		["Irememberyou-PyrewoodVillage"] = "0,25",
 		["Vulnus-PyrewoodVillage"] = "69,45",
@@ -16543,7 +16543,7 @@ RECORDS = {
 		["Oriick-PyrewoodVillage"] = "0,25",
 		["Djmad-PyrewoodVillage"] = "0,25",
 		["Sinoz-PyrewoodVillage"] = "0,25",
-		["Gotyourback-PyrewoodVillage"] = "0,25",
+		["Alodor-PyrewoodVillage"] = "0,25",
 		["Frozzywhimp-PyrewoodVillage"] = "0,25",
 		["Daphereen-PyrewoodVillage"] = "415,215",
 		["Talpá-PyrewoodVillage"] = "0,25",
@@ -16582,7 +16582,7 @@ RECORDS = {
 		["Auras-PyrewoodVillage"] = "0,25",
 		["Applepot-PyrewoodVillage"] = "0,25",
 		["Halbera-PyrewoodVillage"] = "0,25",
-		["Ohéaly-PyrewoodVillage"] = "385,113",
+		["Casmus-PyrewoodVillage"] = "0,25",
 		["Gearup-PyrewoodVillage"] = "0,25",
 		["Pyanfar-PyrewoodVillage"] = "0,25",
 		["Haddoc-PyrewoodVillage"] = "0,25",
@@ -16590,7 +16590,7 @@ RECORDS = {
 		["Thybo-PyrewoodVillage"] = "0,25",
 		["Bjornstar-PyrewoodVillage"] = "0,25",
 		["Arihm-PyrewoodVillage"] = "507,153",
-		["Garkan-PyrewoodVillage"] = "0,25",
+		["Clas-PyrewoodVillage"] = "0,25",
 		["Wigga-PyrewoodVillage"] = "0,25",
 		["Noosie-PyrewoodVillage"] = "0,25",
 		["Tenox-PyrewoodVillage"] = "0,25",
@@ -16601,33 +16601,33 @@ RECORDS = {
 		["Dura-PyrewoodVillage"] = "0,25",
 		["Mayce-PyrewoodVillage"] = "0,25",
 		["Theícon-PyrewoodVillage"] = "6,25",
-		["Clas-PyrewoodVillage"] = "0,25",
+		["Garkan-PyrewoodVillage"] = "0,25",
 		["Pewster-PyrewoodVillage"] = "0,25",
-		["Tourmentfire-PyrewoodVillage"] = "0,25",
+		["Stabster-PyrewoodVillage"] = "0,25",
 		["Hoy-PyrewoodVillage"] = "0,25",
 		["Amaronee-PyrewoodVillage"] = "0,25",
 		["Sellomatic-PyrewoodVillage"] = "0,25",
 		["Riviana-PyrewoodVillage"] = "0,25",
 		["Fangorr-PyrewoodVillage"] = "0,25",
-		["Wangfooklong-PyrewoodVillage"] = "405,82",
-		["Szheal-PyrewoodVillage"] = "0,25",
+		["Froren-PyrewoodVillage"] = "0,25",
 		["Blixa-PyrewoodVillage"] = "0,25",
+		["Szheal-PyrewoodVillage"] = "0,25",
 		["Bagthera-PyrewoodVillage"] = "6,45",
 		["Northgard-PyrewoodVillage"] = "0,25",
 		["Excon-PyrewoodVillage"] = "0,25",
 		["Wowarrow-PyrewoodVillage"] = "598,174",
 		["Scaladei-PyrewoodVillage"] = "22,25",
-		["Adamantine-PyrewoodVillage"] = "338,231",
+		["Blixy-PyrewoodVillage"] = "0,25",
 		["Fwoozy-PyrewoodVillage"] = "586,91",
 		["Dawina-PyrewoodVillage"] = "25,25",
 		["Mimy-PyrewoodVillage"] = "528,136",
-		["Zanci-PyrewoodVillage"] = "0,25",
+		["Moriathi-PyrewoodVillage"] = "0,25",
 		["Krokos-PyrewoodVillage"] = "369,90",
 		["Thebigboy-PyrewoodVillage"] = "87,40",
 		["Enfermero-PyrewoodVillage"] = "0,25",
 		["Zorgulba-PyrewoodVillage"] = "0,25",
-		["Silia-PyrewoodVillage"] = "0,25",
 		["Zeti-PyrewoodVillage"] = "0,25",
+		["Silia-PyrewoodVillage"] = "0,25",
 		["Healgirl-PyrewoodVillage"] = "0,25",
 		["Thri-PyrewoodVillage"] = "0,25",
 		["Phoenican-PyrewoodVillage"] = "0,25",
@@ -16635,13 +16635,13 @@ RECORDS = {
 		["Knagerække-PyrewoodVillage"] = "0,25",
 		["Drikkerikke-PyrewoodVillage"] = "0,25",
 		["Humansource-PyrewoodVillage"] = "0,25",
-		["Tuarlok-PyrewoodVillage"] = "449,86",
+		["Deep-PyrewoodVillage"] = "29,29",
 		["Arniya-PyrewoodVillage"] = "0,25",
 		["Highlight-PyrewoodVillage"] = "0,25",
-		["Sinsin-PyrewoodVillage"] = "11,25",
+		["Tourment-PyrewoodVillage"] = "0,25",
 		["Palidine-PyrewoodVillage"] = "78,32",
 		["Maw-PyrewoodVillage"] = "0,25",
-		["Mcgrumpy-PyrewoodVillage"] = "588,75",
+		["Mizzuna-PyrewoodVillage"] = "0,25",
 		["Raptoxx-PyrewoodVillage"] = "0,25",
 		["Elyrias-PyrewoodVillage"] = "0,25",
 		["Qizy-PyrewoodVillage"] = "0,25",
@@ -16649,66 +16649,66 @@ RECORDS = {
 		["Holleen-PyrewoodVillage"] = "0,25",
 		["Zraidryn-PyrewoodVillage"] = "0,25",
 		["Runnerfox-PyrewoodVillage"] = "506,104",
-		["Sparrow-PyrewoodVillage"] = "0,25",
-		["Tourment-PyrewoodVillage"] = "0,25",
-		["Breetai-PyrewoodVillage"] = "0,25",
+		["Ciran-PyrewoodVillage"] = "612,57",
+		["Sinsin-PyrewoodVillage"] = "11,25",
+		["Ragerider-PyrewoodVillage"] = "0,25",
 		["Slapster-PyrewoodVillage"] = "601,212",
 		["Zarz-PyrewoodVillage"] = "0,25",
 		["Sinaya-PyrewoodVillage"] = "0,25",
 		["Rounded-PyrewoodVillage"] = "0,25",
-		["Matrïx-PyrewoodVillage"] = "0,25",
+		["Lylalia-PyrewoodVillage"] = "580,179",
 		["Blackmace-PyrewoodVillage"] = "443,204",
 		["Thymüs-PyrewoodVillage"] = "511,135",
-		["Huntert-PyrewoodVillage"] = "0,25",
+		["Warlnicuz-PyrewoodVillage"] = "0,25",
 		["Aimar-PyrewoodVillage"] = "530,164",
 		["Runnerfoxx-PyrewoodVillage"] = "16,25",
-		["Poisiana-PyrewoodVillage"] = "0,25",
+		["Crittykat-PyrewoodVillage"] = "0,25",
 		["Ursine-PyrewoodVillage"] = "0,25",
 		["Skyggeuhygge-PyrewoodVillage"] = "0,25",
 		["Ilia-PyrewoodVillage"] = "524,207",
 		["Hekxen-PyrewoodVillage"] = "0,25",
 		["Nefrin-PyrewoodVillage"] = "0,25",
 		["Daparras-PyrewoodVillage"] = "0,25",
-		["Dohbank-PyrewoodVillage"] = "0,25",
+		["Crille-PyrewoodVillage"] = "417,199",
 		["Myaccountant-PyrewoodVillage"] = "20,162",
 		["Oldmanarnold-PyrewoodVillage"] = "0,25",
 		["Deepfel-PyrewoodVillage"] = "0,25",
 		["Fionaa-PyrewoodVillage"] = "587,117",
-		["Warlnicuz-PyrewoodVillage"] = "0,25",
-		["Sunnu-PyrewoodVillage"] = "0,25",
+		["Huntert-PyrewoodVillage"] = "0,25",
+		["Grumbleknott-PyrewoodVillage"] = "0,25",
 		["Diavelu-PyrewoodVillage"] = "94,25",
 		["Stegger-PyrewoodVillage"] = "",
-		["Crittykat-PyrewoodVillage"] = "0,25",
+		["Poisiana-PyrewoodVillage"] = "0,25",
 		["Lutzow-PyrewoodVillage"] = "0,25",
-		["Jnaas-PyrewoodVillage"] = "0,25",
+		["Sparrow-PyrewoodVillage"] = "0,25",
 		["Zacur-PyrewoodVillage"] = "465,50",
-		["Grumbleknott-PyrewoodVillage"] = "0,25",
+		["Sunnu-PyrewoodVillage"] = "0,25",
 		["Daphreen-PyrewoodVillage"] = "0,25",
 		["Delmoren-PyrewoodVillage"] = "0,25",
 		["Softball-PyrewoodVillage"] = "0,25",
 		["Moffe-PyrewoodVillage"] = "193,27",
-		["Lylalia-PyrewoodVillage"] = "580,179",
+		["Jnaas-PyrewoodVillage"] = "0,25",
 		["Bellus-PyrewoodVillage"] = "0,25",
 		["Hotpop-PyrewoodVillage"] = "0,25",
 		["Smækøl-PyrewoodVillage"] = "0,25",
 		["Elandrial-PyrewoodVillage"] = "563,154",
 		["Aldebaren-PyrewoodVillage"] = "580,96",
-		["Ciran-PyrewoodVillage"] = "612,57",
-		["Ragerider-PyrewoodVillage"] = "0,25",
-		["Crille-PyrewoodVillage"] = "417,199",
+		["Matrïx-PyrewoodVillage"] = "0,25",
+		["Breetai-PyrewoodVillage"] = "0,25",
+		["Dohbank-PyrewoodVillage"] = "0,25",
 		["Badur-PyrewoodVillage"] = "",
 		["Silvaria-PyrewoodVillage"] = "0,25",
 		["Wittelsbach-PyrewoodVillage"] = "0,25",
 		["Nekromage-PyrewoodVillage"] = "0,25",
-		["Healbotone-PyrewoodVillage"] = "0,25",
+		["Enggaardk-PyrewoodVillage"] = "0,25",
 		["Didnthurt-PyrewoodVillage"] = "0,25",
 		["Rememberme-PyrewoodVillage"] = "16,25",
 		["Advocado-PyrewoodVillage"] = "0,25",
-		["Enggaardk-PyrewoodVillage"] = "0,25",
-		["Deep-PyrewoodVillage"] = "29,29",
+		["Healbotone-PyrewoodVillage"] = "0,25",
+		["Tuarlok-PyrewoodVillage"] = "449,86",
 		["Yaliha-PyrewoodVillage"] = "11,45",
 		["Daleen-PyrewoodVillage"] = "0,25",
-		["Mizzuna-PyrewoodVillage"] = "0,25",
+		["Mcgrumpy-PyrewoodVillage"] = "588,75",
 		["Fumblefinger-PyrewoodVillage"] = "514,94",
 		["Thymus-PyrewoodVillage"] = "89,25",
 		["Grovn-PyrewoodVillage"] = "0,25",
@@ -16718,21 +16718,21 @@ RECORDS = {
 		["Zeraal-PyrewoodVillage"] = "528,187",
 		["Bootes-PyrewoodVillage"] = "0,25",
 		["Moleen-PyrewoodVillage"] = "0,25",
-		["Moriathi-PyrewoodVillage"] = "0,25",
+		["Zanci-PyrewoodVillage"] = "0,25",
 		["Trinia-PyrewoodVillage"] = "0,25",
-		["Blixy-PyrewoodVillage"] = "0,25",
-		["Froren-PyrewoodVillage"] = "0,25",
+		["Adamantine-PyrewoodVillage"] = "338,231",
+		["Wangfooklong-PyrewoodVillage"] = "405,82",
 		["Regnbueis-PyrewoodVillage"] = "0,25",
 		["Paladinicuz-PyrewoodVillage"] = "63,25",
 		["Grumbelaar-PyrewoodVillage"] = "74,120",
-		["Stabster-PyrewoodVillage"] = "0,25",
+		["Tourmentfire-PyrewoodVillage"] = "0,25",
 		["Talpa-PyrewoodVillage"] = "406,83",
 		["Thÿmus-PyrewoodVillage"] = "0,25",
 		["Lailah-PyrewoodVillage"] = "0,25",
 		["Ícon-PyrewoodVillage"] = "534,104",
 		["Ulrikka-PyrewoodVillage"] = "0,25",
 		["Braunstein-PyrewoodVillage"] = "0,25",
-		["Casmus-PyrewoodVillage"] = "0,25",
+		["Ohéaly-PyrewoodVillage"] = "385,113",
 		["Norrgard-PyrewoodVillage"] = "0,25",
 		["Telyah-PyrewoodVillage"] = "0,25",
 		["Hullo-PyrewoodVillage"] = "0,25",
@@ -16744,7 +16744,7 @@ RECORDS = {
 		["Darwina-PyrewoodVillage"] = "0,25",
 		["Geshan-PyrewoodVillage"] = "492,119",
 		["Aplais-PyrewoodVillage"] = "0,25",
-		["Alodor-PyrewoodVillage"] = "0,25",
+		["Gotyourback-PyrewoodVillage"] = "0,25",
 		["Achernar-PyrewoodVillage"] = "0,25",
 	},
 	["raid_3"] = {
@@ -16973,8 +16973,8 @@ RECORDS = {
 		["Animatuz-PyrewoodVillage"] = "0,1",
 		["Frejjaa-PyrewoodVillage"] = "0,1",
 		["Thri-PyrewoodVillage"] = "0,1",
-		["Azborg-PyrewoodVillage"] = "0,1",
 		["Xplord-PyrewoodVillage"] = "0,1",
+		["Azborg-PyrewoodVillage"] = "0,1",
 		["Fwoozy-PyrewoodVillage"] = "68,22",
 		["Enggaardk-PyrewoodVillage"] = "0,1",
 		["Fumblefinger-PyrewoodVillage"] = "61,1",
@@ -16982,11 +16982,11 @@ RECORDS = {
 		["Rumsterstang-PyrewoodVillage"] = "0,1",
 		["Alarici-PyrewoodVillage"] = "0,1",
 		["Sikri-PyrewoodVillage"] = "0,1",
-		["Rødcecil-PyrewoodVillage"] = "0,1",
-		["Luskebuksen-PyrewoodVillage"] = "0,1",
 		["Arniya-PyrewoodVillage"] = "",
+		["Luskebuksen-PyrewoodVillage"] = "0,1",
+		["Rødcecil-PyrewoodVillage"] = "0,1",
 		["Gabehorn-PyrewoodVillage"] = "39,1",
-		["Temizleyici-PyrewoodVillage"] = "0,1",
+		["Pistvæk-PyrewoodVillage"] = "0,1",
 		["Sjatpisser-PyrewoodVillage"] = "",
 		["Runnerfox-PyrewoodVillage"] = "68,25",
 		["Zarlina-PyrewoodVillage"] = "0,1",
@@ -16994,25 +16994,25 @@ RECORDS = {
 		["Rozzco-PyrewoodVillage"] = "0,1",
 		["Icetalonbear-PyrewoodVillage"] = "0,1",
 		["Holyhojbjerg-PyrewoodVillage"] = "0,1",
-		["Pepsimage-PyrewoodVillage"] = "0,1",
-		["Dupond-PyrewoodVillage"] = "",
-		["Buffbuffpass-PyrewoodVillage"] = "0,1",
-		["Thymüs-PyrewoodVillage"] = "0,1",
-		["Evilwan-PyrewoodVillage"] = "0,1",
 		["Anjun-PyrewoodVillage"] = "36,1",
+		["Dupond-PyrewoodVillage"] = "",
+		["Palidine-PyrewoodVillage"] = "0,1",
+		["Thymüs-PyrewoodVillage"] = "0,1",
+		["Sezzo-PyrewoodVillage"] = "0,1",
+		["Pepsimage-PyrewoodVillage"] = "0,1",
 		["Blackmace-PyrewoodVillage"] = "0,1",
 		["Ulfhednir-PyrewoodVillage"] = "0,1",
-		["Dohbank-PyrewoodVillage"] = "0,1",
+		["Crille-PyrewoodVillage"] = "0,1",
 		["Skullbud-PyrewoodVillage"] = "0,1",
 		["Xeih-PyrewoodVillage"] = "0,1",
 		["Ðíor-PyrewoodVillage"] = "0,1",
-		["Sezzo-PyrewoodVillage"] = "0,1",
+		["Evilwan-PyrewoodVillage"] = "0,1",
 		["Gefion-PyrewoodVillage"] = "0,1",
 		["Fedtmule-PyrewoodVillage"] = "0,1",
 		["Aeih-PyrewoodVillage"] = "68,69",
 		["Nefrin-PyrewoodVillage"] = "0,1",
 		["Emeles-PyrewoodVillage"] = "0,1",
-		["Crille-PyrewoodVillage"] = "0,1",
+		["Dohbank-PyrewoodVillage"] = "0,1",
 		["Buario-PyrewoodVillage"] = "0,1",
 		["Oldmanarnold-PyrewoodVillage"] = "0,1",
 		["Ragerider-PyrewoodVillage"] = "0,1",
@@ -17023,11 +17023,11 @@ RECORDS = {
 		["Aimar-PyrewoodVillage"] = "0,1",
 		["Maw-PyrewoodVillage"] = "0,1",
 		["Haddoc-PyrewoodVillage"] = "0,1",
-		["Lylalia-PyrewoodVillage"] = "0,1",
-		["Zacur-PyrewoodVillage"] = "38,1",
-		["Ikkehende-PyrewoodVillage"] = "0,1",
-		["Pepsipriest-PyrewoodVillage"] = "0,1",
 		["Matrïx-PyrewoodVillage"] = "0,1",
+		["Zacur-PyrewoodVillage"] = "38,1",
+		["Pepsipriest-PyrewoodVillage"] = "0,1",
+		["Ikkehende-PyrewoodVillage"] = "0,1",
+		["Lylalia-PyrewoodVillage"] = "0,1",
 		["Softball-PyrewoodVillage"] = "0,1",
 		["Pampers-PyrewoodVillage"] = "0,1",
 		["Hightower-PyrewoodVillage"] = "",
@@ -17040,14 +17040,14 @@ RECORDS = {
 		["Topløs-PyrewoodVillage"] = "",
 		["Bingoo-PyrewoodVillage"] = "56,1",
 		["Jenya-PyrewoodVillage"] = "0,1",
-		["Palidine-PyrewoodVillage"] = "0,1",
+		["Buffbuffpass-PyrewoodVillage"] = "0,1",
 		["Jokemon-PyrewoodVillage"] = "0,1",
 		["Heavyweight-PyrewoodVillage"] = "0,1",
 		["Sinsin-PyrewoodVillage"] = "0,1",
 		["Lupna-PyrewoodVillage"] = "0,1",
 		["Mikela-PyrewoodVillage"] = "0,1",
 		["Isobel-PyrewoodVillage"] = "0,1",
-		["Pistvæk-PyrewoodVillage"] = "0,1",
+		["Temizleyici-PyrewoodVillage"] = "0,1",
 		["Powersurge-PyrewoodVillage"] = "0,1",
 		["Rosslyn-PyrewoodVillage"] = "0,1",
 		["Landcarver-PyrewoodVillage"] = "0,1",
@@ -41088,6 +41088,1462 @@ TRAFFIC = {
 		"1590092849", -- [10]
 		"1590557220.93", -- [11]
 	}, -- [2074]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +1 (raid start)", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590429559", -- [9]
+		"1590429559", -- [10]
+		"1590691198.62", -- [11]
+	}, -- [2075]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 - Lucifron", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590430454, -- [9]
+		1591219542.057, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2076]
+	{
+		"Casmus", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 14 (Full Price)", -- [3]
+		38, -- [4]
+		38, -- [5]
+		90, -- [6]
+		104, -- [7]
+		"|cffa335ee|Hitem:18879:::::::::::::|h[Heavy Dark Iron Ring]|h|r", -- [8]
+		1590430489, -- [9]
+		1591219611.908, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2077]
+	{
+		"Legendaryelf", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 13 (Full Price)", -- [3]
+		97, -- [4]
+		97, -- [5]
+		55, -- [6]
+		68, -- [7]
+		"|cffa335ee|Hitem:17109:::::::::::::|h[Choker of Enlightenment]|h|r", -- [8]
+		1590430555, -- [9]
+		1591219743.942, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2078]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 - Magmadar", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590430762, -- [9]
+		1591220158.705, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2079]
+	{
+		"Cilirs", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 30 (Full Price)", -- [3]
+		226, -- [4]
+		226, -- [5]
+		115, -- [6]
+		145, -- [7]
+		"|cffa335ee|Hitem:17069:::::::::::::|h[Striker's Mark]|h|r", -- [8]
+		1590430796, -- [9]
+		1591220225.759, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2080]
+	{
+		"Legendaryelf", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 31 (Full Price)", -- [3]
+		98, -- [4]
+		98, -- [5]
+		68, -- [6]
+		99, -- [7]
+		"|cffa335ee|Hitem:19142:::::::::::::|h[Fire Runed Grimoire]|h|r", -- [8]
+		1590430814, -- [9]
+		1591220262.374, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2081]
+	{
+		"Legendaryelf", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 2 (Off Spec)", -- [3]
+		98, -- [4]
+		98, -- [5]
+		99, -- [6]
+		101, -- [7]
+		"|cffa335ee|Hitem:16835:::::::::::::|h[Cenarion Leggings]|h|r", -- [8]
+		1590430832, -- [9]
+		1591220298.584, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2082]
+	{
+		"Adamantine", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 13 (Full Price)", -- [3]
+		658, -- [4]
+		658, -- [5]
+		189, -- [6]
+		202, -- [7]
+		"|cff0070dd|Hitem:18292:::::::::::::|h[Schematic: Core Marksman Rifle]|h|r", -- [8]
+		1590430881, -- [9]
+		1591220396.129, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2083]
+	{
+		"Aldebaren", -- [1]
+		"Aldebaren", -- [2]
+		"Given for Free", -- [3]
+		694, -- [4]
+		694, -- [5]
+		99, -- [6]
+		99, -- [7]
+		"|cffa335ee|Hitem:16804:::::::::::::|h[Felheart Bracers]|h|r", -- [8]
+		1590430930, -- [9]
+		1591220494.486, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2084]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 - Gehennas", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590431228, -- [9]
+		1591221090.195, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2085]
+	{
+		"Szh", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		780, -- [4]
+		780, -- [5]
+		85, -- [6]
+		85, -- [7]
+		"|cffa335ee|Hitem:16860:::::::::::::|h[Lawbringer Gauntlets]|h|r", -- [8]
+		1590431258, -- [9]
+		1591221150.392, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2086]
+	{
+		"Aldebaren", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Full Price)", -- [3]
+		695, -- [4]
+		695, -- [5]
+		99, -- [6]
+		127, -- [7]
+		"|cffa335ee|Hitem:19145:::::::::::::|h[Robe of Volatile Power]|h|r", -- [8]
+		1590431324, -- [9]
+		1591221281.924, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2087]
+	{
+		"Yeesy", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +21 (Arcanist Belt)", -- [3]
+		160, -- [4]
+		160, -- [5]
+		162, -- [6]
+		183, -- [7]
+		"", -- [8]
+		1590431606, -- [9]
+		1591221846.471, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2088]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 - Garr", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590431850, -- [9]
+		1591222334.125, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2089]
+	{
+		"Wowarrow", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 46 (Full Price)", -- [3]
+		772, -- [4]
+		772, -- [5]
+		138, -- [6]
+		184, -- [7]
+		"|cffa335ee|Hitem:18832:::::::::::::|h[Brutality Blade]|h|r", -- [8]
+		1590431970, -- [9]
+		1591222574.235, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2090]
+	{
+		"Zarlina", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 2 (Off Spec)", -- [3]
+		766, -- [4]
+		766, -- [5]
+		135, -- [6]
+		137, -- [7]
+		"|cffa335ee|Hitem:16821:::::::::::::|h[Nightslayer Cover]|h|r", -- [8]
+		1590431991, -- [9]
+		1591222615.902, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2091]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 - Baron Geddon", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590432536, -- [9]
+		1591223706.614, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2092]
+	{
+		"Blackmace", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 21 (Full Price)", -- [3]
+		720, -- [4]
+		720, -- [5]
+		149, -- [6]
+		170, -- [7]
+		"|cffa335ee|Hitem:18820:::::::::::::|h[Talisman of Ephemeral Power]|h|r", -- [8]
+		1590432575, -- [9]
+		1591223784.68, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2093]
+	{
+		"Deathspree", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 2 (Off Spec)", -- [3]
+		77, -- [4]
+		77, -- [5]
+		56, -- [6]
+		58, -- [7]
+		"|cffa335ee|Hitem:16807:::::::::::::|h[Felheart Shoulder Pads]|h|r", -- [8]
+		1590432596, -- [9]
+		1591223825.913, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2094]
+	{
+		"Thymüs", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 1 (Off Spec)", -- [3]
+		746, -- [4]
+		746, -- [5]
+		170, -- [6]
+		171, -- [7]
+		"|cff0070dd|Hitem:21371:::::::::::::|h[Pattern: Core Felcloth Bag]|h|r", -- [8]
+		1590432651, -- [9]
+		1591223936.041, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2095]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 - Shazzrah", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590432839, -- [9]
+		1591224312.716, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2096]
+	{
+		"Legendaryelf", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 27 (Full Price)", -- [3]
+		102, -- [4]
+		102, -- [5]
+		101, -- [6]
+		128, -- [7]
+		"|cffa335ee|Hitem:18878:::::::::::::|h[Sorcerous Dagger]|h|r", -- [8]
+		1590432873, -- [9]
+		1591224380.606, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2097]
+	{
+		"Legendaryelf", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 2 (Off Spec)", -- [3]
+		102, -- [4]
+		102, -- [5]
+		128, -- [6]
+		130, -- [7]
+		"|cffa335ee|Hitem:16831:::::::::::::|h[Cenarion Gloves]|h|r", -- [8]
+		1590432892, -- [9]
+		1591224418.255, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2098]
+	{
+		"", -- [1]
+		"Aldebaren", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cffa335ee|Hitem:16857:::::::::::::|h[Lawbringer Bracers]|h|r", -- [8]
+		1590433074, -- [9]
+		1591224782.476, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2099]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 - Sulfuron Harbinger", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590433851, -- [9]
+		1591226336.346, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2100]
+	{
+		"Daphereen", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 14 (Full Price)", -- [3]
+		609, -- [4]
+		609, -- [5]
+		160, -- [6]
+		174, -- [7]
+		"|cffa335ee|Hitem:19147:::::::::::::|h[Ring of Spell Power]|h|r", -- [8]
+		1590433889, -- [9]
+		1591226412.286, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2101]
+	{
+		"Szh", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		784, -- [4]
+		784, -- [5]
+		85, -- [6]
+		85, -- [7]
+		"|cffa335ee|Hitem:16816:::::::::::::|h[Mantle of Prophecy]|h|r", -- [8]
+		1590433907, -- [9]
+		1591226448.484, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2102]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 - Golemagg the Incinerator", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590434168, -- [9]
+		1591226970.038, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2103]
+	{
+		"Casmus", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Full Price)", -- [3]
+		45, -- [4]
+		45, -- [5]
+		104, -- [6]
+		132, -- [7]
+		"|cffa335ee|Hitem:16865:::::::::::::|h[Breastplate of Might]|h|r", -- [8]
+		1590434228, -- [9]
+		1591227090.547, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2104]
+	{
+		"Northgard", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 31 (Full Price)", -- [3]
+		446, -- [4]
+		446, -- [5]
+		294, -- [6]
+		325, -- [7]
+		"|cffa335ee|Hitem:17072:::::::::::::|h[Blastershot Launcher]|h|r", -- [8]
+		1590434253, -- [9]
+		1591227139.833, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2105]
+	{
+		"Anlona", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 28 (Full Price)", -- [3]
+		46, -- [4]
+		46, -- [5]
+		99, -- [6]
+		127, -- [7]
+		"|cffa335ee|Hitem:16798:::::::::::::|h[Arcanist Robes]|h|r", -- [8]
+		1590434270, -- [9]
+		1591227174.648, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2106]
+	{
+		"Legendaryelf", -- [1]
+		"Szh", -- [2]
+		"Add EP +1 (Domo)", -- [3]
+		"104", -- [4]
+		"105", -- [5]
+		"130", -- [6]
+		"130", -- [7]
+		"", -- [8]
+		"1590434338", -- [9]
+		"1590434338", -- [10]
+		"1590700757.267", -- [11]
+	}, -- [2107]
+	{
+		"Wowarrow", -- [1]
+		"Aldebaren", -- [2]
+		"Subtract GP -46 (Brutality Blade refund)", -- [3]
+		776, -- [4]
+		776, -- [5]
+		184, -- [6]
+		138, -- [7]
+		"", -- [8]
+		1590434361, -- [9]
+		1591227355.944, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2108]
+	{
+		"Daphereen", -- [1]
+		"Aldebaren", -- [2]
+		"Subtract GP -14 (Ring of spellpower refund)", -- [3]
+		610, -- [4]
+		610, -- [5]
+		174, -- [6]
+		160, -- [7]
+		"", -- [8]
+		1590434390, -- [9]
+		1591227414.596, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2109]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 - Majordomo Executus", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590434571, -- [9]
+		1591227776.566, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2110]
+	{
+		"Zarlina", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +4 (Brutality blade)", -- [3]
+		771, -- [4]
+		771, -- [5]
+		137, -- [6]
+		141, -- [7]
+		"", -- [8]
+		1590434688, -- [9]
+		1591228010.272, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2111]
+	{
+		"Fionaa", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +1 (ring of spellpower)", -- [3]
+		777, -- [4]
+		777, -- [5]
+		187, -- [6]
+		188, -- [7]
+		"", -- [8]
+		1590434779, -- [9]
+		1591228191.963, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2112]
+	{
+		"Aldebaren", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 16 (Full Price)", -- [3]
+		701, -- [4]
+		701, -- [5]
+		127, -- [6]
+		143, -- [7]
+		"|cffa335ee|Hitem:19140:::::::::::::|h[Cauterizing Band]|h|r", -- [8]
+		1590434850, -- [9]
+		1591228334.321, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2113]
+	{
+		"Szh", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		786, -- [4]
+		786, -- [5]
+		85, -- [6]
+		85, -- [7]
+		"|cffa335ee|Hitem:18803:::::::::::::|h[Finkle's Lava Dredger]|h|r", -- [8]
+		1590434872, -- [9]
+		1591228377.772, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2114]
+	{
+		"Fionaa", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +13 (ring of spellpower)", -- [3]
+		777, -- [4]
+		777, -- [5]
+		188, -- [6]
+		201, -- [7]
+		"", -- [8]
+		1590434929, -- [9]
+		1591228492.219, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2115]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +6 - Ragnaros", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590435442, -- [9]
+		1591229518.372, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2116]
+	{
+		"Whimp", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 3 (Off Spec)", -- [3]
+		748, -- [4]
+		748, -- [5]
+		126, -- [6]
+		129, -- [7]
+		"|cffa335ee|Hitem:17106:::::::::::::|h[Malistar's Defender]|h|r", -- [8]
+		1590435494, -- [9]
+		1591229622.231, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2117]
+	{
+		"Ciran", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 2 (Off Spec)", -- [3]
+		775, -- [4]
+		775, -- [5]
+		116, -- [6]
+		118, -- [7]
+		"|cffa335ee|Hitem:18815:::::::::::::|h[Essence of the Pure Flame]|h|r", -- [8]
+		1590435528, -- [9]
+		1591229689.758, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2118]
+	{
+		"Szh", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		792, -- [4]
+		792, -- [5]
+		85, -- [6]
+		85, -- [7]
+		"|cffa335ee|Hitem:16922:::::::::::::|h[Leggings of Transcendence]|h|r", -- [8]
+		1590435546, -- [9]
+		1591229725.956, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2119]
+	{
+		"Casmus", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 36 (Full Price)", -- [3]
+		52, -- [4]
+		52, -- [5]
+		132, -- [6]
+		168, -- [7]
+		"|cffa335ee|Hitem:16962:::::::::::::|h[Legplates of Wrath]|h|r", -- [8]
+		1590435573, -- [9]
+		1591229780.479, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2120]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +2 - High Priestess Jeklik", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590437066", -- [9]
+		"1590437066", -- [10]
+		"1590706212.95", -- [11]
+	}, -- [2121]
+	{
+		"Deathspree", -- [1]
+		"Szh", -- [2]
+		"Add GP 13 (Full Price)", -- [3]
+		"89", -- [4]
+		"89", -- [5]
+		"58", -- [6]
+		"71", -- [7]
+		"|cffa335ee|Hitem:22721:::::::::::::|h[Band of Servitude]|h|r", -- [8]
+		"1590437093", -- [9]
+		"1590437093", -- [10]
+		"1590706267.046", -- [11]
+	}, -- [2122]
+	{
+		"Szh", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		"794", -- [4]
+		"794", -- [5]
+		"85", -- [6]
+		"85", -- [7]
+		"|cffa335ee|Hitem:19716:::::::::::::|h[Primal Hakkari Bindings]|h|r", -- [8]
+		"1590437113", -- [9]
+		"1590437113", -- [10]
+		"1590706307.313", -- [11]
+	}, -- [2123]
+	{
+		"Legendaryelf", -- [1]
+		"Szh", -- [2]
+		"Add GP 1 (Off Spec)", -- [3]
+		"113", -- [4]
+		"113", -- [5]
+		"130", -- [6]
+		"131", -- [7]
+		"|cff0070dd|Hitem:19928:::::::::::::|h[Animist's Spaulders]|h|r", -- [8]
+		"1590437133", -- [9]
+		"1590437133", -- [10]
+		"1590706346.747", -- [11]
+	}, -- [2124]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +2 - High Priest Venoxis", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590437440", -- [9]
+		"1590437440", -- [10]
+		"1590706960.819", -- [11]
+	}, -- [2125]
+	{
+		"Szh", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		"796", -- [4]
+		"796", -- [5]
+		"85", -- [6]
+		"85", -- [7]
+		"|cff0070dd|Hitem:22712:::::::::::::|h[Might of the Tribe]|h|r", -- [8]
+		"1590437460", -- [9]
+		"1590437460", -- [10]
+		"1590707000.982", -- [11]
+	}, -- [2126]
+	{
+		"Forsetius", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +2 (primal hakkari shawl)", -- [3]
+		519, -- [4]
+		519, -- [5]
+		278, -- [6]
+		280, -- [7]
+		"", -- [8]
+		1590437463, -- [9]
+		1591233559.916, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2127]
+	{
+		"Daphereen", -- [1]
+		"Szh", -- [2]
+		"Add GP 1 (Off Spec)", -- [3]
+		"621", -- [4]
+		"621", -- [5]
+		"160", -- [6]
+		"161", -- [7]
+		"|cff0070dd|Hitem:19906:::::::::::::|h[Blooddrenched Footpads]|h|r", -- [8]
+		"1590437489", -- [9]
+		"1590437489", -- [10]
+		"1590707059.15", -- [11]
+	}, -- [2128]
+	{
+		"", -- [1]
+		"Szh", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cffa335ee|Hitem:19716:::::::::::::|h[Primal Hakkari Bindings]|h|r", -- [8]
+		"1590437512", -- [9]
+		"1590437512", -- [10]
+		"1590707104.784", -- [11]
+	}, -- [2129]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +2 - High Priest Venoxis", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590437631, -- [9]
+		1591233896.394, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2130]
+	{
+		"Blackmace", -- [1]
+		"Aldebaren", -- [2]
+		"Given for Free", -- [3]
+		732, -- [4]
+		732, -- [5]
+		170, -- [6]
+		170, -- [7]
+		"|cff0070dd|Hitem:22712:::::::::::::|h[Might of the Tribe]|h|r", -- [8]
+		1590437685, -- [9]
+		1591234004.087, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2131]
+	{
+		"Aladiss", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 11 (Full Price)", -- [3]
+		166, -- [4]
+		166, -- [5]
+		82, -- [6]
+		93, -- [7]
+		"|cff0070dd|Hitem:19906:::::::::::::|h[Blooddrenched Footpads]|h|r", -- [8]
+		1590437706, -- [9]
+		1591234046.159, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2132]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +2 - High Priestess Mar'li", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590437861", -- [9]
+		"1590437861", -- [10]
+		"1590707802.548", -- [11]
+	}, -- [2133]
+	{
+		"Runnerfox", -- [1]
+		"Szh", -- [2]
+		"Add GP 1 (Off Spec)", -- [3]
+		"708", -- [4]
+		"708", -- [5]
+		"112", -- [6]
+		"113", -- [7]
+		"|cffa335ee|Hitem:19927:::::::::::::|h[Mar'li's Touch]|h|r", -- [8]
+		"1590437886", -- [9]
+		"1590437886", -- [10]
+		"1590707852.981", -- [11]
+	}, -- [2134]
+	{
+		"Szh", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		"798", -- [4]
+		"798", -- [5]
+		"85", -- [6]
+		"85", -- [7]
+		"|cff0070dd|Hitem:22712:::::::::::::|h[Might of the Tribe]|h|r", -- [8]
+		"1590437907", -- [9]
+		"1590437907", -- [10]
+		"1590707895.429", -- [11]
+	}, -- [2135]
+	{
+		"", -- [1]
+		"Szh", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cffa335ee|Hitem:19721:::::::::::::|h[Primal Hakkari Shawl]|h|r", -- [8]
+		"1590437926", -- [9]
+		"1590437926", -- [10]
+		"1590707933.462", -- [11]
+	}, -- [2136]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +2 - High Priestess Mar'li", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590438057, -- [9]
+		1591234748.201, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2137]
+	{
+		"Tálpá", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Off Spec)", -- [3]
+		512, -- [4]
+		512, -- [5]
+		57, -- [6]
+		57, -- [7]
+		"|cff0070dd|Hitem:22711:::::::::::::|h[Cloak of the Hakkari Worshipers]|h|r", -- [8]
+		1590438124, -- [9]
+		1591234882.296, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2138]
+	{
+		"Blackmace", -- [1]
+		"Aldebaren", -- [2]
+		"Given for Free", -- [3]
+		734, -- [4]
+		734, -- [5]
+		170, -- [6]
+		170, -- [7]
+		"|cff0070dd|Hitem:19919:::::::::::::|h[Bloodstained Greaves]|h|r", -- [8]
+		1590438146, -- [9]
+		1591234926.581, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2139]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +2 - Bloodlord Mandokir", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590438662", -- [9]
+		"1590438662", -- [10]
+		"1590709405.449", -- [11]
+	}, -- [2140]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +2 - Bloodlord Mandokir", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590438666, -- [9]
+		1591235966.064, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2141]
+	{
+		"Lylalia", -- [1]
+		"Szh", -- [2]
+		"Add GP 11 (Full Price)", -- [3]
+		"788", -- [4]
+		"788", -- [5]
+		"158", -- [6]
+		"169", -- [7]
+		"|cff0070dd|Hitem:22637:::::::::::::|h[Primal Hakkari Idol]|h|r", -- [8]
+		"1590438705", -- [9]
+		"1590438705", -- [10]
+		"1590709490.81", -- [11]
+	}, -- [2142]
+	{
+		"Ohéaly", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 11 (Full Price)", -- [3]
+		718, -- [4]
+		718, -- [5]
+		147, -- [6]
+		158, -- [7]
+		"|cff0070dd|Hitem:22637:::::::::::::|h[Primal Hakkari Idol]|h|r", -- [8]
+		1590438716, -- [9]
+		1591236066.118, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2143]
+	{
+		"Deathspree", -- [1]
+		"Szh", -- [2]
+		"Add GP 8 (Full Price)", -- [3]
+		"95", -- [4]
+		"95", -- [5]
+		"71", -- [6]
+		"79", -- [7]
+		"|cff0070dd|Hitem:19893:::::::::::::|h[Zanzil's Seal]|h|r", -- [8]
+		"1590438728", -- [9]
+		"1590438728", -- [10]
+		"1590709537.264", -- [11]
+	}, -- [2144]
+	{
+		"", -- [1]
+		"Szh", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cff0070dd|Hitem:19895:::::::::::::|h[Bloodtinged Kilt]|h|r", -- [8]
+		"1590438749", -- [9]
+		"1590438749", -- [10]
+		"1590709579.257", -- [11]
+	}, -- [2145]
+	{
+		"Blackmace", -- [1]
+		"Aldebaren", -- [2]
+		"Given for Free", -- [3]
+		736, -- [4]
+		736, -- [5]
+		170, -- [6]
+		170, -- [7]
+		"|cff0070dd|Hitem:19869:::::::::::::|h[Blooddrenched Grips]|h|r", -- [8]
+		1590438758, -- [9]
+		1591236150.22, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2146]
+	{
+		"Legendaryelf", -- [1]
+		"Szh", -- [2]
+		"Add GP 2 (Off Spec)", -- [3]
+		"119", -- [4]
+		"119", -- [5]
+		"131", -- [6]
+		"133", -- [7]
+		"|cffa335ee|Hitem:19722:::::::::::::|h[Primal Hakkari Tabard]|h|r", -- [8]
+		"1590438769", -- [9]
+		"1590438769", -- [10]
+		"1590709618.694", -- [11]
+	}, -- [2147]
+	{
+		"Diavelu", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Off Spec)", -- [3]
+		546, -- [4]
+		546, -- [5]
+		94, -- [6]
+		94, -- [7]
+		"|cff0070dd|Hitem:19873:::::::::::::|h[Overlord's Crimson Band]|h|r", -- [8]
+		1590438781, -- [9]
+		1591236196.267, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2148]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +2 - High Priest Thekal", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590439119, -- [9]
+		1591236871.976, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2149]
+	{
+		"Slapster", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 1 (Off Spec)", -- [3]
+		785, -- [4]
+		785, -- [5]
+		168, -- [6]
+		169, -- [7]
+		"|cffa335ee|Hitem:19719:::::::::::::|h[Primal Hakkari Girdle]|h|r", -- [8]
+		1590439158, -- [9]
+		1591236950.158, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2150]
+	{
+		"Aladiss", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 7 (Full Price)", -- [3]
+		172, -- [4]
+		172, -- [5]
+		93, -- [6]
+		100, -- [7]
+		"|cff0070dd|Hitem:19898:::::::::::::|h[Seal of Jin]|h|r", -- [8]
+		1590439177, -- [9]
+		1591236988.179, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2151]
+	{
+		"Blackmace", -- [1]
+		"Aldebaren", -- [2]
+		"Given for Free", -- [3]
+		738, -- [4]
+		738, -- [5]
+		170, -- [6]
+		170, -- [7]
+		"|cff0070dd|Hitem:22715:::::::::::::|h[Gloves of the Tormented]|h|r", -- [8]
+		1590439196, -- [9]
+		1591237026.222, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2152]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +2 - High Priest Thekal", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590439196", -- [9]
+		"1590439196", -- [10]
+		"1590710473.265", -- [11]
+	}, -- [2153]
+	{
+		"Ilia", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Off Spec)", -- [3]
+		"724", -- [4]
+		"724", -- [5]
+		"170", -- [6]
+		"170", -- [7]
+		"|cff0070dd|Hitem:19898:::::::::::::|h[Seal of Jin]|h|r", -- [8]
+		"1590439228", -- [9]
+		"1590439228", -- [10]
+		"1590710536.719", -- [11]
+	}, -- [2154]
+	{
+		"", -- [1]
+		"Szh", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cff0070dd|Hitem:22718:::::::::::::|h[Blooddrenched Mask]|h|r", -- [8]
+		"1590439244", -- [9]
+		"1590439244", -- [10]
+		"1590710569.315", -- [11]
+	}, -- [2155]
+	{
+		"Szh", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		"802", -- [4]
+		"802", -- [5]
+		"85", -- [6]
+		"85", -- [7]
+		"|cffa335ee|Hitem:19718:::::::::::::|h[Primal Hakkari Stanchion]|h|r", -- [8]
+		"1590439263", -- [9]
+		"1590439263", -- [10]
+		"1590710606.529", -- [11]
+	}, -- [2156]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +2 - High Priestess Arlokk", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590439582, -- [9]
+		1591237798.159, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2157]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +2 - High Priestess Arlokk", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590439677", -- [9]
+		"1590439677", -- [10]
+		"1590711435.196", -- [11]
+	}, -- [2158]
+	{
+		"Ohéaly", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +5 (will of arlokk)", -- [3]
+		722, -- [4]
+		722, -- [5]
+		158, -- [6]
+		163, -- [7]
+		"", -- [8]
+		1590439684, -- [9]
+		1591238002.021, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2159]
+	{
+		"Szh", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		"804", -- [4]
+		"804", -- [5]
+		"85", -- [6]
+		"85", -- [7]
+		"|cff0070dd|Hitem:19922:::::::::::::|h[Arlokk's Hoodoo Stick]|h|r", -- [8]
+		"1590439725", -- [9]
+		"1590439725", -- [10]
+		"1590711531.019", -- [11]
+	}, -- [2160]
+	{
+		"", -- [1]
+		"Szh", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cff0070dd|Hitem:22720:::::::::::::|h[Zulian Headdress]|h|r", -- [8]
+		"1590439749", -- [9]
+		"1590439749", -- [10]
+		"1590711578.531", -- [11]
+	}, -- [2161]
+	{
+		"Szh", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		"804", -- [4]
+		"804", -- [5]
+		"85", -- [6]
+		"85", -- [7]
+		"|cffa335ee|Hitem:19724:::::::::::::|h[Primal Hakkari Aegis]|h|r", -- [8]
+		"1590439763", -- [9]
+		"1590439763", -- [10]
+		"1590711607.513", -- [11]
+	}, -- [2162]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +2 - Jin'do the Hexxer", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590440236, -- [9]
+		1591239106.553, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2163]
+	{
+		"Unclenecro", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 11 (Full Price)", -- [3]
+		689, -- [4]
+		689, -- [5]
+		146, -- [6]
+		157, -- [7]
+		"|cff0070dd|Hitem:22637:::::::::::::|h[Primal Hakkari Idol]|h|r", -- [8]
+		1590440285, -- [9]
+		1591239203.878, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2164]
+	{
+		"Ohéaly", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 5 (Off Spec)", -- [3]
+		724, -- [4]
+		724, -- [5]
+		163, -- [6]
+		168, -- [7]
+		"|cffa335ee|Hitem:19884:::::::::::::|h[Jin'do's Judgement]|h|r", -- [8]
+		1590440328, -- [9]
+		1591239290.531, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2165]
+	{
+		"Blackmace", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 0 (Pass)", -- [3]
+		742, -- [4]
+		742, -- [5]
+		170, -- [6]
+		170, -- [7]
+		"|cff0070dd|Hitem:19875:::::::::::::|h[Bloodstained Coif]|h|r", -- [8]
+		1590440349, -- [9]
+		1591239332.147, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2166]
+	{
+		"Ciran", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP 2 (Off Spec)", -- [3]
+		787, -- [4]
+		787, -- [5]
+		118, -- [6]
+		120, -- [7]
+		"|cffa335ee|Hitem:19722:::::::::::::|h[Primal Hakkari Tabard]|h|r", -- [8]
+		1590440367, -- [9]
+		1591239367.962, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2167]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +2 - Jin'do the Hexxer", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590440490", -- [9]
+		"1590440490", -- [10]
+		"1590713061.003", -- [11]
+	}, -- [2168]
+	{
+		"Fumblefinger", -- [1]
+		"Szh", -- [2]
+		"Add GP 11 (Full Price)", -- [3]
+		"675", -- [4]
+		"675", -- [5]
+		"99", -- [6]
+		"110", -- [7]
+		"|cff0070dd|Hitem:22637:::::::::::::|h[Primal Hakkari Idol]|h|r", -- [8]
+		"1590440515", -- [9]
+		"1590440515", -- [10]
+		"1590713110.864", -- [11]
+	}, -- [2169]
+	{
+		"", -- [1]
+		"Szh", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cff0070dd|Hitem:19887:::::::::::::|h[Bloodstained Legplates]|h|r", -- [8]
+		"1590440530", -- [9]
+		"1590440530", -- [10]
+		"1590713140.85", -- [11]
+	}, -- [2170]
+	{
+		"Szh", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		"806", -- [4]
+		"806", -- [5]
+		"85", -- [6]
+		"85", -- [7]
+		"|cff0070dd|Hitem:19875:::::::::::::|h[Bloodstained Coif]|h|r", -- [8]
+		"1590440544", -- [9]
+		"1590440544", -- [10]
+		"1590713168.621", -- [11]
+	}, -- [2171]
+	{
+		"Zacur", -- [1]
+		"Szh", -- [2]
+		"Add GP 1 (Off Spec)", -- [3]
+		"752", -- [4]
+		"752", -- [5]
+		"109", -- [6]
+		"110", -- [7]
+		"|cffa335ee|Hitem:19720:::::::::::::|h[Primal Hakkari Sash]|h|r", -- [8]
+		"1590440558", -- [9]
+		"1590440558", -- [10]
+		"1590713196.777", -- [11]
+	}, -- [2172]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +3 - Hakkar", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590440826, -- [9]
+		1591240285.933, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2173]
+	{
+		"", -- [1]
+		"Aldebaren", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cffa335ee|Hitem:19857:::::::::::::|h[Cloak of Consumption]|h|r", -- [8]
+		1590440990, -- [9]
+		1591240614.59, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2174]
+	{
+		"", -- [1]
+		"Aldebaren", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cffa335ee|Hitem:19876:::::::::::::|h[Soul Corrupter's Necklace]|h|r", -- [8]
+		1590441047, -- [9]
+		1591240727.834, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2175]
+	{
+		"Northgard", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +2 (heart of hakkar)", -- [3]
+		468, -- [4]
+		468, -- [5]
+		325, -- [6]
+		327, -- [7]
+		"", -- [8]
+		1590441066, -- [9]
+		1591240765.833, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2176]
+	{
+		"Tálpá", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +14 (cloak of consumption)", -- [3]
+		523, -- [4]
+		523, -- [5]
+		57, -- [6]
+		71, -- [7]
+		"", -- [8]
+		1590441082, -- [9]
+		1591240798.747, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2177]
+	{
+		"Tálpá", -- [1]
+		"Aldebaren", -- [2]
+		"Add GP +14 (soul corruoter's necklace)", -- [3]
+		523, -- [4]
+		523, -- [5]
+		71, -- [6]
+		85, -- [7]
+		"", -- [8]
+		1590441100, -- [9]
+		1591240834.445, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2178]
+	{
+		"Raid", -- [1]
+		"Aldebaren", -- [2]
+		"Add Raid EP +1 (raid slut)", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		1590441164, -- [9]
+		1591240962.047, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2179]
+	{
+		"Ohéaly", -- [1]
+		"Aldebaren", -- [2]
+		"Add EP +1 (raid slut)", -- [3]
+		727, -- [4]
+		728, -- [5]
+		168, -- [6]
+		168, -- [7]
+		"", -- [8]
+		1590441225, -- [9]
+		1591241084.63, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2180]
+	{
+		"Unclenecro", -- [1]
+		"Aldebaren", -- [2]
+		"Add EP +1 (raid slut)", -- [3]
+		692, -- [4]
+		693, -- [5]
+		157, -- [6]
+		157, -- [7]
+		"", -- [8]
+		1590441234, -- [9]
+		1591241101.82, -- [10]
+		"Player-4453-000056F4", -- [11]
+	}, -- [2181]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +3 - Hakkar", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590441247", -- [9]
+		"1590441247", -- [10]
+		"1590714574.685", -- [11]
+	}, -- [2182]
+	{
+		"", -- [1]
+		"Szh", -- [2]
+		"Manually Awarded", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"|cffa335ee|Hitem:19854:::::::::::::|h[Zin'rokh, Destroyer of Worlds]|h|r", -- [8]
+		"1590441284", -- [9]
+		"1590441284", -- [10]
+		"1590714648.676", -- [11]
+	}, -- [2183]
+	{
+		"Szh", -- [1]
+		"Szh", -- [2]
+		"Add GP 0 (Disenchant)", -- [3]
+		"809", -- [4]
+		"809", -- [5]
+		"85", -- [6]
+		"85", -- [7]
+		"|cffa335ee|Hitem:20264:::::::::::::|h[Peacekeeper Gauntlets]|h|r", -- [8]
+		"1590441304", -- [9]
+		"1590441304", -- [10]
+		"1590714688.892", -- [11]
+	}, -- [2184]
+	{
+		"Skyggesvamp", -- [1]
+		"Szh", -- [2]
+		"Add GP 22 (Full Price)", -- [3]
+		"615", -- [4]
+		"615", -- [5]
+		"215", -- [6]
+		"237", -- [7]
+		"|cffa335ee|Hitem:19802:::::::::::::|h[Heart of Hakkar]|h|r", -- [8]
+		"1590441320", -- [9]
+		"1590441320", -- [10]
+		"1590714721.04", -- [11]
+	}, -- [2185]
+	{
+		"Raid", -- [1]
+		"Szh", -- [2]
+		"Add Raid EP +1 (raid slut)", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"1590441330", -- [9]
+		"1590441330", -- [10]
+		"1590714741.185", -- [11]
+	}, -- [2186]
 }
 CEPGP_raid_logs = {
 	{
