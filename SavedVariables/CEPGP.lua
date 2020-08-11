@@ -7,6 +7,1000 @@ CEPGP = {
 		["Links"] = {
 		},
 	},
+	["Log"] = {
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Strixx", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [1]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Truckerjan", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [2]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Mcgrumpy", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [3]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Cilirs", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [4]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Thymüs", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [5]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Zenster", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [6]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Elastica", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [7]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Talpá", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [8]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Rememberme", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [9]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Zarlina", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [10]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Pockettank", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [11]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Fumblestash", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [12]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Kassidy", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [13]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Slapster", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [14]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Zeraal", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [15]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Crille", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [16]
+		{
+			1597175532, -- [1]
+			"received", -- [2]
+			"Enfermero", -- [3]
+			"Aldebaren", -- [4]
+			"Aldebaren;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [17]
+		{
+			1597175533, -- [1]
+			"sent", -- [2]
+			"Aldebaren", -- [3]
+			nil, -- [4]
+			"version-check", -- [5]
+			"GUILD", -- [6]
+		}, -- [18]
+		{
+			1597175533, -- [1]
+			"sent", -- [2]
+			"Aldebaren", -- [3]
+			nil, -- [4]
+			"Aldebaren;versioncheck;1.12.25.Release", -- [5]
+			"RAID", -- [6]
+		}, -- [19]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Ilia", -- [3]
+			"Aldebaren", -- [4]
+			"version-check", -- [5]
+			"GUILD", -- [6]
+		}, -- [20]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Enfermero", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [21]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Zarlina", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [22]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Elastica", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [23]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Zenster", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [24]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Mcgrumpy", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [25]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Pockettank", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [26]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Talpá", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [27]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Strixx", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [28]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Rememberme", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [29]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Thymüs", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [30]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Cilirs", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [31]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Fumblestash", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [32]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Kassidy", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [33]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Slapster", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [34]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Truckerjan", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [35]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Crille", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [36]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Ilia", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [37]
+		{
+			1597175541, -- [1]
+			"received", -- [2]
+			"Zeraal", -- [3]
+			"Aldebaren", -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [38]
+		{
+			1597175542, -- [1]
+			"sent", -- [2]
+			"Aldebaren", -- [3]
+			nil, -- [4]
+			"Ilia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [39]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Fumblefinger", -- [3]
+			"Aldebaren", -- [4]
+			"version-check", -- [5]
+			"GUILD", -- [6]
+		}, -- [40]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Zenster", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [41]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Kassidy", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [42]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Thymüs", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [43]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Strixx", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [44]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Ilia", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [45]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Elastica", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [46]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Crille", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [47]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Zarlina", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [48]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Rememberme", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [49]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Talpá", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [50]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Cilirs", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [51]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Mcgrumpy", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [52]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Pockettank", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [53]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Fumblefinger", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [54]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Truckerjan", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [55]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Zeraal", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [56]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Slapster", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [57]
+		{
+			1597175581, -- [1]
+			"received", -- [2]
+			"Enfermero", -- [3]
+			"Aldebaren", -- [4]
+			"Fumblefinger;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [58]
+		{
+			1597175582, -- [1]
+			"sent", -- [2]
+			"Aldebaren", -- [3]
+			nil, -- [4]
+			"Fumblefinger;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [59]
+		{
+			1597175658, -- [1]
+			"received", -- [2]
+			"Silia", -- [3]
+			"Aldebaren", -- [4]
+			"version-check", -- [5]
+			"GUILD", -- [6]
+		}, -- [60]
+		{
+			1597175658, -- [1]
+			"received", -- [2]
+			"Mcgrumpy", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [61]
+		{
+			1597175658, -- [1]
+			"received", -- [2]
+			"Silia", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [62]
+		{
+			1597175658, -- [1]
+			"received", -- [2]
+			"Fumblefinger", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [63]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Zenster", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [64]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Thymüs", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [65]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Kassidy", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [66]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Elastica", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [67]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Zeraal", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [68]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Zarlina", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [69]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Truckerjan", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [70]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Strixx", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [71]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Ilia", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [72]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Talpá", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [73]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Crille", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [74]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Rememberme", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [75]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Cilirs", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [76]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Pockettank", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [77]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Slapster", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [78]
+		{
+			1597175659, -- [1]
+			"received", -- [2]
+			"Enfermero", -- [3]
+			"Aldebaren", -- [4]
+			"Silia;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [79]
+		{
+			1597175659, -- [1]
+			"sent", -- [2]
+			"Aldebaren", -- [3]
+			nil, -- [4]
+			"Silia;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [80]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Ragerider", -- [3]
+			"Aldebaren", -- [4]
+			"version-check", -- [5]
+			"GUILD", -- [6]
+		}, -- [81]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Zenster", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [82]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Mcgrumpy", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [83]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Rememberme", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [84]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Truckerjan", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [85]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Ilia", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [86]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Slapster", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [87]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Cilirs", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [88]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Ragerider", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.22.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [89]
+		{
+			1597175854, -- [1]
+			"received", -- [2]
+			"Fumblefinger", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [90]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Kassidy", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [91]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Zarlina", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [92]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Elastica", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [93]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Pockettank", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [94]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Strixx", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [95]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Talpá", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [96]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Crille", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [97]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Thymüs", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [98]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Silia", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [99]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Zeraal", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [100]
+		{
+			1597175855, -- [1]
+			"received", -- [2]
+			"Enfermero", -- [3]
+			"Aldebaren", -- [4]
+			"Ragerider;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [101]
+		{
+			1597175855, -- [1]
+			"sent", -- [2]
+			"Aldebaren", -- [3]
+			nil, -- [4]
+			"Ragerider;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [102]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Bellus", -- [3]
+			"Aldebaren", -- [4]
+			"version-check", -- [5]
+			"GUILD", -- [6]
+		}, -- [103]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Mcgrumpy", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [104]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Bellus", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [105]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Zenster", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [106]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Strixx", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [107]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Fumblefinger", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [108]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Ilia", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [109]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Truckerjan", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [110]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Elastica", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [111]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Rememberme", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [112]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Pockettank", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [113]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Talpá", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [114]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Ragerider", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.22.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [115]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Zarlina", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [116]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Crille", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [117]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Zeraal", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [118]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Thymüs", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [119]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Kassidy", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [120]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Cilirs", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [121]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Slapster", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [122]
+		{
+			1597175960, -- [1]
+			"received", -- [2]
+			"Enfermero", -- [3]
+			"Aldebaren", -- [4]
+			"Bellus;versioncheck;1.12.24.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [123]
+		{
+			1597175961, -- [1]
+			"sent", -- [2]
+			"Aldebaren", -- [3]
+			nil, -- [4]
+			"Bellus;versioncheck;1.12.25.Release", -- [5]
+			"GUILD", -- [6]
+		}, -- [124]
+	},
 	["Decay"] = {
 		["Separate"] = false,
 	},
@@ -26,13 +1020,6 @@ CEPGP = {
 		["Keyword"] = "!need",
 		["AutoPass"] = true,
 		["HideKeyphrases"] = true,
-		["AutoSort"] = true,
-		["ExtraKeywords"] = {
-			["Keywords"] = {
-			},
-		},
-		["ShowPass"] = false,
-		["DelayResponses"] = false,
 		["GUI"] = {
 			["Enabled"] = true,
 			["Timer"] = 15,
@@ -41,13 +1028,13 @@ CEPGP = {
 					true, -- [1]
 					"Main Spec", -- [2]
 					0, -- [3]
-					"Need", -- [4]
+					"need", -- [4]
 				}, -- [1]
 				{
 					true, -- [1]
 					"Off Spec", -- [2]
-					100, -- [3]
-					"Greed", -- [4]
+					90, -- [3]
+					"greed", -- [4]
 				}, -- [2]
 				{
 					true, -- [1]
@@ -57,8 +1044,8 @@ CEPGP = {
 				}, -- [3]
 				{
 					false, -- [1]
-					"-", -- [2]
-					0, -- [3]
+					"Disenchant", -- [2]
+					100, -- [3]
 					"Minor", -- [4]
 				}, -- [4]
 				{
@@ -73,11 +1060,15 @@ CEPGP = {
 				}, -- [6]
 			},
 		},
-		["MinThreshold"] = {
-			false, -- [1]
-			5, -- [2]
+		["ExtraKeywords"] = {
+			["Keywords"] = {
+			},
 		},
+		["ShowPass"] = false,
+		["DelayResponses"] = false,
 		["ResolveRolls"] = false,
+		["MinThreshold"] = 4,
+		["AutoSort"] = true,
 	},
 	["PollRate"] = 0.0001,
 	["Traffic"] = {
@@ -15031,7 +16022,7 @@ CEPGP = {
 			}, -- [41]
 		}, -- [2]
 	},
-	["Channel"] = "Raid",
+	["LootChannel"] = "Raid",
 	["GP"] = {
 		["Min"] = 50,
 		["Mod"] = 1,
@@ -15078,6 +16069,11 @@ CEPGP = {
 		["Shadosstrike"] = 1,
 		["|cffa335ee|Hitem:17077:::::::::::::|h[Crimson Shocker]|h|r"] = 1,
 	},
+	["Channel"] = "Raid",
+	["Sync"] = {
+		true, -- [1]
+		2, -- [2]
+	},
 	["EP"] = {
 		["BossEP"] = {
 			["High Priestess Jeklik"] = 2,
@@ -15108,17 +16104,17 @@ CEPGP = {
 			["Ebonroc"] = 7,
 			["Heigan the Unclean"] = 12,
 			["Azuregos"] = 7,
-			["Gahz'ranka"] = 2,
+			["Gluth"] = 12,
 			["Baron Geddon"] = "1",
 			["Sulfuron Harbinger"] = "1",
-			["High Priestess Arlokk"] = 2,
-			["Edge of Madness"] = 2,
-			["Firemaw"] = 7,
-			["Chromaggus"] = 7,
-			["Gluth"] = 12,
 			["Onyxia"] = 5,
+			["Edge of Madness"] = 2,
+			["Bloodlord Mandokir"] = 2,
+			["Chromaggus"] = 7,
 			["The Twin Emperors"] = 10,
 			["Ouro"] = 10,
+			["Sapphiron"] = 15,
+			["High Priestess Arlokk"] = 2,
 			["Shazzrah"] = "1",
 			["Lord Kazzak"] = 7,
 			["Battleguard Sartura"] = 10,
@@ -15130,55 +16126,55 @@ CEPGP = {
 			["Anub'Rekhan"] = 12,
 			["Ragnaros"] = "6",
 			["Kurinnaxx"] = 3,
-			["Maexxna"] = 15,
 			["Broodlord Lashlayer"] = 7,
 			["Hakkar"] = 3,
+			["Maexxna"] = 15,
 			["The Four Horsemen"] = 15,
 			["Viscidus"] = 10,
 			["Grobbulus"] = 12,
 			["Instructor Razuvious"] = 12,
 			["Emeriss"] = 7,
 			["Magmadar"] = "1",
-			["Vaelastrasz the Corrupt"] = 7,
+			["Firemaw"] = 7,
 			["Patchwerk"] = 12,
-			["Bloodlord Mandokir"] = 2,
-			["Sapphiron"] = 15,
+			["Gahz'ranka"] = 2,
+			["Vaelastrasz the Corrupt"] = 7,
 			["Jin'do the Hexxer"] = 2,
 			["Garr"] = "1",
 		},
 		["AutoAward"] = {
 			["Thaddius"] = true,
-			["Ouro"] = true,
+			["High Priestess Jeklik"] = true,
 			["Ragnaros"] = true,
 			["Ayamiss the Hunter"] = true,
 			["Buru the Gorger"] = true,
-			["Vaelastrasz the Corrupt"] = true,
-			["High Priestess Jeklik"] = true,
+			["Ysondre"] = true,
+			["Loatheb"] = true,
 			["Gothik the Harvester"] = true,
 			["Heigan the Unclean"] = true,
 			["Ebonroc"] = true,
 			["Kurinnaxx"] = true,
 			["Chromaggus"] = true,
-			["Loatheb"] = true,
+			["Ouro"] = true,
 			["Firemaw"] = true,
 			["Ossirian the Unscarred"] = true,
-			["Azuregos"] = true,
+			["Onyxia"] = true,
 			["High Priestess Mar'li"] = true,
 			["Golemagg the Incinerator"] = true,
-			["Flamegor"] = true,
-			["Onyxia"] = true,
+			["Maexxna"] = true,
 			["Grand Widow Faerlina"] = true,
+			["Azuregos"] = true,
 			["Baron Geddon"] = true,
-			["Lethon"] = true,
+			["Flamegor"] = true,
 			["High Priestess Arlokk"] = true,
 			["Gahz'ranka"] = true,
-			["The Four Horsemen"] = true,
-			["Majordomo Executus"] = true,
+			["Hakkar"] = true,
+			["Sulfuron Harbinger"] = true,
 			["Gehennas"] = true,
 			["Taerar"] = true,
-			["Ysondre"] = true,
+			["Vaelastrasz the Corrupt"] = true,
 			["High Priest Venoxis"] = true,
-			["Sulfuron Harbinger"] = true,
+			["Majordomo Executus"] = true,
 			["Viscidus"] = true,
 			["Razorgore the Untamed"] = true,
 			["Shazzrah"] = true,
@@ -15195,28 +16191,23 @@ CEPGP = {
 			["Kel'Thuzad"] = true,
 			["The Prophet Skeram"] = true,
 			["Bloodlord Mandokir"] = true,
-			["Hakkar"] = true,
+			["Broodlord Lashlayer"] = true,
 			["Gluth"] = true,
-			["Maexxna"] = true,
+			["Lethon"] = true,
 			["C'Thun"] = true,
 			["Instructor Razuvious"] = true,
 			["General Rajaxx"] = true,
 			["Magmadar"] = true,
 			["Princess Huhuran"] = true,
-			["Broodlord Lashlayer"] = true,
-			["Patchwerk"] = true,
 			["Sapphiron"] = true,
+			["Patchwerk"] = true,
 			["Emeriss"] = true,
+			["The Four Horsemen"] = true,
 			["Jin'do the Hexxer"] = true,
 			["Garr"] = true,
 		},
 		["Keyword"] = "!need",
 	},
-	["Sync"] = {
-		true, -- [1]
-		2, -- [2]
-	},
-	["LootChannel"] = "Raid",
 	["Backups"] = {
 		[""] = {
 			["Mcdaggerface-PyrewoodVillage"] = "0,25",
@@ -15340,20 +16331,20 @@ CEPGP = {
 			["Zeraal-PyrewoodVillage"] = "609,135",
 			["Orick-PyrewoodVillage"] = "0,25",
 			["Silia-PyrewoodVillage"] = "0,25",
-			["Humansource-PyrewoodVillage"] = "0,25",
+			["Fumblefinger-PyrewoodVillage"] = "598,116",
 			["Thri-PyrewoodVillage"] = "0,25",
 			["Phoenican-PyrewoodVillage"] = "0,25",
-			["Fumblefinger-PyrewoodVillage"] = "598,116",
-			["Qizy-PyrewoodVillage"] = "0,25",
-			["Arniya-PyrewoodVillage"] = "0,25",
 			["Drikkerikke-PyrewoodVillage"] = "0,25",
+			["Qizy-PyrewoodVillage"] = "0,25",
+			["Mizzuna-PyrewoodVillage"] = "0,25",
+			["Humansource-PyrewoodVillage"] = "0,25",
 			["Tuarlok-PyrewoodVillage"] = "376,62",
 			["Asteríx-PyrewoodVillage"] = "",
 			["Highlight-PyrewoodVillage"] = "0,25",
-			["Lylalia-PyrewoodVillage"] = "647,165",
-			["Hekxen-PyrewoodVillage"] = "0,25",
+			["Jnaas-PyrewoodVillage"] = "0,25",
+			["Aimar-PyrewoodVillage"] = "611,150",
 			["Maw-PyrewoodVillage"] = "0,25",
-			["Mcgrumpy-PyrewoodVillage"] = "652,81",
+			["Arniya-PyrewoodVillage"] = "0,25",
 			["Raptoxx-PyrewoodVillage"] = "0,25",
 			["Elyrias-PyrewoodVillage"] = "0,25",
 			["Deep-PyrewoodVillage"] = "20,25",
@@ -15362,35 +16353,35 @@ CEPGP = {
 			["Zraidryn-PyrewoodVillage"] = "0,25",
 			["Cantaim-PyrewoodVillage"] = "0,25",
 			["Runnerfox-PyrewoodVillage"] = "569,120",
-			["Iconbank-PyrewoodVillage"] = "0,25",
+			["Crittykat-PyrewoodVillage"] = "0,25",
 			["Diavel-PyrewoodVillage"] = "0,25",
 			["Slapster-PyrewoodVillage"] = "661,265",
-			["Zarz-PyrewoodVillage"] = "0,25",
+			["Palidine-PyrewoodVillage"] = "56,25",
 			["Sinsin-PyrewoodVillage"] = "7,25",
-			["Matrïx-PyrewoodVillage"] = "0,25",
+			["Lylalia-PyrewoodVillage"] = "647,165",
 			["Wittelsbach-PyrewoodVillage"] = "0,25",
 			["Blackmace-PyrewoodVillage"] = "546,147",
 			["Thymüs-PyrewoodVillage"] = "596,133",
 			["Crille-PyrewoodVillage"] = "506,208",
-			["Nexsia-PyrewoodVillage"] = "83,231",
+			["Ilia-PyrewoodVillage"] = "546,227",
 			["Runnerfoxx-PyrewoodVillage"] = "12,45",
-			["Stegger-PyrewoodVillage"] = "0,25",
+			["Hekxen-PyrewoodVillage"] = "0,25",
 			["Ursine-PyrewoodVillage"] = "0,25",
-			["Poisiana-PyrewoodVillage"] = "0,25",
+			["Iconbank-PyrewoodVillage"] = "0,25",
 			["Sparrow-PyrewoodVillage"] = "0,25",
 			["Rounded-PyrewoodVillage"] = "0,25",
 			["Nefrin-PyrewoodVillage"] = "0,25",
 			["Daparras-PyrewoodVillage"] = "0,25",
 			["Dohbank-PyrewoodVillage"] = "0,25",
-			["Ilia-PyrewoodVillage"] = "546,227",
+			["Elandrial-PyrewoodVillage"] = "634,183",
 			["Oldmanarnold-PyrewoodVillage"] = "0,25",
-			["Breetai-PyrewoodVillage"] = "0,25",
+			["Ragerider-PyrewoodVillage"] = "0,25",
 			["Sunnu-PyrewoodVillage"] = "0,25",
 			["Huntert-PyrewoodVillage"] = "22,60",
 			["Myaccountant-PyrewoodVillage"] = "14,117",
 			["Diavelu-PyrewoodVillage"] = "292,161",
-			["Aimar-PyrewoodVillage"] = "611,150",
-			["Crittykat-PyrewoodVillage"] = "0,25",
+			["Stegger-PyrewoodVillage"] = "0,25",
+			["Poisiana-PyrewoodVillage"] = "0,25",
 			["Shespy-PyrewoodVillage"] = "",
 			["Ciran-PyrewoodVillage"] = "669,127",
 			["Zacur-PyrewoodVillage"] = "558,83",
@@ -15403,25 +16394,25 @@ CEPGP = {
 			["Fionaa-PyrewoodVillage"] = "651,114",
 			["Hotpop-PyrewoodVillage"] = "0,25",
 			["Smækøl-PyrewoodVillage"] = "0,25",
-			["Elandrial-PyrewoodVillage"] = "634,183",
+			["Nexsia-PyrewoodVillage"] = "83,231",
 			["Skyggeuhygge-PyrewoodVillage"] = "0,25",
-			["Jnaas-PyrewoodVillage"] = "0,25",
+			["Matrïx-PyrewoodVillage"] = "0,25",
 			["Warlnicuz-PyrewoodVillage"] = "0,25",
-			["Ragerider-PyrewoodVillage"] = "0,25",
+			["Deepfel-PyrewoodVillage"] = "0,25",
 			["Badur-PyrewoodVillage"] = "0,25",
 			["Aldebaren-PyrewoodVillage"] = "627,69",
 			["Sinaya-PyrewoodVillage"] = "0,25",
 			["Nekromage-PyrewoodVillage"] = "24,48",
 			["Healbotone-PyrewoodVillage"] = "0,25",
-			["Deepfel-PyrewoodVillage"] = "0,25",
+			["Breetai-PyrewoodVillage"] = "0,25",
 			["Rememberme-PyrewoodVillage"] = "23,25",
 			["Advocado-PyrewoodVillage"] = "0,25",
 			["Enggaardk-PyrewoodVillage"] = "0,25",
-			["Palidine-PyrewoodVillage"] = "56,25",
+			["Didnthurt-PyrewoodVillage"] = "0,25",
 			["Yaliha-PyrewoodVillage"] = "7,32",
 			["Daleen-PyrewoodVillage"] = "22,39",
-			["Mizzuna-PyrewoodVillage"] = "0,25",
-			["Didnthurt-PyrewoodVillage"] = "0,25",
+			["Mcgrumpy-PyrewoodVillage"] = "652,81",
+			["Zarz-PyrewoodVillage"] = "0,25",
 			["Thymus-PyrewoodVillage"] = "64,25",
 			["Grovn-PyrewoodVillage"] = "0,25",
 			["Tâlpa-PyrewoodVillage"] = "0,25",
@@ -15527,14 +16518,14 @@ CEPGP = {
 			["Renpels-PyrewoodVillage"] = "0,25",
 			["Kassidy-PyrewoodVillage"] = "0,25",
 			["Rixi-PyrewoodVillage"] = "0,25",
-			["Halbera-PyrewoodVillage"] = "0,25",
+			["Gonzalesreek-PyrewoodVillage"] = "0,25",
 			["Aladiss-PyrewoodVillage"] = "0,25",
 			["Maxdude-PyrewoodVillage"] = "0,25",
 			["Skystrike-PyrewoodVillage"] = "480,135",
 			["Unclenecro-PyrewoodVillage"] = "554,223",
 			["Auras-PyrewoodVillage"] = "0,25",
 			["Applepot-PyrewoodVillage"] = "0,25",
-			["Hullo-PyrewoodVillage"] = "0,25",
+			["Halbera-PyrewoodVillage"] = "0,25",
 			["Ohéaly-PyrewoodVillage"] = "385,113",
 			["Gearup-PyrewoodVillage"] = "0,25",
 			["Pyanfar-PyrewoodVillage"] = "0,25",
@@ -15586,13 +16577,13 @@ CEPGP = {
 			["Phoenican-PyrewoodVillage"] = "0,25",
 			["Grumblegutt-PyrewoodVillage"] = "0,25",
 			["Knagerække-PyrewoodVillage"] = "0,25",
+			["Drikkerikke-PyrewoodVillage"] = "0,25",
 			["Humansource-PyrewoodVillage"] = "0,25",
-			["Fumblefinger-PyrewoodVillage"] = "514,94",
 			["Tuarlok-PyrewoodVillage"] = "449,86",
 			["Arniya-PyrewoodVillage"] = "0,25",
 			["Highlight-PyrewoodVillage"] = "0,25",
 			["Sinsin-PyrewoodVillage"] = "11,25",
-			["Zarz-PyrewoodVillage"] = "0,25",
+			["Palidine-PyrewoodVillage"] = "78,32",
 			["Maw-PyrewoodVillage"] = "0,25",
 			["Mcgrumpy-PyrewoodVillage"] = "588,75",
 			["Raptoxx-PyrewoodVillage"] = "0,25",
@@ -15602,24 +16593,24 @@ CEPGP = {
 			["Holleen-PyrewoodVillage"] = "0,25",
 			["Zraidryn-PyrewoodVillage"] = "0,25",
 			["Runnerfox-PyrewoodVillage"] = "506,104",
-			["Jnaas-PyrewoodVillage"] = "0,25",
+			["Lylalia-PyrewoodVillage"] = "580,179",
 			["Tourment-PyrewoodVillage"] = "0,25",
 			["Breetai-PyrewoodVillage"] = "0,25",
 			["Slapster-PyrewoodVillage"] = "601,212",
-			["Didnthurt-PyrewoodVillage"] = "0,25",
+			["Zarz-PyrewoodVillage"] = "0,25",
 			["Sinaya-PyrewoodVillage"] = "0,25",
-			["Aldebaren-PyrewoodVillage"] = "580,96",
-			["Ciran-PyrewoodVillage"] = "612,57",
+			["Rounded-PyrewoodVillage"] = "0,25",
+			["Sparrow-PyrewoodVillage"] = "0,25",
 			["Blackmace-PyrewoodVillage"] = "443,204",
 			["Thymüs-PyrewoodVillage"] = "511,135",
 			["Huntert-PyrewoodVillage"] = "0,25",
-			["Stegger-PyrewoodVillage"] = "",
+			["Aimar-PyrewoodVillage"] = "530,164",
 			["Runnerfoxx-PyrewoodVillage"] = "16,25",
 			["Poisiana-PyrewoodVillage"] = "0,25",
 			["Ursine-PyrewoodVillage"] = "0,25",
-			["Rounded-PyrewoodVillage"] = "0,25",
+			["Skyggeuhygge-PyrewoodVillage"] = "0,25",
 			["Ilia-PyrewoodVillage"] = "524,207",
-			["Aimar-PyrewoodVillage"] = "530,164",
+			["Hekxen-PyrewoodVillage"] = "0,25",
 			["Nefrin-PyrewoodVillage"] = "0,25",
 			["Daparras-PyrewoodVillage"] = "0,25",
 			["Dohbank-PyrewoodVillage"] = "0,25",
@@ -15630,23 +16621,23 @@ CEPGP = {
 			["Warlnicuz-PyrewoodVillage"] = "0,25",
 			["Sunnu-PyrewoodVillage"] = "0,25",
 			["Diavelu-PyrewoodVillage"] = "94,25",
-			["Hekxen-PyrewoodVillage"] = "0,25",
+			["Stegger-PyrewoodVillage"] = "",
 			["Crittykat-PyrewoodVillage"] = "0,25",
 			["Lutzow-PyrewoodVillage"] = "0,25",
-			["Lylalia-PyrewoodVillage"] = "580,179",
+			["Matrïx-PyrewoodVillage"] = "0,25",
 			["Zacur-PyrewoodVillage"] = "465,50",
 			["Grumbleknott-PyrewoodVillage"] = "0,25",
 			["Daphreen-PyrewoodVillage"] = "0,25",
 			["Delmoren-PyrewoodVillage"] = "0,25",
 			["Softball-PyrewoodVillage"] = "0,25",
 			["Moffe-PyrewoodVillage"] = "193,27",
-			["Matrïx-PyrewoodVillage"] = "0,25",
+			["Ciran-PyrewoodVillage"] = "612,57",
 			["Bellus-PyrewoodVillage"] = "0,25",
 			["Hotpop-PyrewoodVillage"] = "0,25",
 			["Smækøl-PyrewoodVillage"] = "0,25",
 			["Elandrial-PyrewoodVillage"] = "563,154",
-			["Skyggeuhygge-PyrewoodVillage"] = "0,25",
-			["Sparrow-PyrewoodVillage"] = "0,25",
+			["Aldebaren-PyrewoodVillage"] = "580,96",
+			["Jnaas-PyrewoodVillage"] = "0,25",
 			["Ragerider-PyrewoodVillage"] = "0,25",
 			["Crille-PyrewoodVillage"] = "417,199",
 			["Badur-PyrewoodVillage"] = "",
@@ -15654,7 +16645,7 @@ CEPGP = {
 			["Wittelsbach-PyrewoodVillage"] = "0,25",
 			["Nekromage-PyrewoodVillage"] = "0,25",
 			["Healbotone-PyrewoodVillage"] = "0,25",
-			["Palidine-PyrewoodVillage"] = "78,32",
+			["Didnthurt-PyrewoodVillage"] = "0,25",
 			["Rememberme-PyrewoodVillage"] = "16,25",
 			["Advocado-PyrewoodVillage"] = "0,25",
 			["Enggaardk-PyrewoodVillage"] = "0,25",
@@ -15662,7 +16653,7 @@ CEPGP = {
 			["Yaliha-PyrewoodVillage"] = "11,45",
 			["Daleen-PyrewoodVillage"] = "0,25",
 			["Mizzuna-PyrewoodVillage"] = "0,25",
-			["Drikkerikke-PyrewoodVillage"] = "0,25",
+			["Fumblefinger-PyrewoodVillage"] = "514,94",
 			["Thymus-PyrewoodVillage"] = "89,25",
 			["Grovn-PyrewoodVillage"] = "0,25",
 			["Tâlpa-PyrewoodVillage"] = "0,25",
@@ -15688,7 +16679,7 @@ CEPGP = {
 			["Casmus-PyrewoodVillage"] = "0,25",
 			["Norrgard-PyrewoodVillage"] = "0,25",
 			["Telyah-PyrewoodVillage"] = "0,25",
-			["Gonzalesreek-PyrewoodVillage"] = "0,25",
+			["Hullo-PyrewoodVillage"] = "0,25",
 			["Zarrlock-PyrewoodVillage"] = "0,25",
 			["Irememberyou-PyrewoodVillage"] = "0,25",
 			["Vulnus-PyrewoodVillage"] = "96,64",
@@ -15960,13 +16951,13 @@ CEPGP = {
 			["Xeih-PyrewoodVillage"] = "0,1",
 			["Ðíor-PyrewoodVillage"] = "0,1",
 			["Sezzo-PyrewoodVillage"] = "0,1",
-			["Fionaa-PyrewoodVillage"] = "61,29",
+			["Gefion-PyrewoodVillage"] = "0,1",
 			["Fedtmule-PyrewoodVillage"] = "0,1",
 			["Aeih-PyrewoodVillage"] = "68,69",
 			["Nefrin-PyrewoodVillage"] = "0,1",
 			["Emeles-PyrewoodVillage"] = "0,1",
 			["Crille-PyrewoodVillage"] = "0,1",
-			["Gefion-PyrewoodVillage"] = "0,1",
+			["Buario-PyrewoodVillage"] = "0,1",
 			["Oldmanarnold-PyrewoodVillage"] = "0,1",
 			["Ragerider-PyrewoodVillage"] = "0,1",
 			["Ris-PyrewoodVillage"] = "0,1",
@@ -15984,7 +16975,7 @@ CEPGP = {
 			["Softball-PyrewoodVillage"] = "0,1",
 			["Pampers-PyrewoodVillage"] = "0,1",
 			["Hightower-PyrewoodVillage"] = "",
-			["Buario-PyrewoodVillage"] = "0,1",
+			["Fionaa-PyrewoodVillage"] = "61,29",
 			["Hotpop-PyrewoodVillage"] = "0,1",
 			["Smækøl-PyrewoodVillage"] = "0,1",
 			["Ilia-PyrewoodVillage"] = "29,1",
@@ -16044,7 +17035,7 @@ CEPGP = {
 			["Achernar-PyrewoodVillage"] = "0,1",
 		},
 	},
-	["ChangelogVersion"] = "1.12.24",
+	["ChangelogVersion"] = "1.12.25",
 }
 CHANNEL = "Raid"
 CEPGP_lootChannel = "Raid"
@@ -16083,18 +17074,18 @@ AUTOEP = {
 	["Heigan the Unclean"] = true,
 	["Lord Kazzak"] = true,
 	["Onyxia"] = true,
-	["Sapphiron"] = true,
-	["Baron Geddon"] = true,
-	["High Priestess Arlokk"] = true,
-	["Edge of Madness"] = true,
-	["The Twin Emperors"] = true,
-	["Chromaggus"] = true,
 	["Azuregos"] = true,
-	["Firemaw"] = true,
-	["Ragnaros"] = true,
-	["Vaelastrasz the Corrupt"] = true,
-	["Shazzrah"] = true,
+	["Baron Geddon"] = true,
 	["Sulfuron Harbinger"] = true,
+	["Edge of Madness"] = true,
+	["Bloodlord Mandokir"] = true,
+	["Chromaggus"] = true,
+	["Vaelastrasz the Corrupt"] = true,
+	["The Twin Emperors"] = true,
+	["Sapphiron"] = true,
+	["Gluth"] = true,
+	["Shazzrah"] = true,
+	["Gahz'ranka"] = true,
 	["Battleguard Sartura"] = true,
 	["Razorgore the Untamed"] = true,
 	["Kel'Thuzad"] = true,
@@ -16104,19 +17095,19 @@ AUTOEP = {
 	["Anub'Rekhan"] = true,
 	["Kurinnaxx"] = true,
 	["Viscidus"] = true,
-	["Hakkar"] = true,
 	["Broodlord Lashlayer"] = true,
 	["Maexxna"] = true,
+	["Hakkar"] = true,
 	["The Four Horsemen"] = true,
 	["Ouro"] = true,
 	["Grobbulus"] = true,
 	["Instructor Razuvious"] = true,
 	["Emeriss"] = true,
 	["Magmadar"] = true,
-	["Bloodlord Mandokir"] = true,
+	["High Priestess Arlokk"] = true,
 	["Patchwerk"] = true,
-	["Gahz'ranka"] = true,
-	["Gluth"] = true,
+	["Ragnaros"] = true,
+	["Firemaw"] = true,
 	["Jin'do the Hexxer"] = true,
 	["Garr"] = true,
 }
@@ -16152,18 +17143,18 @@ EPVALS = {
 	["Heigan the Unclean"] = 12,
 	["Lord Kazzak"] = 7,
 	["Onyxia"] = 5,
-	["Sapphiron"] = 15,
-	["Baron Geddon"] = "1",
-	["High Priestess Arlokk"] = 2,
-	["Edge of Madness"] = 2,
-	["The Twin Emperors"] = 10,
-	["Chromaggus"] = 7,
 	["Azuregos"] = 7,
-	["Firemaw"] = 7,
-	["Ragnaros"] = "6",
-	["Vaelastrasz the Corrupt"] = 7,
-	["Shazzrah"] = "1",
+	["Baron Geddon"] = "1",
 	["Sulfuron Harbinger"] = "1",
+	["Edge of Madness"] = 2,
+	["Bloodlord Mandokir"] = 2,
+	["Chromaggus"] = 7,
+	["Vaelastrasz the Corrupt"] = 7,
+	["The Twin Emperors"] = 10,
+	["Sapphiron"] = 15,
+	["Gluth"] = 12,
+	["Shazzrah"] = "1",
+	["Gahz'ranka"] = 2,
 	["Battleguard Sartura"] = 10,
 	["Razorgore the Untamed"] = 7,
 	["Kel'Thuzad"] = 15,
@@ -16173,19 +17164,19 @@ EPVALS = {
 	["Anub'Rekhan"] = 12,
 	["Kurinnaxx"] = 3,
 	["Viscidus"] = 10,
-	["Hakkar"] = 3,
 	["Broodlord Lashlayer"] = 7,
 	["Maexxna"] = 15,
+	["Hakkar"] = 3,
 	["The Four Horsemen"] = 15,
 	["Ouro"] = 10,
 	["Grobbulus"] = 12,
 	["Instructor Razuvious"] = 12,
 	["Emeriss"] = 7,
 	["Magmadar"] = "1",
-	["Bloodlord Mandokir"] = 2,
+	["High Priestess Arlokk"] = 2,
 	["Patchwerk"] = 12,
-	["Gahz'ranka"] = 2,
-	["Gluth"] = 12,
+	["Ragnaros"] = "6",
+	["Firemaw"] = 7,
 	["Jin'do the Hexxer"] = 2,
 	["Garr"] = "1",
 }
@@ -16462,8 +17453,8 @@ RECORDS = {
 		["Diavelu-PyrewoodVillage"] = "570,126",
 		["Hekxen-PyrewoodVillage"] = "0,50",
 		["Poisiana-PyrewoodVillage"] = "0,50",
+		["Jnaas-PyrewoodVillage"] = "0,50",
 		["Sparrow-PyrewoodVillage"] = "0,50",
-		["Lylalia-PyrewoodVillage"] = "726,140",
 		["Zacur-PyrewoodVillage"] = "640,66",
 		["Sunnu-PyrewoodVillage"] = "0,50",
 		["Talpá-PyrewoodVillage"] = "0,50",
@@ -16515,7 +17506,7 @@ RECORDS = {
 		["Ícon-PyrewoodVillage"] = "684,75",
 		["Ulrikka-PyrewoodVillage"] = "0,50",
 		["Unclenecro-PyrewoodVillage"] = "656,106",
-		["Jnaas-PyrewoodVillage"] = "0,50",
+		["Lylalia-PyrewoodVillage"] = "726,140",
 		["Renpels-PyrewoodVillage"] = "0,50",
 		["Gaffeltastic-PyrewoodVillage"] = "",
 		["Zacharias-PyrewoodVillage"] = "0,50",
@@ -16598,14 +17589,14 @@ RECORDS = {
 		["Renpels-PyrewoodVillage"] = "0,25",
 		["Kassidy-PyrewoodVillage"] = "0,25",
 		["Rixi-PyrewoodVillage"] = "0,25",
-		["Halbera-PyrewoodVillage"] = "0,25",
+		["Gonzalesreek-PyrewoodVillage"] = "0,25",
 		["Aladiss-PyrewoodVillage"] = "0,25",
 		["Maxdude-PyrewoodVillage"] = "0,25",
 		["Skystrike-PyrewoodVillage"] = "480,135",
 		["Unclenecro-PyrewoodVillage"] = "554,223",
 		["Auras-PyrewoodVillage"] = "0,25",
 		["Applepot-PyrewoodVillage"] = "0,25",
-		["Hullo-PyrewoodVillage"] = "0,25",
+		["Halbera-PyrewoodVillage"] = "0,25",
 		["Ohéaly-PyrewoodVillage"] = "385,113",
 		["Gearup-PyrewoodVillage"] = "0,25",
 		["Pyanfar-PyrewoodVillage"] = "0,25",
@@ -16657,13 +17648,13 @@ RECORDS = {
 		["Phoenican-PyrewoodVillage"] = "0,25",
 		["Grumblegutt-PyrewoodVillage"] = "0,25",
 		["Knagerække-PyrewoodVillage"] = "0,25",
+		["Drikkerikke-PyrewoodVillage"] = "0,25",
 		["Humansource-PyrewoodVillage"] = "0,25",
-		["Fumblefinger-PyrewoodVillage"] = "514,94",
 		["Tuarlok-PyrewoodVillage"] = "449,86",
 		["Arniya-PyrewoodVillage"] = "0,25",
 		["Highlight-PyrewoodVillage"] = "0,25",
 		["Sinsin-PyrewoodVillage"] = "11,25",
-		["Zarz-PyrewoodVillage"] = "0,25",
+		["Palidine-PyrewoodVillage"] = "78,32",
 		["Maw-PyrewoodVillage"] = "0,25",
 		["Mcgrumpy-PyrewoodVillage"] = "588,75",
 		["Raptoxx-PyrewoodVillage"] = "0,25",
@@ -16673,24 +17664,24 @@ RECORDS = {
 		["Holleen-PyrewoodVillage"] = "0,25",
 		["Zraidryn-PyrewoodVillage"] = "0,25",
 		["Runnerfox-PyrewoodVillage"] = "506,104",
-		["Jnaas-PyrewoodVillage"] = "0,25",
+		["Lylalia-PyrewoodVillage"] = "580,179",
 		["Tourment-PyrewoodVillage"] = "0,25",
 		["Breetai-PyrewoodVillage"] = "0,25",
 		["Slapster-PyrewoodVillage"] = "601,212",
-		["Didnthurt-PyrewoodVillage"] = "0,25",
+		["Zarz-PyrewoodVillage"] = "0,25",
 		["Sinaya-PyrewoodVillage"] = "0,25",
-		["Aldebaren-PyrewoodVillage"] = "580,96",
-		["Ciran-PyrewoodVillage"] = "612,57",
+		["Rounded-PyrewoodVillage"] = "0,25",
+		["Sparrow-PyrewoodVillage"] = "0,25",
 		["Blackmace-PyrewoodVillage"] = "443,204",
 		["Thymüs-PyrewoodVillage"] = "511,135",
 		["Huntert-PyrewoodVillage"] = "0,25",
-		["Stegger-PyrewoodVillage"] = "",
+		["Aimar-PyrewoodVillage"] = "530,164",
 		["Runnerfoxx-PyrewoodVillage"] = "16,25",
 		["Poisiana-PyrewoodVillage"] = "0,25",
 		["Ursine-PyrewoodVillage"] = "0,25",
-		["Rounded-PyrewoodVillage"] = "0,25",
+		["Skyggeuhygge-PyrewoodVillage"] = "0,25",
 		["Ilia-PyrewoodVillage"] = "524,207",
-		["Aimar-PyrewoodVillage"] = "530,164",
+		["Hekxen-PyrewoodVillage"] = "0,25",
 		["Nefrin-PyrewoodVillage"] = "0,25",
 		["Daparras-PyrewoodVillage"] = "0,25",
 		["Dohbank-PyrewoodVillage"] = "0,25",
@@ -16701,23 +17692,23 @@ RECORDS = {
 		["Warlnicuz-PyrewoodVillage"] = "0,25",
 		["Sunnu-PyrewoodVillage"] = "0,25",
 		["Diavelu-PyrewoodVillage"] = "94,25",
-		["Hekxen-PyrewoodVillage"] = "0,25",
+		["Stegger-PyrewoodVillage"] = "",
 		["Crittykat-PyrewoodVillage"] = "0,25",
 		["Lutzow-PyrewoodVillage"] = "0,25",
-		["Lylalia-PyrewoodVillage"] = "580,179",
+		["Matrïx-PyrewoodVillage"] = "0,25",
 		["Zacur-PyrewoodVillage"] = "465,50",
 		["Grumbleknott-PyrewoodVillage"] = "0,25",
 		["Daphreen-PyrewoodVillage"] = "0,25",
 		["Delmoren-PyrewoodVillage"] = "0,25",
 		["Softball-PyrewoodVillage"] = "0,25",
 		["Moffe-PyrewoodVillage"] = "193,27",
-		["Matrïx-PyrewoodVillage"] = "0,25",
+		["Ciran-PyrewoodVillage"] = "612,57",
 		["Bellus-PyrewoodVillage"] = "0,25",
 		["Hotpop-PyrewoodVillage"] = "0,25",
 		["Smækøl-PyrewoodVillage"] = "0,25",
 		["Elandrial-PyrewoodVillage"] = "563,154",
-		["Skyggeuhygge-PyrewoodVillage"] = "0,25",
-		["Sparrow-PyrewoodVillage"] = "0,25",
+		["Aldebaren-PyrewoodVillage"] = "580,96",
+		["Jnaas-PyrewoodVillage"] = "0,25",
 		["Ragerider-PyrewoodVillage"] = "0,25",
 		["Crille-PyrewoodVillage"] = "417,199",
 		["Badur-PyrewoodVillage"] = "",
@@ -16725,7 +17716,7 @@ RECORDS = {
 		["Wittelsbach-PyrewoodVillage"] = "0,25",
 		["Nekromage-PyrewoodVillage"] = "0,25",
 		["Healbotone-PyrewoodVillage"] = "0,25",
-		["Palidine-PyrewoodVillage"] = "78,32",
+		["Didnthurt-PyrewoodVillage"] = "0,25",
 		["Rememberme-PyrewoodVillage"] = "16,25",
 		["Advocado-PyrewoodVillage"] = "0,25",
 		["Enggaardk-PyrewoodVillage"] = "0,25",
@@ -16733,7 +17724,7 @@ RECORDS = {
 		["Yaliha-PyrewoodVillage"] = "11,45",
 		["Daleen-PyrewoodVillage"] = "0,25",
 		["Mizzuna-PyrewoodVillage"] = "0,25",
-		["Drikkerikke-PyrewoodVillage"] = "0,25",
+		["Fumblefinger-PyrewoodVillage"] = "514,94",
 		["Thymus-PyrewoodVillage"] = "89,25",
 		["Grovn-PyrewoodVillage"] = "0,25",
 		["Tâlpa-PyrewoodVillage"] = "0,25",
@@ -16759,7 +17750,7 @@ RECORDS = {
 		["Casmus-PyrewoodVillage"] = "0,25",
 		["Norrgard-PyrewoodVillage"] = "0,25",
 		["Telyah-PyrewoodVillage"] = "0,25",
-		["Gonzalesreek-PyrewoodVillage"] = "0,25",
+		["Hullo-PyrewoodVillage"] = "0,25",
 		["Zarrlock-PyrewoodVillage"] = "0,25",
 		["Irememberyou-PyrewoodVillage"] = "0,25",
 		["Vulnus-PyrewoodVillage"] = "96,64",
@@ -17031,13 +18022,13 @@ RECORDS = {
 		["Xeih-PyrewoodVillage"] = "0,1",
 		["Ðíor-PyrewoodVillage"] = "0,1",
 		["Sezzo-PyrewoodVillage"] = "0,1",
-		["Fionaa-PyrewoodVillage"] = "61,29",
+		["Gefion-PyrewoodVillage"] = "0,1",
 		["Fedtmule-PyrewoodVillage"] = "0,1",
 		["Aeih-PyrewoodVillage"] = "68,69",
 		["Nefrin-PyrewoodVillage"] = "0,1",
 		["Emeles-PyrewoodVillage"] = "0,1",
 		["Crille-PyrewoodVillage"] = "0,1",
-		["Gefion-PyrewoodVillage"] = "0,1",
+		["Buario-PyrewoodVillage"] = "0,1",
 		["Oldmanarnold-PyrewoodVillage"] = "0,1",
 		["Ragerider-PyrewoodVillage"] = "0,1",
 		["Ris-PyrewoodVillage"] = "0,1",
@@ -17055,7 +18046,7 @@ RECORDS = {
 		["Softball-PyrewoodVillage"] = "0,1",
 		["Pampers-PyrewoodVillage"] = "0,1",
 		["Hightower-PyrewoodVillage"] = "",
-		["Buario-PyrewoodVillage"] = "0,1",
+		["Fionaa-PyrewoodVillage"] = "61,29",
 		["Hotpop-PyrewoodVillage"] = "0,1",
 		["Smækøl-PyrewoodVillage"] = "0,1",
 		["Ilia-PyrewoodVillage"] = "29,1",
